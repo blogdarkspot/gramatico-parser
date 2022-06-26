@@ -1,0 +1,12 @@
+.venv
+.cache/*
+build/*
+data/*.dic
+compile_commands.json
+delaf_linux.dic
+*.cg
+*.so
+data/*.xml
+*.gz
+*.vs
+*.vscode
