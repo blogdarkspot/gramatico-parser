@@ -1,0 +1,2 @@
+add_executable(probank_parser)
+target_sources(probank_parser PRIVATE probank_parser.cpp)

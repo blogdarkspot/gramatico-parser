@@ -1,0 +1,5783 @@
+adjp -> >A H 
+np -> H >N 
+vp -> Vm 
+vp -> VAUX MV 
+np -> >N H 
+icl -> P ACC 
+pp -> H P< 
+fcl -> PU SUBJ P PIV 
+s -> STA 
+np -> H N< 
+cp -> H 
+np -> H 
+advp -> H 
+np -> >N >N H 
+fcl -> SUBJ ADVL P ACC 
+np -> >N >N H N< 
+advp -> H A< 
+fcl -> SUB SUBJ P SA ADVL ADVL ADVL 
+fcl -> PU SUBJ P ACC 
+advp -> P ACC 
+np -> H PU PU APP 
+fcl -> ADVL P ADVL ACC 
+np -> >N H PU N< 
+np -> >N H N< 
+par -> CJT CO CJT 
+fcl -> PU PASS PU ADVL SUBJ P PASS 
+fcl -> >N SUB ADVL SUBJ P 
+adjp -> H N< ADVL 
+fcl -> PU SUBJ P ACC ACC 
+icl -> P PASS 
+icl -> PU PU PRED P ACC 
+s -> UTT 
+np -> >N H CO 
+icl -> P PASS PASS 
+advp -> PU SUBJ P ACC OC 
+icl -> P ACC ADVL 
+fcl -> PU PU ADVL P ACC PIV 
+icl -> >N P ACC 
+icl -> P ADVL ACC ADVL 
+fcl -> SUBJ PAUX AUX< 
+fcl -> PU PU PU PU ACC P SUBJ 
+par -> CJT CJT 
+np -> >N >N >N H 
+icl -> P ADVL ACC 
+fcl -> PU SUBJ P ADVL ACC 
+np -> H N< N< 
+np -> >N H N< N< 
+fcl -> SUB SUBJ P PIV ADVL 
+fcl -> PU PU ADVL P SUBJ 
+adjp -> H 
+icl -> ADVL P ADVL 
+icl -> P SC 
+adjp -> H A< 
+fcl -> SUB SUBJ P ACC 
+fcl -> PU PU SUBJ P ACC ADVL ADVL 
+pp -> H PU P< 
+fcl -> SUB ADVL P ACC 
+fcl -> PU SUBJ ADVL P SC ADVL 
+adjp -> >N H PU N< 
+adjp -> H N< 
+fcl -> PU ADVL SUBJ P PASS 
+adjp -> >N H 
+fcl -> SUBJ P ACC ADVL 
+fcl -> PU PU PU ADVL ADVL SUBJ P PASS 
+vp -> VAUX VAUX 
+vp -> MV 
+fcl -> PU >A PU SUBJ SUBJ P P PASS 
+s -> QUE 
+fcl -> PU SUBJ P ACC OC 
+adjp -> H PU N< 
+np -> H PU N<PRED 
+fcl -> ADVL P PASS 
+fcl -> PU PU PU PU SUBJ P SC SA ADVL ADVL ADVL 
+fcl -> ADVL SUBJ P ACC 
+np -> H PU PU QUE 
+s -> NPHR 
+par -> PU CJT CJT 
+fcl -> PU SUBJ P ADVL ACC ADVL 
+icl -> P ACC ADVL PRED 
+fcl -> DAT ACC ADVL P ADVL 
+par -> PU CJT CO CJT 
+fcl -> SUB P ACC PIV 
+fcl -> PU PU SUBJ P SC ADVL 
+fcl -> PU PU SUBJ PRED P 
+par -> PU CJT CJT CJT 
+x -> SUB SUBJ 
+vp -> VAUX VAUX MV 
+cp -> H ADVL P ADVL ADVL 
+par -> PU CJT CJT CO 
+icl -> P ADVL 
+np -> H >N N< 
+fcl -> PU PU SUBJ ADVL P ACC 
+fcl -> PU PU PU ADVL P ACC 
+fcl -> PU ACC ADVL P OC 
+np -> >N H N< PU N< 
+par -> PU CJT CJT CJT CO CJT 
+fcl -> PU PU PU PU SUBJ ADVL P ACC 
+np -> >N H PU APP 
+fcl -> SUBJ P ADVL 
+fcl -> P SC 
+x -> P ACC ADVL 
+par -> PU PU PU CJT CJT 
+par -> CJT 
+np -> >N PU H >N 
+advp -> H CJT 
+icl -> PU PU PU ADVL P ACC ADVL ADVL 
+fcl -> PU PU PU ADVL ADVL P ACC-PASS ADVL SUBJ ADVL 
+fcl -> SUB SUBJ P SA ACC 
+fcl -> SUBJ SUBJ P ACC 
+x -> P ADVL 
+fcl -> PU CO SUBJ P ACC 
+pp -> H >P P< 
+fcl -> PU PU ADVL SUBJ P ACC ADVL 
+np -> >N H PU N<PRED 
+icl -> PU P PRED ACC 
+fcl -> PU PU PU SUBJ P ACC PIV PRED ADVL ADVL 
+pp -> H >N P< 
+fcl -> SUBJ P ACC 
+np -> H PU N< 
+fcl -> PU PU PU ADVL SUBJ P ACC OC ADVL 
+icl -> P SA 
+advp -> H N<PRED 
+icl -> PU P ACC ADVL 
+x -> P ADVL ADVL 
+np -> H PU PU N<PRED 
+np -> H N<PRED 
+np -> >N H PU PU N<PRED 
+fcl -> PU PU ADVL P ADVL ADVL 
+fcl -> PU PU PU PU ADVL SUBJ ADVL ADVL P PIV 
+np -> >N >N H PU PU N<PRED 
+fcl -> PU PU PU SUBJ P ADVL ADVL 
+fcl -> PU SUBJ SUBJ P SC ADVL 
+fcl -> SUBJ P ADVL ADVL 
+par -> PU PU CJT CJT CO CJT 
+fcl -> PU PU SUBJ SUBJ P SC ADVL ADVL 
+vp -> VAUX PRT-AUX MV 
+fcl -> PU PU SUBJ ADVL P ACC ADVL 
+np -> >N PU H 
+fcl -> PU PU PU P ADVL ACC ADVL 
+icl -> P SC ADVL 
+fcl -> SUB P ACC 
+fcl -> PU SUBJ P PIV ACC 
+fcl -> SUB 
+icl -> SUBJ 
+np -> N< 
+cp -> H H N< P PASS 
+par -> CJT CJT CO 
+fcl -> PU PRED SUBJ P ACC 
+fcl -> SA P SC 
+fcl -> PU PU PU PU PU PU SUBJ ADVL P ADVL ADVL ADVL ADVL ADVL 
+np -> H PU APP 
+np -> H PU PU PU APP CO FOC 
+fcl -> PU PU PU PU PU PU PU PU PU PU PU SUBJ P ACC ADVL ADVL ADVL 
+fcl -> ADVL P SUBJ PRED PRED 
+fcl -> PU SUBJ P ADVL 
+pp -> >N H P< 
+fcl -> PU PU PU PU SUBJ SC P ADVL ADVL 
+x -> P SC 
+fcl -> PU PU ADVL P ADVL SUBJ 
+icl -> P PIV 
+fcl -> PU PU ADVL SUBJ P ADVL ACC 
+fcl -> SUB SUBJ P PIV 
+fcl -> PU SUB SUBJ P ACC ADVL 
+fcl -> PU PU PU ADVL SUBJ P ACC 
+fcl -> SUBJ P PIV 
+np -> >N H PU N< APP 
+advp -> P ACC ADVL ADVL 
+np -> H CO 
+x -> N< P ACC SUBJ 
+np -> >N >N H PU 
+x -> SUBJ P ADVL ACC 
+x -> ADVL P ACC ADVL 
+fcl -> PU ADVL X 
+fcl -> ADVL SUBJ ADVL ADVL P ACC 
+np -> >N >N H PU N< 
+fcl -> PU SUBJ P SC 
+fcl -> SUB SUBJ P 
+fcl -> PU PU ADVL SUBJ P ACC 
+advp -> H CO 
+fcl -> SUB SUBJ ACC P PIV 
+fcl -> PU PU PU PU CO ADVL ADVL P ADVL ACC 
+fcl -> PU ADVL P ADVL SUBJ ADVL 
+np -> >N H PU N<PRED PU 
+fcl -> ADVL SUBJ ADVL P ACC ADVL ADVL 
+np -> >N >N H PU ADVL 
+par -> PU PU CJT CJT 
+s -> ADVL 
+fcl -> PU CO SUBJ P SC ADVL 
+advp -> PU ADVL P SA 
+fcl -> ACC SUBJ P ADVL 
+x -> P ACC SUBJ 
+fcl -> PU PU ADVL P SC SUBJ 
+fcl -> PU PU PU SUBJ SUBJ P SC PASS ADVL 
+fcl -> SUBJ ADVL P ACC ADVL 
+fcl -> ADVL SUBJ P 
+advp -> H PU ADVL ADVL 
+x -> P ACC PIV 
+par -> PU PU CJT CO CJT CJT 
+icl -> PU ADVL PAUX 
+icl -> P ADVL ADVL 
+np -> H N< CO CJT 
+fcl -> PU PU SUBJ P AUX< SUBJ 
+icl -> >A P PASS 
+fcl -> PU PU PRED SUBJ P PASS 
+fcl -> PU SUB P ADVL ACC ADVL 
+icl -> SUBJ P ACC 
+fcl -> SUB P ACC ADVL 
+x -> SUBJ P ACC 
+fcl -> SUB SUBJ 
+pp -> H P< CO CJT 
+icl -> PU PU PU P ADVL ADVL ACC ADVL NUM< 
+np -> H ADVL P ACC ADVL 
+fcl -> PU SC P SUBJ 
+advp -> P ACC ADVL 
+fcl -> PU PU PU ADVL P ACC ADVL ADVL 
+par -> PU PU CJT CJT CJT 
+fcl -> PU ADVL SUBJ 
+icl -> P ACC PIV 
+np -> H P ACC ADVL 
+icl -> P ACC PRED 
+fcl -> SUB SUBJ ADVL P ACC ADVL 
+fcl -> PU PU SUBJ P ACC 
+fcl -> PU PU PU ADVL SUBJ P ACC ADVL ADVL PRED 
+fcl -> PU PU PU ADVL P ADVL ADVL ADVL ADVL ADVL 
+icl -> PU P ADVL ADVL ADVL 
+icl -> ADVL P ACC 
+pp -> H PU PU PU P< P< STA 
+icl -> PU PU CO P ACC PIV ADVL 
+par -> PU PU PU CJT CJT CJT CJT CO CJT 
+np -> >N >N H N< N< 
+fcl -> PU SUBJ P ACC PIV 
+np -> >N H N< PU N<PRED 
+fcl -> PU PU PU ADVL SUBJ P ACC ADVL ADVL ADVL 
+fcl -> SUB SUBJ ADVL P ACC 
+fcl -> PU PU SUB SUBJ P ADVL ACC 
+x -> P ADVL ADVL ADVL ACC 
+fcl -> PU PU ADVL SUBJ P ADVL ADVL 
+vp -> VAUX PRT-AUX VAUX MV 
+fcl -> SUB SUBJ ADVL P ADVL 
+fcl -> PU PU ADVL SUBJ P ADVL 
+fcl -> SUB P ADVL ADVL PRED ADVL ADVL 
+fcl -> PU PU PU P SC ADVL ADVL 
+adjp -> H P ADVL 
+icl -> ADVL P ACC ADVL ADVL 
+fcl -> P SC SUBJ 
+fcl -> PU PU PU ACC P 
+icl -> P 
+np -> H PU PU PU APP ADVL 
+np -> >N H N< PU N<PRED APP 
+fcl -> SUB SUBJ P ADVL 
+fcl -> SUBJ P ACC OA 
+x -> ADVL P ACC 
+icl -> P ACC PRED ADVL 
+np -> H N< PU N<PRED 
+icl -> >N P SUBJ 
+fcl -> PU SUBJ SUBJ P ADVL ADVL 
+fcl -> SUBJ SUBJ ADVL ADVL P 
+x -> P SUBJ 
+par -> PU PU CJT CO CJT 
+fcl -> SUBJ 
+np -> >N H N< P ADVL ADVL 
+fcl -> ACC P ADVL 
+icl -> ADVL P SUBJ 
+icl -> SUBJ P ADVL ACC 
+advp -> PU H A< 
+fcl -> PU PU CO ADVL P PASS ADVL 
+fcl -> SUBJ P ADVL ADVL ADVL 
+fcl -> PU PU SUB ADVL P ADVL 
+np -> >N H N< PU 
+adjp -> >N H N< 
+fcl -> SUB P OC ACC 
+fcl -> PU SUB SUBJ P ACC ADVL S< 
+adjp -> >N H PU ACC 
+icl -> P >N 
+fcl -> PU ADVL SUBJ P OC ACC 
+fcl -> PU PU ADVL P ACC 
+fcl -> PU PU ADVL SUBJ P 
+fcl -> SUB SUBJ P SC 
+x -> SUBJ ADVL P 
+x -> SUBJ P ADVL 
+par -> PU CJT CO CJT CJT 
+np -> >N >N H KOMP< 
+pp -> H P< CJT 
+fcl -> PU SUBJ ADVL P ADVL ADVL 
+fcl -> SA P 
+icl -> PU P ACC ADVL ADVL 
+np -> >N H PU 
+icl -> PU P ACC SUBJ 
+x -> P ACC 
+icl -> P ACC ADVL ADVL 
+x -> PU ADVL P ADVL 
+fcl -> PU SUBJ SUBJ SUBJ X 
+fcl -> SUB SUBJ P ACC ADVL 
+fcl -> PU ADVL SUBJ ADVL 
+np -> H PU PU ADVL SUBJ P ACC 
+par -> CJT CO CO CJT 
+fcl -> PU PU ADVL SUBJ P SC 
+fcl -> PU PU SUBJ P ADVL ADVL 
+fcl -> PU PU ADVL SUBJ ADVL P PASS 
+fcl -> PU PU PU SUBJ ADVL P ADVL ADVL 
+fcl -> PU PU PRED SUBJ P ACC N< 
+fcl -> P ADVL ACC 
+fcl -> SUB ADVL P 
+x -> ADVL P ADVL ACC 
+fcl -> PU PU PU PU ACC P 
+fcl -> ACC ADVL P ACC 
+fcl -> ADVL P SC SUBJ 
+icl -> ADVL P ACC ADVL 
+fcl -> SUBJ P SC 
+x -> SUBJ P PRED 
+par -> PU PU PU CJT CJT CJT 
+fcl -> ADVL P ACC 
+x -> P SUBJ ACC 
+np -> H PU PU CO APP 
+x -> ADVL SUBJ P ACC ADVL 
+x -> PRED P 
+par -> CJT CJT CJT 
+icl -> PU P ACC ADVL ADVL ADVL 
+fcl -> PU PU SUBJ ADVL P PIV ACC ADVL 
+fcl -> PU P SUBJ ADVL ACC 
+fcl -> SUBJ P PASS 
+fcl -> PU ADVL SUBJ ADVL P ACC ADVL 
+fcl -> SUBJ P 
+x -> P SC ACC 
+fcl -> PU SUBJ P ADVL ADVL 
+par -> PU CJT CJT CO CJT 
+fcl -> ADVL P SC 
+fcl -> PU PU PU PU SUBJ ADVL ADVL P ADVL ADVL 
+fcl -> SUB P ADVL SUBJ PRED 
+fcl -> ADVL 
+fcl -> PU ADVL P ADVL 
+np -> H N< N< SUBJ P ACC-PASS ADVL 
+par -> PU CJT CO CJT CO CJT 
+advp -> P PIV ACC 
+fcl -> SUBJ P ADVL ACC 
+fcl -> PU PU PU PU PU ACC ACC P 
+np -> >N H PU PU APP 
+fcl -> PU SUBJ P ADVL PIV 
+fcl -> ADVL P 
+fcl -> PU PU ADVL ADVL P SUBJ 
+icl -> H ADVL ADVL ADVL 
+x -> PU P< NPHR P SUBJ 
+np -> >N H ADVL SUBJ P ADVL 
+adjp -> H KOMP< 
+icl -> SC P ADVL 
+pp -> H P< P SC UTT 
+fcl -> PU SUBJ P ACC ADVL 
+icl -> SUBJ P PIV 
+fcl -> PU PU ADVL SUBJ P SC ADVL 
+fcl -> SUBJ P PASS ADVL 
+icl -> P ADVL ADVL ADVL 
+icl -> P SA ADVL ADVL ADVL 
+fcl -> PU PU PU PU PU ACC P SUBJ ACC 
+fcl -> PU P SC SUBJ 
+fcl -> PU SUBJ PRED SUBJ P ADVL ADVL 
+x -> PU DAT P 
+fcl -> PU PU PRED PRED P ADVL 
+fcl -> PU SUBJ P SC ADVL 
+fcl -> SUB ADVL P PIV ADVL 
+fcl -> PU PU PU SUBJ P ADVL ACC 
+fcl -> SUB SUBJ P SC PIV 
+np -> H STA 
+adjp -> H NPHR 
+np -> >N H PU N<PRED SUBJ UTT 
+s -> SUBJ 
+fcl -> ACC SUBJ P 
+icl -> P PASS ACC 
+fcl -> PU PU PRED SUBJ P PRED 
+fcl -> PU P ADVL 
+fcl -> PU ADVL SUBJ P ACC 
+icl -> DAT P 
+x -> PU PU ADVL P ACC 
+fcl -> PU PU TOP SUBJ ADVL SUBJ P ACC 
+x -> SUBJ P 
+fcl -> SUB SUBJ P SC OC 
+cp -> H ACC 
+par -> PU PU PU CJT CO CJT CO CJT 
+fcl -> PU SC P 
+fcl -> SUB P 
+fcl -> PU PU P ACC 
+fcl -> PU ADVL SUBJ P ADVL ADVL 
+pp -> H P< PRED 
+fcl -> PU CO P ACC-PASS SUBJ 
+fcl -> PU P ACC ADVL ADVL 
+par -> PU PU CJT CO CJT CO CJT 
+icl -> P SUBJ 
+fcl -> SUB P SUBJ 
+fcl -> PU ADVL SUBJ P ADVL 
+fcl -> PU PU ACC P SUBJ 
+np -> >N H N< PU APP 
+fcl -> PU PU ADVL X 
+fcl -> PU ADVL ACC P OC 
+fcl -> PU PU PU ADVL SUBJ P ACC ADVL ADVL 
+adjp -> >A H A< 
+x -> P ADVL ACC 
+pp -> H P< ADVL 
+acl -> H AS< 
+advp -> H KOMP< 
+fcl -> PU SUBJ P PRED 
+fcl -> ADVL ADVL P 
+fcl -> PU SUBJ ADVL P PIV 
+icl -> ADVL P PIV 
+adjp -> PU >A H N< 
+icl -> ACC P PIV 
+advp -> P ACC PIV 
+advp -> P ADVL PIV 
+fcl -> PU PU PU ADVL ADVL SUBJ P ACC PIV 
+pp -> H PU P< CJT 
+fcl -> PU PU SUBJ P ADVL PRED 
+icl -> P PIV ADVL 
+np -> >N >N H N< N< P SC 
+icl -> P ACC ADVL ADVL ADVL 
+np -> H PU PU ACC P PIV PIV 
+fcl -> PU PU SUBJ P PASS 
+pp -> H CO P< 
+pp -> PU H P< 
+np -> H P ACC OC ADVL 
+vp -> VAUX PRT-AUX 
+x -> SUBJ P ACC P PIV 
+par -> PU PU PU PU CJT CO CJT 
+icl -> PU ACC P ADVL 
+fcl -> PU PU SUBJ ADVL P PIV 
+fcl -> PU SUBJ ACC P ADVL ADVL 
+icl -> PU PU PU CO ADVL P ACC PIV 
+icl -> ADVL P 
+np -> H PU N<PRED PU N< 
+icl -> ACC P ADVL SUBJ 
+fcl -> ACC P ACC 
+fcl -> PU PU PU ADVL P ADVL ACC S< 
+fcl -> SUBJ ADVL P SC 
+fcl -> PU PU SUBJ P ADVL ADVL SC 
+x -> P ACC-PASS 
+par -> PU CJT CO CJT PRED 
+fcl -> SUB P ADVL 
+np -> >N PU H N< 
+np -> >N H PU ADVL ADVL 
+fcl -> PU PU PU ADVL P SC SUBJ 
+fcl -> PU PU ADVL SUBJ ADVL P ADVL 
+fcl -> PU PU ADVL SUBJ P PIV ACC 
+fcl -> PU SUB SUBJ P PIV ACC ADVL 
+fcl -> PU P ACC 
+fcl -> PU PU ADVL SUBJ ADVL P ACC 
+fcl -> P PIV ADVL 
+vp -> VAUX 
+fcl -> PU PU PU PU ACC P ACC P SUBJ 
+fcl -> ADVL P PASS ADVL ACC 
+x -> SUBJ P SC 
+np -> H PU N<PRED PU 
+fcl -> ADVL SUBJ P ACC PIV ADVL 
+fcl -> P SUBJ ADVL 
+x -> PU PU SUB P ACC ADVL 
+fcl -> PU SUBJ ADVL ACC P 
+fcl -> PU SUBJ P ADVL SA SUBJ 
+fcl -> PU PU SUBJ SUBJ P ACC 
+np -> >N H N< P ADVL 
+np -> >N H PU N< N<PRED 
+fcl -> PU CO SUBJ P SUBJ ADVL 
+fcl -> ACC ADVL P 
+fcl -> PU ADVL P ACC 
+fcl -> PU SUBJ ADVL P ADVL 
+icl -> SUBJ P SUBJ 
+np -> CO 
+icl -> PU ACC P ADVL P< 
+icl -> ACC P 
+icl -> ACC-PASS P SUBJ 
+adjp -> H N< CO 
+x -> PU SUBJ ADVL P SC ACC 
+icl -> H ACC P< 
+pp -> P< 
+fcl -> PU SUBJ P OC CJT 
+icl -> ADVL ADVL P PASS 
+fcl -> PU PU ADVL SUBJ ADVL P ADVL ACC 
+icl -> P PASS N< 
+np -> >N >N >N H N< 
+fcl -> PU SUBJ SUBJ SUBJ P ACC ADVL 
+x -> P ADVL ACC ADVL 
+fcl -> SUBJ ADVL ADVL P ACC 
+fcl -> SUB SUBJ ADVL P 
+fcl -> SUB ADVL P SUBJ ACC 
+fcl -> SUBJ ACC P OA 
+fcl -> P SUBJ 
+fcl -> PU PU PU PU ACC CO P SUBJ 
+advp -> PU P ADVL ACC ADVL 
+fcl -> PU PU PU PU PU ADVL SUBJ P ADVL ACC ADVL 
+fcl -> PU PU SUBJ P ADVL ACC PRED ADVL PRED PIV 
+fcl -> PU PU PRED SUBJ ADVL P ACC ADVL 
+advp -> >A H 
+adjp -> H >A 
+icl -> P PASS ADVL 
+pp -> H PU P< CO CJT 
+fcl -> PU PU PU PU PU PU TOP ADVL CO PRED P SC ADVL ADVL 
+fcl -> SUB SUBJ ADVL P PASS 
+advp -> PU P ACC ADVL 
+fcl -> PU PU P ADVL ACC ADVL 
+pp -> H P< P ACC 
+par -> PU PU PU CJT CO CJT 
+fcl -> ACC P 
+fcl -> P ACC 
+fcl -> P SC SUBJ ACC 
+icl -> ADVL P ADVL ACC 
+np -> H ADVL 
+advp -> H PU PU NPHR 
+fcl -> PU PU PU ADVL ADVL SUBJ P SUBJ ADVL 
+fcl -> PU SUBJ ADVL P ACC ADVL 
+x -> PU ADVL ADVL SUBJ P SUBJ ADVL 
+pp -> H PU PU PU PU P< CJT CJT CJT CJT CO CJT 
+fcl -> PU PU PRED SUBJ P PIV ACC 
+fcl -> SUBJ P ACC OC 
+fcl -> PU PU SUBJ P SUBJ ADVL 
+fcl -> PU PU ADVL ADVL ADVL ADVL SUBJ P ACC ADVL 
+fcl -> PAUX AUX< 
+vp -> Vm CO 
+adjp -> P OC ACC 
+vp -> VAUX MV UTT 
+pp -> H P< P 
+fcl -> PU PU PU SUB ADVL ADVL P ACC PIV SUBJ 
+icl -> P ACC N< 
+fcl -> PU PU PU ADVL SUBJ ADVL P SC 
+fcl -> P ACC PIV ADVL 
+x -> P PIV SUBJ 
+icl -> P ADVL SA ADVL 
+fcl -> PU PU SUBJ ADVL ADVL ADVL P ACC 
+fcl -> PU PU PU SUBJ ADVL ADVL P ACC 
+advp -> SUBJ P ACC 
+fcl -> PU ADVL PU SUBJ P ACC ADVL 
+advp -> PU N< P ACC 
+icl -> >A P ADVL 
+x -> P ACC ADVL PRED 
+par -> PU PU CJT CO CO CJT 
+icl -> PU ADVL P PASS ADVL 
+x -> ADVL SUBJ P 
+fcl -> PU PU SUBJ ADVL P ADVL ADVL 
+fcl -> ACC P SUBJ 
+cp -> H H 
+adjp -> CO 
+par -> CJT ADVL 
+np -> >N H PU N< SC 
+fcl -> PU PU ADVL ADVL P SC 
+fcl -> PU SUB SUBJ SUBJ P ACC 
+np -> H N< PU 
+np -> H PU 
+fcl -> PU NPHR PRED ADVL P ACC ADVL ADVL 
+np -> >N H PU N< STA 
+fcl -> ACC ADVL P SC SUBJ ADVL 
+fcl -> PU CO P ACC 
+fcl -> PU SUB P ACC PIV 
+fcl -> PU P ADVL ACC 
+fcl -> ADVL P SUBJ ADVL 
+fcl -> PU SUB SUBJ SUBJ P ACC-PASS 
+fcl -> ADVL SUBJ P ADVL 
+fcl -> SUBJ P ACC PIV 
+x -> PU PU P ADVL ADVL ADVL 
+x -> PU PU SUBJ ACC ACC P 
+fcl -> PU ADVL P SUBJ 
+fcl -> SUBJ P ADVL PRED 
+x -> PU P ADVL S< P< ADVL 
+fcl -> PU ADVL P SC 
+fcl -> TOP FOC SUBJ P SC 
+np -> >N H N< CO 
+fcl -> PU PU SUBJ P ADVL SC 
+fcl -> PU PU PU SUBJ P ADVL 
+fcl -> PU SUB SUBJ P ADVL ADVL 
+fcl -> PIV >N PU P ADVL ADVL 
+advp -> PU P ACC 
+np -> >N H P ACC 
+fcl -> P SC ADVL 
+fcl -> PU PU PU ACC P SUBJ 
+fcl -> PU SUBJ SUBJ P ACC 
+fcl -> PU ADVL SUBJ P ACC ADVL 
+fcl -> PU ADVL P 
+np -> H N< >N 
+x -> ADVL ADVL 
+adjp -> P ADVL 
+cp -> H SUBJ ACC P OC 
+fcl -> SUB SUBJ P ADVL ADVL ADVL ADVL 
+fcl -> PU PU PU PU PU ADVL SUBJ P ADVL S< 
+fcl -> SUBJ ADVL P ADVL 
+fcl -> SUB ACC-PASS P SUBJ 
+fcl -> PU PU PU SUBJ P PRED ADVL 
+np -> H APP 
+fcl -> SUB P ADVL ADVL ACC 
+fcl -> SUBJ ACC P 
+icl -> SUBJ P 
+advp -> H >A A< 
+x -> ADVL P N< 
+fcl -> SUBJ ACC P ADVL ADVL 
+fcl -> PU P OA 
+advp -> P ADVL 
+fcl -> ADVL SUBJ P SC 
+advp -> H PU CJT 
+fcl -> PU PU P ACC ADVL 
+fcl -> SA PU SUBJ P ADVL ADVL 
+icl -> PU P SC ADVL ADVL ADVL 
+fcl -> PU SUBJ P SC ACC 
+fcl -> PU PU PU SUBJ ADVL P ACC 
+fcl -> ACC P SUBJ ADVL 
+fcl -> PU SUBJ SUBJ P SC 
+x -> PIV P ACC ADVL 
+icl -> >N P ADVL 
+icl -> PU P PIV ADVL ACC 
+fcl -> PU PU ADVL SUBJ ACC P PIV 
+icl -> P ACC SUBJ ADVL 
+fcl -> SUB SUBJ ADVL ACC-PASS P 
+np -> >N H >N N< 
+fcl -> SUB SUBJ P ACC ADVL PRED 
+fcl -> ADVL PU PU PRED SUBJ P ACC 
+fcl -> PU PU PU SUBJ ADVL P ACC S< PRED 
+fcl -> SUBJ ACC P PIV 
+fcl -> PU PU SUBJ P SA PRED 
+fcl -> PU SUBJ ACC-PASS P PIV 
+fcl -> PU ADVL P SC ACC 
+fcl -> P ACC S< 
+x -> SUB P 
+np -> >N H N< N< N< 
+x -> PU P ADVL ADVL 
+par -> PU CJT CJT CO CJT CJT 
+par -> PU PU CJT CJT CJT CO CJT 
+fcl -> PU PU SUBJ ADVL P ADVL 
+advp -> H CO CJT 
+fcl -> SUB SUBJ P PASS ADVL 
+fcl -> PU PU PU PU ADVL ADVL P ACC ADVL 
+fcl -> PU SUBJ SUBJ P ACC ADVL 
+fcl -> SUBJ P ACC OC ADVL 
+fcl -> PU P ADVL SUBJ 
+fcl -> SUB ADVL P PIV 
+adjp -> H CO CJT 
+fcl -> ADVL P SUBJ 
+x -> PU PU P SUBJ PRED PRED ADVL 
+fcl -> ACC P OC ADVL 
+fcl -> SUBJ ADVL ACC-PASS P OC 
+fcl -> PU PU PU PU ACC SUBJ P SUBJ 
+icl -> SUBJ P PRED 
+pp -> H P< KOMP< 
+fcl -> PU PU PU PU PU ADVL SUBJ FOC SUBJ ADVL P ACC S< 
+fcl -> PU PU PU ADVL ADVL P ACC 
+fcl -> SUB P ADVL ADVL ADVL 
+fcl -> ACC 
+par -> CJT CO CJT CO CJT CO CJT 
+pp -> H ADVL 
+x -> PRED PU DAT PU P ADVL 
+fcl -> PU SUBJ P SC S< 
+pp -> H P< CJT CJT 
+adjp -> H CO 
+fcl -> PU ADVL P SC SUBJ 
+fcl -> PU SUBJ ADVL ADVL P ACC 
+fcl -> SUBJ ACC-PASS P PIV 
+np -> >N >N H N< PU N< 
+fcl -> SUB P ACC N< 
+x -> ACC P ADVL ADVL 
+adjp -> >N H PU 
+fcl -> SUBJ P SC ADVL 
+x -> P SUBJ PIV ADVL 
+advp -> ACC P ADVL 
+fcl -> PU P SC 
+fcl -> PU PU ADVL SUBJ ADVL ACC P PIV 
+fcl -> PU PU ADVL SUBJ P PIV ADVL 
+fcl -> COM P 
+np -> >N H KOMP< 
+fcl -> PU PU ACC SUBJ ADVL P ACC ADVL 
+fcl -> PU PU PU SUBJ ADVL P SC ADVL SUBJ 
+x -> SUBJ ACC 
+cp -> H P ADVL ACC ADVL ADVL ACC 
+fcl -> PU PU ACC P SUBJ ACC 
+fcl -> PU PU ADVL ACC-PASS P PIV ADVL 
+fcl -> SUB SUBJ ACC P ADVL PIV 
+fcl -> PU PU ADVL ADVL P ACC 
+fcl -> PU PU PU ADVL SUBJ P ADVL ADVL 
+fcl -> PU SUBJ P ACC ADVL ADVL 
+x -> PU SUBJ ADVL ADVL P SC ADVL ADVL 
+icl -> P SUBJ ADVL ACC 
+vp -> Vm P ACC ADVL 
+fcl -> PU PU PU SUBJ ADVL SUBJ P ACC 
+fcl -> ADVL ADVL P ACC 
+fcl -> PU SUB SUBJ P ACC 
+fcl -> PU PU SUBJ P ADVL ACC 
+fcl -> PU ADVL SUBJ P PASS ADVL 
+fcl -> PU SUB SUBJ P ADVL 
+fcl -> SUB SUBJ ADVL ACC P ADVL 
+fcl -> PU ACC P SA ADVL 
+fcl -> PU PU PU ADVL SUBJ P ADVL ADVL ACC 
+fcl -> PU ADVL SUBJ ADVL P 
+np -> H N< CO 
+icl -> P ADVL ACC ADVL ADVL ADVL 
+x -> >A P ACC 
+np -> >N H APP 
+x -> P ACC N< 
+fcl -> ACC P SC 
+fcl -> PU PU P SC 
+fcl -> PU SUB P SC ADVL 
+fcl -> PU SUBJ P ADVL S< 
+pp -> H PU PU P< CJT CJT CO CJT 
+fcl -> ACC P SUBJ PIV 
+icl -> PRED P 
+fcl -> PU SA PRED P ADVL 
+x -> ADVL SUBJ P ACC 
+fcl -> SUB SUBJ PAUX AUX< 
+fcl -> PU CO ADVL P ACC 
+np -> >N H N< P< 
+icl -> ADVL P ADVL ACC ADVL 
+x -> STA PU >P 
+np -> >N H N< N< PU N<PRED PU 
+fcl -> SUB SUBJ P PASS 
+fcl -> PU PRED P SUBJ ACC 
+icl -> P ADVL ACC ADVL SC 
+fcl -> PU CO P SUBJ 
+vp -> Vm N< 
+fcl -> PU PU SUBJ ADVL P PRED 
+np -> >N H N<PRED 
+fcl -> PU PU SUBJ P ADVL N<PRED ADVL 
+np -> H N< N< N< 
+fcl -> PU SC PU PU PU PU ADVL ADVL P SUBJ SC 
+fcl -> PU SUB SUBJ 
+fcl -> PU PU SUBJ P ADVL ACC ADVL 
+fcl -> PU PU PU PU PU ADVL ADVL P ACC 
+icl -> P ACC OC 
+fcl -> SUBJ ACC P ADVL 
+x -> P PASS 
+advp -> H PU A< ADVL 
+vp -> Vm P SC 
+np -> H P ACC ADVL ADVL ADVL 
+fcl -> PU >N PU PU STA PU SUBJ 
+s -> ACC 
+icl -> >N P PRED 
+fcl -> PU PU PU PU ADVL ADVL SUBJ P ACC ADVL 
+cp -> H SUBJ 
+np -> H PU N< P SC UTT 
+par -> PU CJT CO CO CJT 
+advp -> PU P ADVL PRED 
+icl -> PU PU P ADVL ADVL ACC 
+icl -> PU P SC ADVL 
+icl -> PU P PIV ADVL 
+pp -> H P< UTT 
+fcl -> PU PU SUBJ P ADVL 
+fcl -> PU PU P ADVL ADVL 
+adjp -> SUBJ P 
+fcl -> PU P SUBJ ADVL UTT 
+pp -> H PU P< CO ADVL P ACC ADVL 
+fcl -> PU PU PU ADVL SUBJ P ACC ADVL 
+fcl -> PU SUB P ADVL ADVL 
+fcl -> PU PU SUBJ P ACC ADVL 
+fcl -> SUBJ FOC SUBJ P ADVL ACC 
+x -> SUB SUBJ ADVL P ACC 
+icl -> ADVL >N P ACC ADVL ADVL 
+pp -> H P< P< 
+icl -> P ACC PRED OC 
+cp -> H P ACC 
+np -> >N H CO FOC 
+fcl -> PU ADVL P ACC ADVL SUBJ 
+fcl -> PU PU PU SUBJ P ADVL ADVL ADVL ADVL ADVL 
+par -> PU CJT CO CJT CO 
+fcl -> PU SUBJ ADVL PAUX AUX< 
+fcl -> PU SUB SUBJ P PIV ADVL ADVL 
+fcl -> SUB ADVL SUBJ P ACC 
+fcl -> PU PU PU PU PU PU PU ADVL ADVL CO SUBJ ADVL P SUBJ 
+fcl -> PU ADVL SUB SUBJ P ACC ADVL 
+icl -> SUBJ ADVL P ACC 
+par -> CJT CJT UTT 
+fcl -> PU PU SUBJ P ADVL ADVL ADVL ADVL 
+adjp -> H PU N<PRED 
+fcl -> PU PU SUBJ ADVL P SC 
+fcl -> PU SUBJ P ADVL ACC S< 
+fcl -> SUB SUBJ SUBJ SUBJ P ADVL ACC 
+fcl -> PU PU PU SUBJ ADVL ADVL ACC-PASS P ADVL 
+advp -> P ADVL ACC 
+fcl -> PU P ADVL ACC ADVL 
+icl -> P PASS PIV 
+fcl -> PU SUBJ P PIV ADVL 
+fcl -> PU SUBJ P PASS 
+fcl -> PU SUB ADVL SUBJ P ACC 
+fcl -> PU PU N< ADVL SUBJ P ADVL ACC 
+fcl -> PU ADVL P ACC ADVL 
+advp -> >A H A< 
+advp -> P SUBJ 
+x -> SUBJ P ADVL ACC ADVL 
+fcl -> PU SUB ADVL ADVL P SUBJ 
+fcl -> PU PU PU SUBJ SUBJ P ADVL ADVL ADVL 
+fcl -> ADVL SUBJ 
+np -> >N H P PRED 
+advp -> ACC-PASS P 
+fcl -> ADVL P ADVL 
+x -> SUB ADVL SUBJ P ADVL 
+adjp -> >A H CO 
+adjp -> H PU >A N< 
+np -> H CO CJT 
+x -> P ACC ADVL SUBJ 
+fcl -> PU PU PU X 
+fcl -> PU PU PU ACC ADVL P 
+fcl -> PU P SUBJ 
+fcl -> PU ADVL SUB SUBJ ADVL P ADVL 
+fcl -> ADVL P PRED 
+x -> PU ADVL SUBJ ADVL ACC-PASS P PIV 
+icl -> TOP 
+icl -> >N P PIV 
+np -> H PU H P< 
+np -> >N H PU CO 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ACC PIV ADVL ADVL 
+fcl -> PU SUBJ P ACC-PASS PIV 
+fcl -> SUBJ P ACC ADVL PRED ADVL 
+np -> >N PU >N H 
+fcl -> PU PU PU ADVL ADVL ADVL SUBJ P ACC ADVL ADVL 
+icl -> P ACC ADVL PIV 
+fcl -> SUB P SC 
+icl -> PU P ACC N< ADVL 
+advp -> P PIV 
+fcl -> PU PU SUBJ P PIV ACC 
+pp -> H 
+advp -> H PU NPHR 
+advp -> PU PU PU ADVL ADVL ADVL ADVL ADVL P ACC 
+icl -> CO P ACC ADVL 
+fcl -> SUBJ P ADVL UTT 
+fcl -> SUBJ ACC P PIV ADVL 
+fcl -> PU PU SUBJ ADVL ACC P 
+fcl -> SUB ACC P SC 
+np -> >N H PU P SC 
+icl -> PU P ADVL PRED 
+fcl -> PU PU ADVL SUBJ ADVL P ACC ADVL 
+fcl -> PU ACC P 
+x -> P ADVL ADVL ACC ADVL 
+fcl -> PU PU ADVL P ADVL 
+icl -> ACC P SUBJ 
+fcl -> ADVL SUBJ ACC P 
+x -> PU PRED P ACC ADVL 
+fcl -> PU PU ADVL P ACC STA 
+s -> COM 
+icl -> ACC P ADVL 
+fcl -> SUB ADVL ACC P 
+fcl -> PU SUBJ P SC PIV ACC 
+fcl -> PU SUB SUBJ P SC ADVL 
+fcl -> PU PU SUBJ ADVL P SC ADVL 
+icl -> ACC-PASS P PIV 
+icl -> PU PU PU P PIV PRED ADVL PRED 
+icl -> PU P ADVL ADVL SUBJ 
+fcl -> SUB SUBJ ACC-PASS P ADVL 
+fcl -> PU PU PU ADVL P SUBJ N<PRED 
+pp -> H PU P< STA 
+fcl -> PU SUBJ CO P ADVL 
+s -> N< 
+fcl -> PU PU ADVL SUBJ ADVL P ACC ADVL ADVL 
+fcl -> PU SUBJ ADVL P ACC 
+fcl -> PU P ACC ADVL 
+x -> SUBJ P SA 
+fcl -> PU PU PRED SUBJ P ADVL ACC ACC 
+fcl -> SUB SUBJ ADVL P SC ADVL 
+x -> P SC SUBJ 
+x -> SUB ACC-PASS P PIV 
+fcl -> PU SUBJ X 
+icl -> SUBJ ACC-PASS P ADVL ADVL 
+fcl -> PU P ADVL ADVL ACC 
+adjp -> H PU PU N<PRED 
+fcl -> PU PU PU ADVL ADVL SUBJ P ACC 
+fcl -> SUBJ P ADVL ACC ADVL 
+np -> >N H N< PRED 
+fcl -> PU SUB P ADVL N< ACC ADVL 
+fcl -> PU PU P ACC-PASS ADVL PIV ADVL 
+fcl -> PRED SUB SUBJ P PASS 
+x -> PU ACC SUB SUBJ ACC-PASS P ADVL 
+x -> PU P ACC ADVL 
+advp -> PREF H 
+fcl -> ADVL PAUX AUX< 
+par -> PU PU CJT CJT CO CJT CJT 
+fcl -> SUB ADVL P ACC ADVL 
+icl -> PASS P 
+fcl -> PU SUBJ P PASS P< 
+advp -> ADVL P ACC 
+fcl -> PU SUBJ P ADVL P ADVL 
+fcl -> PU ACC ADVL P ADVL ACC PIV 
+icl -> P P< 
+pp -> H PU SUBJ P ADVL ACC 
+x -> >N H PU SUBJ 
+np -> >N >N H PU N<PRED 
+np -> H N< PU N< 
+fcl -> N< SUBJ P ADVL 
+np -> >N PU H PU N< 
+fcl -> PU PU ADVL SUBJ P ACC ADVL PIV ADVL 
+icl -> SUBJ P ACC ADVL 
+fcl -> PU P PIV 
+cp -> >A H 
+advp -> H >A 
+icl -> PU PU P ADVL ACC 
+fcl -> PU PU SUBJ ADVL P ACC ADVL ADVL 
+np -> >N H >N 
+fcl -> SUB ADVL P ADVL ACC 
+icl -> PU P ADVL ACC ADVL 
+icl -> PU PU PRED ACC 
+s -> P< 
+fcl -> SUBJ ADVL ACC P PIV 
+fcl -> SUB P PIV 
+np -> >N H STA 
+fcl -> PU DAT PU ADVL SUBJ P ACC ACC 
+fcl -> P ACC ADVL 
+fcl -> SUB P PASS 
+fcl -> >A SUB SUBJ P PASS 
+fcl -> SUB ACC P ADVL 
+fcl -> PU PU PU PU ACC CO ADVL P 
+fcl -> SUBJ P ACC ADVL ADVL 
+fcl -> PU SUBJ P ACC UTT 
+fcl -> PU PU SUBJ SUBJ P ADVL ACC ADVL 
+fcl -> PU ADVL P ACC ADVL ADVL 
+fcl -> SC P A< 
+x -> H PU PU STA P< 
+np -> >N P ADVL 
+fcl -> SUB P ACC ADVL ADVL 
+np -> >N 
+np -> >N H N< PU SUBJ 
+cp -> H >N H 
+fcl -> PU PAUX AUX< 
+np -> H PU PU CJT CJT 
+cp -> H APP 
+pp -> H PU PU PU PU P< CJT CJT CO CJT CO 
+x -> PU ADVL P ACC 
+icl -> PU PU P ADVL ADVL SC ADVL 
+fcl -> PU PU SUBJ ACC-PASS P ADVL ADVL 
+icl -> PU SUBJ P 
+fcl -> PU PU PU CO ADVL P SC SUBJ 
+advp -> ACC P PIV 
+fcl -> PU PU PU ADVL SUBJ P PASS ADVL ADVL 
+fcl -> PU ADVL P ADVL ACC 
+fcl -> PU ADVL SUBJ ADVL P ACC 
+icl -> P ADVL SUBJ ACC ADVL 
+icl -> >N P ACC ADVL SC 
+fcl -> PU CO SUBJ P ACC NPHR 
+fcl -> PU SUBJ P SA 
+fcl -> SUB SUBJ P PRED ADVL 
+adjp -> H N<PRED 
+fcl -> PU PU SUBJ P ADVL ADVL ADVL ADVL ADVL 
+fcl -> PU PU PRED SUBJ P ACC ADVL ADVL 
+icl -> P OC ACC ADVL 
+fcl -> PU SUBJ P SC PIV 
+icl -> P ACC SUBJ 
+fcl -> P PRED 
+pp -> H PU P< UTT 
+fcl -> PU P PASS 
+fcl -> PU PU PU PU SUBJ P ADVL ADVL ADVL 
+fcl -> AUX< ADVL SUB SUBJ ADVL PAUX AUX< ACC 
+icl -> ADVL P ACC PIV 
+fcl -> PU PU PU PU ADVL P SC UTT 
+par -> PU PU PU PU PU PU PU PU PU CJT CJT CJT CJT CJT CJT CJT CJT CJT CJT 
+fcl -> PU PU SUBJ P OA ACC S< 
+fcl -> PU PU P ACC-PASS ADVL ACC 
+x -> PU ADVL P ADVL ADVL 
+fcl -> PU PU PU PU SUBJ P ADVL ACC ADVL ADVL ADVL ADVL ADVL ADVL 
+fcl -> PU PU PU CO ADVL SUBJ P SC 
+adjp -> >N PU H 
+fcl -> PU PU PU SUBJ ADVL P ACC ADVL ADVL ADVL N< 
+np -> >N H N< P ACC 
+icl -> PU P ACC 
+fcl -> PU PU ACC SUBJ P ACC ADVL PRED 
+np -> >N H PU PU P ADVL ADVL ACC ADVL 
+fcl -> PU ADVL P SC ADVL 
+np -> H P< 
+icl -> PU PU P ADVL ACC SC 
+fcl -> PU PU PU SUBJ ADVL SUBJ P ACC ADVL 
+fcl -> PU PU TOP P ACC SUBJ PRED 
+x -> P PIV 
+icl -> >N ACC P SUBJ ADVL 
+icl -> PIV P 
+fcl -> PU PU PU SUBJ P ACC ADVL 
+icl -> P SA ADVL 
+fcl -> PU PU PU PU SUBJ P ADVL ADVL S< ADVL 
+vp -> VAUX PU MV 
+fcl -> PU SUB SUBJ ADVL P ACC ADVL ADVL PIV 
+fcl -> PU SUBJ ACC P ACC 
+np -> >N H N< PRED ADVL 
+fcl -> PU PU PU PU ADVL P SC SUBJ S< 
+x -> PU P ACC ADVL ADVL 
+fcl -> SUB P ACC PIV ADVL 
+icl -> >N P ACC PIV 
+fcl -> PU PU PU PU PU ACC ADVL P SUBJ ADVL 
+icl -> ACC P PASS 
+fcl -> PU PU ADVL P ACC ADVL ADVL 
+fcl -> PU SUB ADVL P 
+cp -> H H PU N< 
+fcl -> PU ADVL SUBJ P ACC ADVL PASS ADVL 
+fcl -> PU PU SUBJ CO P ADVL 
+np -> >N >N H N< PU 
+fcl -> PU P SUBJ UTT 
+fcl -> PU ADVL ADVL SUBJ P ACC 
+fcl -> PU CO ADVL ADVL P ACC 
+np -> >N H P PASS 
+fcl -> PU PU SUBJ ADVL P SA 
+fcl -> SA SUBJ P SA 
+fcl -> P ADVL ADVL 
+fcl -> PU SUBJ CO P ACC STA 
+adjp -> P ACC 
+fcl -> PU PU SUBJ P PASS ADVL 
+icl -> P PIV ACC ADVL ADVL 
+fcl -> PU SUBJ P ACC ADVL PIV 
+fcl -> PU PU CO SUBJ P ACC ADVL 
+np -> >N >N H PU PU APP 
+par -> PU PU PU PU CJT CJT CJT CJT CJT 
+np -> H P ACC ADVL ADVL 
+fcl -> SUBJ P ACC ADVL ADVL ADVL 
+fcl -> PU P ADVL ADVL 
+x -> PU PU ADVL P ACC UTT 
+adjp -> >N PU H N< 
+fcl -> PU PU PU PU SUBJ ADVL P ACC ADVL ADVL ADVL ADVL ADVL ADVL 
+fcl -> PU ADVL SUBJ P ACC ADVL SC 
+vp -> Vm ACC 
+fcl -> PU >N PU SUBJ P ADVL 
+np -> >N H N< STA 
+fcl -> PU PU ADVL SUBJ X 
+np -> H N< PU CO 
+fcl -> PU ADVL P ACC P ADVL 
+fcl -> SUB SUBJ P ACC N< 
+fcl -> ADVL SUBJ P ADVL ADVL 
+fcl -> PU PU ADVL ADVL SUBJ P ACC 
+np -> H PU ACC 
+advp -> H PU A< A< 
+fcl -> PU PU ADVL P PIV PIV 
+fcl -> SUB SUBJ P SA 
+fcl -> PU PU PU CO SUB ADVL SUBJ P ACC 
+advp -> SA P 
+np -> >N ADVL 
+x -> ACC 
+pp -> H PU P< ADVL P ADVL 
+fcl -> PU PU PU PU SUBJ P ADVL ACC ADVL 
+adjp -> canastronicamente H 
+advp -> P ACC ADVL PRED 
+x -> PU SUBJ P ACC ADVL ADVL ADVL 
+adjp -> PU CO CJT 
+fcl -> PU P ADVL ACC N<PRED 
+fcl -> ADVL X 
+fcl -> SUBJ P ADVL ACC S< 
+advp -> P ACC-PASS PIV 
+fcl -> PU P PASS ADVL 
+fcl -> PU PU PU PU ADVL SUBJ SUBJ ADVL ADVL P ACC 
+fcl -> PU SUBJ P ACC PIV ADVL 
+pp -> H P< N< 
+fcl -> PU PU PU SUBJ PIV SUBJ P SA STA 
+icl -> PU PU P ACC 
+icl -> P ACC OC ADVL 
+fcl -> SUB P SC S< 
+fcl -> PU SUBJ ADVL P ADVL ACC ADVL 
+fcl -> PU PU SUBJ SUBJ ADVL P ACC 
+fcl -> PU PU PU PU PU SUBJ ADVL P SC 
+fcl -> PU SUBJ P ACC PRED 
+x -> SUB SUBJ P PIV SA 
+fcl -> PU ADVL SUBJ P ADVL ACC 
+x -> P ACC ADVL ADVL ADVL 
+adjp -> >A H N< 
+np -> >N H PU N< ADVL ADVL P ACC ADVL 
+fcl -> SUBJ ADVL P ADVL SC 
+icl -> PU P OC 
+fcl -> PU PU PU ADVL SUBJ P ACC ADVL ACC UTT 
+advp -> PU SUBJ P 
+np -> >N >N PU H 
+fcl -> PU ADVL P S< 
+icl -> PU ADVL P PIV PIV 
+fcl -> PU PU SUB SUBJ P ADVL ADVL ADVL 
+np -> H PU >N APP 
+fcl -> SUB SUBJ ADVL P SC 
+fcl -> PU ACC SUBJ P ADVL ADVL 
+icl -> P ACC N< PRED 
+fcl -> PU X 
+fcl -> PU ACC P ADVL 
+icl -> PU P ACC PRED ADVL 
+x -> ADVL P 
+fcl -> PU PRED ADVL P SUBJ ADVL ADVL 
+fcl -> PU PU PU PU SUBJ SUBJ SUBJ PIV P ACC ADVL 
+fcl -> PU PU PU SUBJ P ACC ADVL ADVL ADVL S< 
+x -> PU AUX< ACC SUBJ PAUX P ADVL 
+np -> H PU PU STA 
+fcl -> PU PU PU SUBJ P ADVL PIV ADVL ACC ADVL 
+fcl -> SUBJ P ACC PIV ADVL 
+fcl -> SUBJ ADVL P PIV 
+fcl -> PU PU SUBJ P PRED ACC 
+fcl -> PU PU PU ADVL ADVL SUBJ ADVL P ACC 
+icl -> PU PU P ACC PIV 
+x -> ADVL ACC P ADVL OC PIV 
+icl -> DAT P ADVL 
+fcl -> ACC SUBJ P PIV 
+fcl -> PU PU SUBJ ADVL P 
+x -> PU P ACC 
+icl -> CO P ADVL 
+icl -> PU P ADVL P< CO CJT 
+x -> PU P PIV ACC 
+fcl -> PU PU PU SUBJ SUBJ P ACC 
+fcl -> PU PU P PRED ADVL 
+pp -> H PU >P P< 
+fcl -> PU PU SUBJ P PIV OC 
+fcl -> SUBJ P OC 
+advp -> PU ADVL SUBJ P ACC 
+fcl -> ADVL ADVL P PIV 
+icl -> PU P ADVL PIV ADVL 
+fcl -> PU PU ADVL ADVL SUBJ ADVL P ADVL 
+fcl -> FOC SUBJ P 
+x -> SUBJ P PIV 
+icl -> PU ACC-PASS P SUBJ ADVL ADVL ADVL 
+fcl -> SUB ADVL P SUBJ 
+icl -> P ADVL PASS 
+fcl -> PU PU SUBJ SUBJ P ACC ADVL ADVL 
+np -> >N H PU PU N< 
+cp -> H PU PU ADVL SUBJ ADVL P 
+x -> SUBJ P ACC PRED 
+np -> H ADVL P ADVL ACC PRED 
+fcl -> PU PU SUBJ P ADVL ADVL ADVL 
+icl -> P PIV ACC ADVL 
+pp -> H PU P< P< 
+icl -> ACC-PASS P ADVL SUBJ 
+fcl -> PU PU PU ADVL ADVL P SUBJ ADVL 
+fcl -> PU PU ADVL SUBJ P OA 
+fcl -> ADVL ADVL P SUBJ 
+x -> ACC P ADVL 
+fcl -> PU SC SUBJ P ACC ADVL 
+icl -> >N P OA ACC UTT 
+fcl -> SUB SUBJ P ACC PIV 
+icl -> P ACC OC ADVL ADVL 
+fcl -> PU SUBJ ADVL P ACC PIV 
+fcl -> PU PU ADVL ADVL SUBJ P ACC ADVL 
+np -> >N H PU PU PU N< APP NPHR 
+fcl -> PU PU PU SUBJ P ACC 
+fcl -> SUB P ADVL ACC 
+fcl -> PU ADVL ADVL P ACC ADVL 
+fcl -> PU PU ADVL P SUBJ ADVL ADVL 
+fcl -> SUB SUBJ ACC-PASS P PIV 
+fcl -> PU PRED SUBJ P ADVL 
+fcl -> PRED SUBJ P ACC 
+icl -> CO P ACC OC 
+icl -> >N P ACC ADVL ADVL 
+x -> N< P SUBJ 
+x -> PU SUBJ P ACC PIV 
+np -> >N H N< PU PU N<PRED 
+x -> SUBJ P ADVL ADVL 
+fcl -> PU PU PU SUBJ SUBJ SUBJ P ADVL 
+icl -> SUBJ P ADVL 
+fcl -> PU PU SUBJ ADVL ACC-PASS P ADVL 
+np -> H PU ADVL 
+x -> ADVL P ADVL 
+vp -> Vm SUBJ 
+advp -> H P< 
+pp -> H PU PU SUBJ P PASS ADVL 
+fcl -> PU ADVL 
+x -> ADVL SUBJ P PIV 
+np -> >N H ADVL 
+adjp -> >A H PU N<PRED 
+fcl -> PU PU SUBJ P ACC ACC NPHR 
+advp -> P ACC UTT 
+fcl -> PU SUB SUBJ ADVL P ACC ADVL 
+fcl -> PU CO P SC 
+fcl -> PU ADVL SUBJ P SA ADVL 
+icl -> PU PU P ACC ADVL ADVL 
+icl -> P PIV A< 
+fcl -> PU SUBJ ACC P SUBJ 
+np -> H PU N< PRED ADVL 
+pp -> H N< CJT 
+fcl -> PU PU PU PU PU ACC CO P SUBJ 
+icl -> PU P PIV ACC 
+fcl -> N< SUB SUBJ P SUBJ 
+fcl -> SUB ADVL ADVL P SC SUBJ 
+x -> ADVL 
+x -> ACC P SC 
+fcl -> PU CJT CJT 
+x -> SUBJ PU CJT STA 
+fcl -> PU PU SUB ADVL P SUBJ ADVL ADVL 
+np -> >N >N H N<PRED 
+fcl -> PU ADVL P SUBJ ADVL ADVL 
+fcl -> SUBJ P ADVL SC 
+x -> PU SUBJ P ACC-PASS SUBJ 
+icl -> ACC P ADVL ADVL 
+fcl -> PU PIV P SUBJ 
+icl -> PU P ADVL PASS ADVL 
+fcl -> PU SUB P SUBJ PRED 
+fcl -> PIV SUBJ ADVL P ADVL 
+cp -> H SUBJ P ACC 
+adjp -> >N >A H A< 
+x -> P ADVL PRED 
+icl -> ACC-PASS P 
+np -> >N H P< 
+fcl -> PU PU ADVL SUBJ P SUBJ 
+fcl -> PU SUBJ FOC ADVL P SC ADVL 
+par -> PU PU PU PU CJT CJT CJT CJT CJT CO CJT 
+fcl -> PU PU SUBJ ADVL SUBJ P ACC 
+fcl -> SUBJ ADVL P 
+x -> ADVL ADVL SUBJ P PIV 
+fcl -> PU PU ADVL SUBJ ADVL P PIV 
+fcl -> PU P ACC SUBJ ADVL 
+icl -> >N PU P PASS ADVL 
+fcl -> PU PU SUBJ P SC 
+fcl -> PU P ACC PIV 
+np -> >N PU H PU PU N< 
+fcl -> ACC ADVL P SUBJ PRED ADVL 
+fcl -> PU PU SUBJ P ACC S< 
+advp -> PU P ACC ADVL ADVL 
+advp -> ADVL P ADVL 
+icl -> ADVL ADVL P ADVL 
+fcl -> PU PU SUBJ CO ADVL P ACC ADVL 
+fcl -> PU PU P SUBJ ADVL S< 
+fcl -> PU ADVL P PIV ADVL 
+fcl -> PU PU PU SUBJ PRED P ADVL 
+icl -> PU P ADVL 
+icl -> ADVL PU P PIV ADVL 
+fcl -> PU SUBJ P 
+x -> PU ADVL ADVL P SUBJ 
+fcl -> CO SUBJ ADVL P 
+fcl -> PU PU SUBJ ADVL P PIV ADVL ACC 
+fcl -> SUBJ ADVL P ACC ADVL ADVL 
+icl -> PU P PIV 
+fcl -> PU PU ADVL ADVL ACC-PASS P ACC 
+icl -> PU PU P PRED 
+fcl -> PU PU ADVL P PIV 
+fcl -> PU PU PU SUBJ P ACC PIV 
+fcl -> PU SUB SUBJ P SC SUBJ ADVL 
+fcl -> PU ACC SUBJ P ACC 
+x -> P 
+pp -> H P< CO CJT CJT 
+fcl -> PU PU SUBJ X 
+fcl -> SUB P SC SUBJ 
+fcl -> PU SUB SUBJ P ACC ADVL ADVL 
+x -> PU ADVL SUBJ P ACC 
+fcl -> SUB P SC ADVL 
+x -> P ACC ADVL ADVL 
+fcl -> PU P 
+cp -> H ADVL 
+x -> PU P SUBJ ADVL ADVL ADVL 
+np -> PU >N H N< CO 
+fcl -> PU SUBJ SUBJ P ADVL PIV 
+fcl -> PU PU PU PU ACC CO P 
+icl -> PU PU P P ACC 
+advp -> PU P PIV P< 
+fcl -> PU ADVL P SUBJ ADVL SUB ADVL 
+fcl -> PU PU ADVL ADVL P ADVL SUBJ PRED 
+adjp -> H PU N<PRED PU 
+fcl -> PU PU PU SUBJ P SA ADVL 
+fcl -> SUBJ SUB P ACC OA 
+x -> ACC PIV 
+cp -> H SUBJ P ACC ADVL ADVL 
+fcl -> PU PU SUBJ ACC P ADVL ADVL ADVL 
+fcl -> PU ADVL SUBJ ACC-PASS P PIV 
+fcl -> SUB SUBJ P PIV ACC ADVL ADVL 
+np -> >N H N< N< PU N<PRED 
+icl -> P SUBJ ADVL 
+x -> PU SUBJ P ACC 
+icl -> P ACC PIV ADVL 
+adjp -> >N H N< N< 
+fcl -> PU PU ADVL SUBJ P ACC PRED 
+fcl -> SUBJ P PRED 
+icl -> ADVL PAUX 
+x -> SUBJ P AUX< 
+fcl -> ADVL SUBJ P ACC PIV 
+icl -> P SC ADVL ADVL 
+fcl -> ADVL SUBJ P ADVL SA 
+fcl -> PU PU ADVL P ADVL ADVL ADVL 
+fcl -> PU P SUBJ ADVL 
+fcl -> PU PRED SUBJ ADVL P ADVL 
+np -> >N >N H >N 
+advp -> H PU N<PRED SA 
+x -> SUBJ ADVL PRED P ADVL ADVL 
+fcl -> PU SUBJ CO ADVL P ACC 
+icl -> PRED P PASS 
+par -> CJT CO CJT CJT 
+fcl -> PU P PRED 
+icl -> P ADVL ADVL SC 
+x -> SUBJ ADVL P SC 
+par -> PU PU CJT UTT CO CJT 
+icl -> PU P SA ADVL 
+fcl -> PU SUBJ P SA ADVL 
+np -> >N H N< PU PU KOMP< 
+fcl -> PU CO ADVL SUBJ P ADVL 
+vp -> VAUX VAUX PRT-AUX MV 
+fcl -> PU PU SUBJ SUBJ X 
+x -> PU P SUBJ 
+icl -> PU PU P ACC PRED ADVL 
+fcl -> PU PRED P ACC PIV 
+icl -> >A P SA ADVL 
+adjp -> >N >N H N< N< 
+fcl -> PU CO P ADVL 
+fcl -> PU N< PU ADVL SUBJ P ACC 
+icl -> CO P ACC 
+advp -> PU PU P PIV P< ADVL 
+fcl -> PU PU SUB SUBJ SUBJ P SC 
+fcl -> PU PU ACC P ADVL 
+pp -> H PU PU P< P ADVL ADVL 
+par -> PU CJT CO CO CJT CJT 
+icl -> PU PU P ADVL PRED PRED 
+fcl -> PU PRED SUBJ ACC P PIV 
+x -> NPHR SC P SUBJ 
+advp -> P OA 
+fcl -> SUBJ ADVL P SC ADVL 
+fcl -> PU P OA ACC 
+x -> SUB P SC SUBJ 
+adjp -> >A H KOMP< 
+x -> PU PU SUB P ADVL ADVL PIV 
+icl -> P< 
+fcl -> PRED P< 
+adjp -> >N >N PU H 
+pp -> H PU PU ACC P ADVL ADVL SUBJ P ACC 
+cp -> H PU PU P ACC ADVL PIV 
+par -> PU PU PU CJT ADVL ADVL CJT CO 
+fcl -> SUB SUBJ P ADVL ADVL 
+fcl -> PU PU ADVL SUBJ P PASS ADVL 
+np -> H PU PU N< STA 
+pp -> H PU PU PU PU P< NPHR 
+fcl -> PU PU PU SUBJ P ACC ADVL ADVL ADVL ADVL 
+cp -> H CJT 
+fcl -> PU PU SUBJ P ADVL PASS ADVL ADVL ADVL ADVL 
+fcl -> PU PU SA P ADVL 
+x -> PU PRED P ACC PIV 
+fcl -> PU PU ACC ADVL P 
+fcl -> SUBJ ACC-PASS P 
+fcl -> PU PU ADVL SUBJ P ACC PIV 
+x -> P PASS ADVL 
+fcl -> PU PU SUBJ SUBJ P ACC PIV ADVL 
+x -> ADVL P ADVL ACC ADVL 
+icl -> ACC 
+cp -> H P ADVL 
+fcl -> PU PU ADVL SUBJ CO P ACC 
+np -> H PU N< SUBJ P ADVL ACC 
+icl -> PU P ACC ADVL P SUBJ 
+icl -> PU PU ACC P ADVL ADVL ADVL 
+fcl -> PU PU CO P ADVL 
+fcl -> ACC P ADVL OC 
+fcl -> PU PU SUBJ P PIV 
+icl -> PU PRED P ADVL 
+fcl -> PU PU PU PU ADVL SUBJ P ADVL ADVL 
+fcl -> H CO P< 
+adjp -> N< 
+np -> N<PRED 
+advp -> PU PU ACC ADVL P ADVL 
+fcl -> ADVL SUBJ ADVL P ADVL 
+fcl -> PU PU PU SUBJ ADVL P SC ADVL 
+fcl -> SUBJ SUBJ 
+pp -> H PU P ADVL SA 
+x -> PRED PU PU STA ADVL 
+fcl -> PU PU ADVL SUBJ PAUX AUX< SUBJ 
+fcl -> ADVL ADVL P PRED 
+fcl -> PU PU ADVL ADVL SUBJ P PIV 
+x -> P ADVL SA 
+x -> ACC P PIV 
+fcl -> PU SUBJ SUBJ X 
+fcl -> PU PU SUBJ SUBJ P ADVL ADVL 
+fcl -> PU ADVL SUBJ ADVL P ADVL PRED 
+x -> PU PU SUBJ P ADVL SC 
+fcl -> ACC SUBJ P SC 
+x -> PU SUBJ P ADVL ADVL 
+fcl -> PU SUBJ CO CJT X 
+fcl -> PU PU PU PU SUBJ SUBJ ADVL ADVL P ACC 
+fcl -> PU ADVL SUBJ ACC P PIV 
+cp -> H PU PU PU ADVL ADVL P SUBJ ADVL 
+fcl -> PU ADVL SUBJ P SC 
+x -> PU PU P ACC ADVL 
+fcl -> PU ADVL ADVL P ADVL 
+adjp -> P ADVL N< 
+adjp -> P SA 
+icl -> PU P ACC ADVL SUBJ 
+icl -> ADVL P ACC ADVL PRED 
+fcl -> PU PU PU PU PU PU CO ADVL ADVL ADVL SUBJ P PRED 
+adjp -> >N >A H KOMP< 
+adjp -> >N >A H 
+cp -> H N< 
+x -> ADVL P ACC OA 
+par -> PU PU PU PU CJT CJT CJT CO CJT 
+x -> SUBJ PAUX AUX< 
+fcl -> PU PU PU PRED SUBJ P PIV 
+fcl -> COM SUBJ P ACC 
+adjp -> H >N ACC 
+fcl -> PU ACC P ADVL ADVL 
+icl -> PU P ADVL P< ADVL ADVL 
+adjp -> >N >N H 
+fcl -> >N PU PU ADVL ADVL SUBJ P ADVL 
+fcl -> PU PU SUBJ P ADVL OC ACC ADVL 
+advp -> H ADVL 
+fcl -> PU SUBJ P ACC ADVL ADVL ADVL 
+x -> ADVL P SUBJ ACC OC 
+fcl -> P ADVL 
+fcl -> PU PU SUBJ ACC P ADVL 
+fcl -> SUBJ SUB P ACC ADVL ADVL 
+fcl -> CO SUBJ P SC 
+fcl -> PU SUBJ P ACC ADVL ACC 
+advp -> PU PU P ADVL ADVL ADVL ACC ADVL 
+x -> PU P ADVL 
+fcl -> PU CO SUBJ X 
+fcl -> ACC P PRED 
+fcl -> PU PU ADVL SUBJ SUBJ SUBJ P SC 
+pp -> CO P< 
+np -> H -N< N< 
+x -> PU P ACC SUBJ PRED ADVL 
+fcl -> PU PU P SUBJ ADVL 
+fcl -> SUB ADVL P SC 
+x -> PU P ADVL ACC ACC 
+np -> >N H P ADVL 
+pp -> H PU P< ADVL 
+advp -> ADVL P ACC ADVL 
+fcl -> PU PU PU PU PU ADVL ADVL SUBJ P ACC 
+fcl -> PU PU ADVL SUBJ P PIV 
+icl -> PU PU P ADVL ACC SUBJ ADVL 
+x -> SUBJ ACC P PIV 
+np -> >N H PU APP N< N< 
+fcl -> PU PU PU ADVL P ACC-PASS SUBJ ADVL 
+fcl -> PU PU >N PU PU PU ADVL SUBJ P ACC ADVL ADVL >N 
+adjp -> P PIV 
+adjp -> P ACC ADVL ADVL 
+fcl -> PU ADVL SUBJ SC ADVL P 
+x -> SUBJ SUBJ P ACC 
+fcl -> PU PU PU PU ADVL SUBJ P ACC 
+fcl -> SUBJ P ACC-PASS SUBJ 
+fcl -> PU PU PU PU ADVL ACC CO PRED P SUBJ 
+adjp -> H PU 
+icl -> P ACC ADVL PIV ADVL 
+fcl -> PU FOC ADVL SUBJ FOC P PIV ACC 
+fcl -> PU SUBJ P ADVL ACC ACC 
+fcl -> PU PU P SC SUBJ 
+icl -> PU PU P ACC ADVL ADVL ADVL 
+fcl -> PU PU SUBJ SUBJ P SC 
+x -> PU SUBJ P ACC ADVL 
+fcl -> PU PU SUBJ P ACC-PASS ADVL ADVL 
+fcl -> PU P ADVL SUBJ ADVL 
+fcl -> ACC P ADVL ADVL 
+np -> >N H H N< 
+pp -> H >N N< P< 
+pp -> H PU 
+fcl -> PU PU PU ADVL SUBJ P ADVL ADVL ADVL 
+icl -> >N ADVL P ADVL 
+fcl -> PU PU ADVL P SUBJ ADVL 
+fcl -> PU PU SUBJ PAUX AUX< 
+fcl -> PU SUBJ P ACC OA 
+fcl -> PU PU PU SUBJ P ADVL ADVL ADVL ADVL 
+vp -> Vm PU P ACC ADVL 
+x -> PU ADVL 
+fcl -> SUBJ P SA 
+x -> SUB P ACC 
+fcl -> PU PU PRED SUBJ P ADVL ACC 
+fcl -> PU PU PU PU PU PRED SUBJ P ADVL ADVL 
+fcl -> PU PU SUBJ SUBJ P ADVL ADVL ADVL 
+fcl -> PU PU SUBJ ADVL P PASS ADVL 
+fcl -> PU PU SUBJ P ADVL ADVL ADVL ACC 
+x -> PU SUBJ ADVL P SC 
+fcl -> PU PU PRED ADVL ADVL ADVL SUBJ ADVL P ACC 
+fcl -> PU SUB SUBJ ACC-PASS P ADVL 
+icl -> PU P SUBJ ACC ADVL 
+x -> ADVL P PIV 
+icl -> PU PU CO P ADVL ACC 
+fcl -> PU SUBJ PRED SUBJ P ACC 
+fcl -> SUB ADVL ADVL P ACC ADVL 
+fcl -> PU ADVL P ADVL ADVL ADVL 
+adjp -> H >A KOMP< 
+np -> H PU PU 
+icl -> PU SUBJ P ACC ADVL ADVL 
+icl -> PU SUBJ P ADVL ADVL 
+fcl -> ADVL SUBJ P ACC OC PIV 
+x -> PU PU P ADVL ADVL 
+fcl -> PU PU PU PU CO ADVL P SUBJ 
+fcl -> PU PU PU PU ADVL SUBJ P ADVL ADVL ADVL 
+icl -> P SUBJ ACC ADVL 
+fcl -> PU ADVL SUB SUBJ ADVL P ACC ADVL 
+fcl -> PU SUBJ ADVL P ADVL ACC 
+fcl -> PU PU PU ADVL P ADVL ADVL 
+fcl -> PU PU PU PU PU ACC P SUBJ ADVL 
+np -> >N >N H PU N<PRED PU 
+fcl -> PU PU PRED P ACC 
+vp -> VAUX VAUX VAUX MV 
+fcl -> P ADVL PASS 
+fcl -> PU SUBJ PIV P ACC PRED STA 
+cp -> H P ACC ADVL 
+np -> H N< P ACC 
+icl -> PU PU PU PU ADVL P ACC ADVL 
+fcl -> PU PU PU SUBJ SC SUBJ P ADVL ADVL ADVL ADVL 
+np -> >N H N< PU N<PRED PU 
+fcl -> PU SUBJ P ADVL ADVL ADVL 
+pp -> H P< ADVL P ADVL 
+fcl -> PU PU PU SUBJ P ADVL ACC PRED ADVL 
+x -> P SUBJ ADVL 
+fcl -> PU PRED P PRED 
+fcl -> PU ADVL N< P SC 
+fcl -> PU PU PU ADVL ADVL SUBJ P ADVL 
+fcl -> SUB P SUBJ ADVL ACC 
+np -> >N >N >N H N< PU PU APP 
+fcl -> SUB ADVL SUBJ P SC 
+fcl -> SUBJ SUBJ ADVL P ADVL 
+x -> SUBJ ADVL P ADVL ADVL 
+np -> >N H PU PU N<PRED N<PRED 
+x -> SUBJ P ACC ADVL 
+fcl -> PU ACC SUBJ P CJT 
+x -> SUBJ 
+cp -> H PU SUBJ P PIV ACC 
+par -> PU PU PU CJT CJT CO CJT CJT CO 
+fcl -> SUBJ P ACC PRED PRED 
+fcl -> PU PU PU ACC X 
+np -> H N< N< PU N< 
+fcl -> PU PU ADVL PRED P SC UTT 
+fcl -> ADVL SUBJ P SA 
+fcl -> DAT P ACC SC 
+fcl -> SUBJ P >A 
+fcl -> PU SUBJ SUBJ P ADVL ACC 
+advp -> P ACC OC 
+x -> PU SUBJ P SC ADVL 
+icl -> PU PU P ADVL ADVL ADVL ADVL 
+x -> PU P 
+np -> >N H PU ADVL 
+par -> PU CJT CO CJT APP 
+np -> H PU CO CO 
+icl -> PU PU ADVL P ACC ADVL 
+fcl -> PU SUBJ ADVL P ADVL SC ACC 
+np -> >N H PU N<PRED >N 
+advp -> H SC 
+fcl -> PU PU PU PU ACC P SUBJ PIV ADVL 
+fcl -> SUBJ P PASS ADVL ACC 
+fcl -> PU PU SUBJ ADVL ADVL P ADVL 
+np -> H PU PU APP STA 
+icl -> PRED P ADVL 
+fcl -> SUB ACC P 
+fcl -> PU SUB P ACC PIV ADVL 
+np -> >N H N< N< PU N< 
+fcl -> PU PU PU ADVL ADVL P ADVL ACC 
+vp -> Vm ADVL SUBJ 
+vp -> Vm P SUBJ ADVL 
+fcl -> ACC SUBJ ADVL P ACC 
+par -> CJT CO CJT CO CJT 
+fcl -> PU PU PU P SUBJ ADVL ACC 
+fcl -> DAT ACC SUBJ P 
+adjp -> >N H N< PU 
+par -> CJT UTT CO CJT 
+fcl -> PU ADVL SUBJ P PIV ACC 
+x -> SUBJ ADVL ADVL P ACC 
+fcl -> SUB P UTT 
+x -> SUBJ P PASS ACC 
+adjp -> H P< 
+fcl -> PU SUB PU SUBJ ACC P ADVL SUBJ P ACC 
+fcl -> PU SUB SUBJ P ADVL ACC 
+icl -> SUBJ P ACC N< ADVL 
+x -> PU SUB P PIV ADVL ADVL 
+icl -> >N P 
+x -> PU SUBJ P 
+x -> PU SUBJ P ACC OA ADVL 
+fcl -> >A SUB SUBJ P P 
+fcl -> PU PU ADVL ADVL P SUBJ ADVL ACC 
+x -> PU ADVL P SC 
+fcl -> ADVL P ACC ADVL 
+pp -> H P< P SC 
+x -> P ACC SUBJ ADVL 
+icl -> P ADVL SUBJ 
+fcl -> PU PU SC P SUBJ 
+fcl -> PU PU SUB ADVL SUBJ 
+np -> H P ACC 
+fcl -> PU PU PRED SUBJ P ACC 
+fcl -> PU PU SUB ADVL SUBJ ADVL ACC P ADVL 
+fcl -> DAT SUBJ ADVL P ACC 
+fcl -> PU PU PU ADVL ADVL ADVL SUBJ P 
+fcl -> PU ADVL SUBJ ACC-PASS P OC 
+np -> >N H PU N< P SC ADVL 
+fcl -> ADVL SUBJ P ADVL ACC 
+fcl -> PU PU PU ADVL SUBJ P ACC-PASS ADVL ADVL ADVL 
+x -> ADVL P ACC SUBJ 
+icl -> P PRED 
+x -> SUB ADVL P ACC 
+icl -> PU P PASS ADVL 
+icl -> P PASS PIV ACC 
+fcl -> PU PU P ADVL 
+cp -> H SC 
+np -> >N H PU CJT 
+x -> PU SUB SUBJ P ACC SC 
+fcl -> SUB X 
+advp -> PU SUBJ P ACC ADVL 
+fcl -> PU SUBJ P ADVL PIV ADVL 
+fcl -> SUBJ P PIV ACC ADVL 
+fcl -> PU PU ADVL P SC 
+fcl -> PU SUBJ P ADVL PIV ACC ADVL 
+icl -> PU P ADVL ACC 
+fcl -> PU PU PU PU ADVL ADVL SUBJ P ACC 
+fcl -> SUB SUBJ P SC ADVL 
+np -> >N >N >N H APP 
+fcl -> PU PU SUB SUBJ ADVL SC P 
+fcl -> PU PU PU ADVL SUBJ ADVL ADVL P ACC ADVL 
+fcl -> PU PU ADVL SUBJ P ACC ADVL ADVL 
+fcl -> PU FOC SUBJ P ACC 
+par -> PU PU CJT CJT CJT CJT 
+icl -> PU P PASS ADVL ADVL 
+x -> SUB P ADVL 
+np -> >N >N H PU ADVL P ACC ADVL ADVL 
+fcl -> SUBJ P ADVL SA ADVL 
+x -> P ACC OA 
+np -> >N H PU N<PRED PU ADVL P ADVL PIV 
+icl -> PU P ADVL P< 
+x -> PU P ACC PIV 
+advp -> H PU P ACC ADVL PIV 
+advp -> P CO ADVL 
+fcl -> ADVL ADVL SUBJ P 
+fcl -> PU PU SUB ADVL P ADVL PIV 
+x -> P ADVL N< 
+fcl -> PU SUBJ SUBJ P PIV ADVL 
+fcl -> PU PU ADVL P PIV SUBJ 
+fcl -> SUB P PIV S< 
+fcl -> PU PU ADVL SUBJ P ADVL P ADVL 
+vp -> VAUX PU H MV P< 
+pp -> >N 
+fcl -> >A PU SUBJ P ADVL ADVL 
+np -> >N >N H N< N< PU N<PRED 
+icl -> P PRED ADVL 
+fcl -> PU SUBJ P ADVL ACC ADVL ADVL 
+icl -> PU ADVL P ADVL PRED ADVL 
+fcl -> PU SUBJ P ADVL ACC UTT 
+fcl -> PU PU SUBJ P ACC ADVL ADVL ADVL ADVL 
+fcl -> PU PU ADVL SUBJ SUBJ 
+np -> H PU N<PRED PU P PIV ADVL 
+x -> ACC P 
+par -> PU CJT UTT CO CJT 
+fcl -> PU P ADVL ADVL SUBJ 
+fcl -> PU PU PU SUBJ ADVL P ACC PIV 
+icl -> PU P SC ADVL ADVL 
+fcl -> PU ADVL ACC SUBJ P ACC ADVL 
+fcl -> ACC ADVL P SUBJ 
+x -> SUB SUBJ P SC ADVL 
+fcl -> PU CO SUBJ P ADVL ADVL 
+fcl -> PU PU ADVL SUBJ P ADVL ADVL ACC 
+fcl -> PU SUB P ACC ADVL 
+fcl -> PU PU PU P S< PRED 
+fcl -> PU PU PU PU P ADVL ACC SUBJ S< 
+pp -> CO 
+advp -> H H P< 
+np -> >N H N< N< P ACC PIV ADVL ADVL 
+np -> H PU >N 
+fcl -> DAT SUBJ P PASS 
+par -> PU CJT CJT CO CJT CO CJT 
+icl -> P PIV ACC 
+icl -> ACC-PASS P ADVL ADVL 
+x -> PU PU PRED ACC P OC 
+par -> PU PU PU CJT PRED CJT 
+fcl -> N< PU ADVL P SC SUBJ ACC 
+fcl -> SUB ADVL P ADVL 
+fcl -> CO P ACC 
+fcl -> PU SUB P SA ACC 
+fcl -> PU PU SUBJ P ADVL ACC ADVL ADVL 
+fcl -> PU SUBJ ADVL P PASS 
+np -> >N >N H PU APP 
+fcl -> SUB P SUBJ P ACC 
+advp -> H PU KOMP< NPHR 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ADVL ADVL ACC 
+fcl -> SUBJ P ACC ACC 
+fcl -> PU PU SUBJ ADVL P ADVL N< ADVL 
+fcl -> ACC SUBJ ADVL P 
+fcl -> PU PU PU PU SUBJ ACC P ADVL ADVL 
+fcl -> ADVL SUBJ P SUBJ ADVL 
+adjp -> >N >N >N H 
+par -> FOC CJT CO CJT 
+fcl -> PU PU PU ADVL ADVL SUBJ P ADVL ADVL ADVL 
+fcl -> PU SUB SUBJ P SA 
+advp -> H SUBJ 
+fcl -> PU SUBJ P ADVL UTT ADVL 
+fcl -> SUB SUBJ ADVL P PIV 
+fcl -> PU PU ADVL SUBJ P ADVL ACC ADVL 
+fcl -> SUBJ CO ADVL P ADVL 
+np -> >N H PU SUBJ P 
+fcl -> SUB P ACC SUBJ 
+icl -> PRED 
+pp -> H PU H P< P< 
+np -> >N >N H PU N< N<PRED 
+fcl -> ACC SUBJ P OC 
+fcl -> PU PU ADVL ADVL P SUBJ OC ACC 
+fcl -> PU SUBJ ACC-PASS P OC 
+fcl -> SUB ACC P OC SUBJ ACC 
+pp -> H PU P< CJT CO CJT 
+x -> P SC ACC ADVL 
+x -> P SC ADVL 
+fcl -> PU SUBJ ADVL ADVL P ACC PIV ADVL 
+fcl -> PU SUB SUBJ P ACC PRED PIV 
+fcl -> PU PU SUBJ ADVL CO CJT X 
+np -> >N >N H KOMP< N< 
+fcl -> SUB SUBJ P ADVL ACC 
+fcl -> SUB SUBJ ACC P OC 
+icl -> >A ACC P PIV 
+fcl -> PU CO SUBJ P 
+fcl -> PU SUBJ P PIV ADVL ADVL 
+fcl -> ACC SUBJ P SC PASS 
+np -> H PU CO 
+fcl -> PU SC SUBJ P ADVL ADVL 
+fcl -> PU PU PU SUBJ ADVL P ACC ADVL 
+fcl -> PU SUBJ P SC PASS 
+np -> H >N N< N< 
+icl -> PU PU PRED ADVL P ACC ADVL 
+par -> PU PU PU CJT UTT CJT 
+fcl -> P SA SUBJ ADVL 
+fcl -> ADVL PU SUBJ P OC ACC STA 
+np -> H PU PU PU ADVL N<PRED 
+x -> ADVL P ACC ADVL ADVL ADVL PRED 
+np -> >N >N H PU N< APP 
+advp -> P SUBJ ACC 
+x -> PU ADVL P SUBJ ACC 
+fcl -> ADVL SUBJ P ACC ADVL 
+fcl -> PU SA SUBJ P ACC ADVL 
+np -> H N< PU APP 
+np -> >N H PU CO FOC 
+fcl -> PU PU PU ADVL SUBJ CO SUBJ P ADVL ADVL 
+fcl -> PU SUBJ P OA ACC 
+fcl -> ACC ADVL SUBJ P 
+fcl -> PU PU PRED PRED PU PU ADVL P ADVL ADVL ACC 
+fcl -> SUB SUBJ P SA ADVL 
+fcl -> PU PU PU PU PRED SUBJ P ADVL ACC 
+fcl -> PU SUB SUBJ P SUBJ ADVL 
+fcl -> PU SUB SUBJ P PIV 
+fcl -> SUB ADVL P SC SUBJ 
+fcl -> PU PU ADVL PAUX AUX< 
+fcl -> PU PU PU SUBJ P ADVL ACC ADVL 
+fcl -> PU ADVL SUBJ SUBJ P SC 
+fcl -> PU CO P SUBJ ADVL 
+adjp -> H PU CO FOC 
+fcl -> PU PU PU SUB SUBJ ADVL P ACC ADVL 
+fcl -> ADVL PU PU SUBJ P SC ADVL ADVL 
+fcl -> SUBJ CO P ACC 
+fcl -> SA SUBJ P SC 
+fcl -> PU PU PU SUBJ ADVL P ADVL ACC 
+advp -> P OC ACC 
+icl -> PU ADVL P ADVL 
+np -> H PU N< KOMP< 
+fcl -> PU PU SUBJ P ACC ADVL SUBJ 
+fcl -> PU SUBJ ADVL P ACC PIV ADVL 
+fcl -> PU PU PU PU SUBJ SA P PRED ACC 
+fcl -> ADVL SUBJ ADVL P ACC 
+fcl -> ADVL ADVL ACC P ADVL 
+x -> PU SUBJ P PRED 
+fcl -> PU SUBJ P SC ADVL ADVL 
+np -> H N< P SC ADVL 
+fcl -> PU PU PU PU PU ADVL ACC P 
+x -> SUBJ ADVL P ACC 
+x -> PU SUBJ P ADVL 
+fcl -> SC SUB P ADVL 
+fcl -> PU PU ADVL P ADVL ACC 
+fcl -> N< PU SUBJ P ADVL 
+fcl -> PU ACC SUBJ P ADVL 
+np -> H N< UTT 
+fcl -> PU PU PU SUBJ SUBJ SUBJ ADVL P ACC 
+x -> PU P ACC PRED PIV 
+fcl -> SUB SUBJ ACC P ADVL 
+adjp -> >N >N H N< 
+fcl -> SUBJ ADVL ADVL P ACC ADVL 
+np -> H N< PU N< ADVL P PIV ADVL 
+fcl -> PU ADVL SUBJ P PIV 
+fcl -> PU SUB SUBJ P SC 
+fcl -> ACC-PASS P ADVL ADVL ADVL 
+x -> PU PU SUBJ ADVL P SC 
+fcl -> SUB SUBJ P ADVL PIV 
+fcl -> SUB ADVL ACC P PIV ADVL 
+fcl -> PU ADVL SUBJ ADVL P ADVL ADVL 
+x -> SUB PU 
+fcl -> CO 
+icl -> P ACC P SC 
+fcl -> PU PU PU PU PU ADVL X 
+fcl -> ADVL P PIV 
+fcl -> PU PU PU PU SUBJ P ADVL PIV ADVL ADVL ADVL ADVL 
+fcl -> SUBJ P ACC PIV ADVL S< 
+fcl -> SUB ADVL ADVL P ADVL 
+x -> SC P SUBJ 
+adjp -> >A PU CO CJT 
+np -> PU SC 
+fcl -> PU PU PU PU ADVL SUBJ ADVL P 
+fcl -> SUBJ SUB P ACC PIV 
+fcl -> PU PU PU PRED SUBJ ADVL P ADVL 
+fcl -> PU PU PU ADVL ADVL ADVL P ACC 
+fcl -> SUB SUBJ P ADVL SC 
+fcl -> PU PU SUBJ ADVL P ACC PIV 
+fcl -> ADVL ADVL ACC P ADVL PIV 
+fcl -> PU SUBJ ADVL ACC P PIV 
+fcl -> PU PU ADVL SUBJ P PASS 
+icl -> PU P PRED 
+icl -> ADVL ACC P PIV 
+icl -> P ACC PIV PIV 
+fcl -> PU PU PU ADVL ADVL ADVL SUBJ P PIV 
+fcl -> PU PU PU PRED ADVL SUBJ P PRED PRED 
+par -> >N PU PU CJT CO CJT 
+icl -> >A P ADVL PASS 
+icl -> P PIV ADVL ADVL 
+fcl -> PU SUBJ CO P PIV 
+x -> PU PRED N< P ACC P ACC 
+par -> PU CJT AS< CJT CO 
+icl -> PU PU P PIV ACC ADVL 
+icl -> PU P ADVL ADVL 
+fcl -> PU SUBJ P PASS ADVL 
+fcl -> SUBJ ACC-PASS P ADVL ADVL 
+fcl -> PU PU SUBJ P ADVL ADVL ACC 
+adjp -> >N H PU N<PRED PU N<PRED PU N<PRED N< N< N< N< 
+fcl -> SUBJ ADVL 
+adjp -> H P ACC ADVL ADVL 
+fcl -> PU ADVL SUB SUBJ ADVL P 
+fcl -> SUB P ADVL ACC ADVL 
+icl -> PU P ADVL ACC SUBJ 
+fcl -> PU PU PU PU ADVL SUBJ P ADVL ACC ADVL 
+x -> PU PU P ADVL SUBJ 
+par -> PU PU PU PU CJT CJT 
+adjp -> >N 
+advp -> H H 
+fcl -> PU PU PU PU ADVL SUBJ P PIV ADVL 
+fcl -> PU PU PRED SUBJ P SC ADVL 
+fcl -> PU PU PU SUBJ P PRED ACC 
+x -> ADVL SUBJ 
+cp -> H P ACC OC 
+x -> PU PU SUBJ P ACC ADVL ADVL 
+fcl -> PU PU PU PU ADVL ADVL SUBJ P PIV 
+par -> CJT CJT CO CJT 
+icl -> ACC-PASS P PIV SUBJ ADVL 
+x -> SUBJ P ADVL ADVL ACC 
+fcl -> PU FOC SUBJ P ADVL PIV 
+fcl -> ACC SUBJ P ACC 
+fcl -> PU ADVL P ADVL ADVL 
+advp -> H ACC 
+fcl -> SUBJ P SC ADVL ADVL 
+fcl -> PU PU FOC ADVL ADVL P ACC 
+x -> NPHR ADVL P ADVL PASS 
+fcl -> PU ADVL ADVL P SC SUBJ 
+np -> H PU PU PU APP N<PRED 
+fcl -> PU PU PU PU ACC P SUBJ ADVL 
+fcl -> PU PU ADVL P ADVL SC SUBJ 
+fcl -> PU ADVL SUBJ P ADVL SC 
+fcl -> PU CO SUB SUBJ P ADVL ACC 
+np -> H PU PU PU N<PRED APP 
+fcl -> PU SUB SUBJ N<PRED P ACC PIV ADVL 
+fcl -> PU SUBJ ADVL P PIV ADVL ADVL 
+fcl -> PU PU N< SUB SUBJ P ADVL ADVL 
+par -> PU CJT 
+np -> >N H PU PU N<PRED CO CJT 
+fcl -> PU P SC S< 
+fcl -> PU PU SUBJ P SA ADVL ADVL 
+icl -> CO P ACC ADVL ADVL 
+fcl -> PU PU PU ADVL SUBJ P SA ADVL S< 
+fcl -> PU SUBJ P ACC-PASS ADVL 
+fcl -> PASS P 
+icl -> PU P ACC ADVL ADVL PRED ADVL 
+x -> PU H SUBJ P ADVL 
+par -> PU CJT APP CJT 
+x -> PU PRED PRED P 
+par -> PU PU PU CJT CJT PRED 
+fcl -> PU PU PU ADVL PRED X 
+fcl -> PU ADVL SUBJ ACC-PASS P 
+fcl -> PU PU SUBJ SUBJ ADVL P PIV 
+vp -> Vm PU SUB ADVL 
+fcl -> PU PU PU 
+fcl -> ADVL SUBJ P ACC OC 
+x -> PU P ACC SUBJ 
+icl -> P PIV PIV ADVL ADVL 
+icl -> >A PU P ADVL ADVL 
+fcl -> SA SUBJ ACC P OC 
+fcl -> PU PU PU ADVL P ACC ADVL SUBJ 
+fcl -> PU PU PU PU CO ACC P 
+icl -> ACC P ADVL ADVL SUBJ P SA 
+np -> H STA UTT 
+pp -> H >P 
+np -> H N< SUB 
+fcl -> PU PU PU ADVL ADVL SUBJ P ACC SC 
+fcl -> PU PU PU ADVL ADVL SUBJ P PRED ADVL 
+x -> SUBJ ACC P 
+fcl -> PU PU PU PU PU ADVL SUBJ ADVL SUBJ P ACC ADVL 
+icl -> P ADVL SC 
+icl -> P ACC ADVL SUBJ 
+icl -> >N ADVL P ACC ADVL 
+fcl -> PU PU PU PU CO ADVL ADVL ADVL P SUBJ 
+fcl -> PU PU ADVL SUBJ P ADVL ACC PIV 
+icl -> P ADVL PIV 
+fcl -> PU SUBJ PAUX AUX< 
+adjp -> >N H KOMP< 
+fcl -> DAT ADVL P ACC 
+fcl -> PU PU CO ADVL P ADVL 
+fcl -> SUB SUBJ P ACC ADVL ACC 
+icl -> PU P PIV ACC ADVL ADVL 
+fcl -> PREF SUBJ SUB P ACC 
+fcl -> PU ACC SUBJ P SC ADVL 
+fcl -> >N H PU P ACC NPHR PRED 
+fcl -> P ADVL ACC ADVL 
+fcl -> SUBJ ACC SUB P OC 
+fcl -> PU ADVL P PIV 
+fcl -> PU SUBJ SUBJ 
+pp -> H H P< 
+np -> >N >N H PU >N N< 
+x -> ACC P ADVL P PIV 
+icl -> >N P ACC ADVL 
+fcl -> PU >A ACC SUBJ P ADVL ACC 
+fcl -> PU PRED SUBJ P ACC PIV 
+fcl -> PU PU SUBJ P ADVL PIV ADVL 
+icl -> P ACC PIV SUBJ ADVL 
+fcl -> ADVL SUB SUBJ P ADVL ADVL 
+np -> >N PU >N H PU PU N<PRED 
+fcl -> PU PU ADVL ADVL P 
+fcl -> PU PU ADVL SUBJ P PIV ADVL ADVL 
+icl -> SUBJ P ADVL ADVL 
+fcl -> PU PU PU PU ADVL ADVL ADVL SUBJ P ADVL ACC 
+icl -> P OC 
+fcl -> PU PU ADVL SUBJ SUBJ ADVL P ACC 
+fcl -> PU PU PRED PU PU ADVL ADVL SUBJ P ACC ADVL 
+fcl -> PU SUBJ SUBJ P ADVL 
+fcl -> ACC ADVL P ADVL 
+fcl -> PU PU PU PU PU ACC P SUBJ SC 
+fcl -> PU ACC SUBJ P 
+x -> PU SUBJ P SC ADVL P< 
+x -> P SUBJ ADVL ADVL 
+fcl -> PU PU PU PU PU ACC CO CJT X 
+fcl -> PU SUBJ P OC ACC ADVL 
+icl -> SUBJ P OC 
+pp -> H PU P< KOMP< 
+icl -> PU SUBJ P OC SUBJ P ACC ADVL ADVL 
+pp -> H PU STA P< 
+pp -> H H P< P< 
+fcl -> PU PU PU ADVL ADVL SUBJ P ADVL ADVL 
+fcl -> PU PU PU SUBJ ACC ADVL P PIV 
+fcl -> SUBJ ACC P OC 
+fcl -> PU PU ADVL P ACC ADVL 
+fcl -> SUB P ADVL PIV 
+fcl -> PU P SC ADVL 
+pp -> H P< PIV 
+np -> >N H N< CO CJT 
+fcl -> ACC PAUX AUX< SUBJ 
+x -> P ACC OC 
+advp -> H PIV 
+fcl -> PU PU PU SUB PRED ADVL ADVL P ACC-PASS OC 
+fcl -> PU PU PU ADVL P ACC PIV 
+fcl -> PU P ADVL SC SUBJ 
+fcl -> SUB SUBJ P ACC ADVL ADVL 
+fcl -> PU SUBJ SUBJ ADVL P ADVL ACC 
+fcl -> PU PU SUBJ P ACC-PASS PIV 
+pp -> H CO >P P< 
+np -> H N< PU CO N< 
+fcl -> PU SUBJ ADVL P ADVL SC 
+advp -> P ADVL SUBJ 
+fcl -> PU PU PU PU ADVL SUBJ P ADVL SC ADVL ADVL 
+fcl -> PU PU SUB ADVL SUBJ P SC 
+np -> H N< P< 
+advp -> PU ADVL P ACC 
+fcl -> SUB SUBJ SUBJ P SC ADVL P< 
+fcl -> PU PU P ACC PIV ADVL 
+icl -> >N P SUBJ ADVL ADVL 
+fcl -> PU PU ACC ADVL SUBJ ACC-PASS P 
+icl -> ADVL P PASS 
+icl -> ADVL P A< 
+fcl -> SUBJ ADVL PAUX AUX< 
+fcl -> PU PU PU ACC ACC P 
+advp -> SUBJ P ACC ADVL 
+pp -> H P< SUBJ 
+fcl -> PU SUBJ SUB ACC P ACC ADVL 
+fcl -> PU ADVL SUBJ ADVL P PIV 
+x -> P ACC OA ADVL 
+icl -> PU PU P ADVL ADVL ADVL ADVL ACC N< ADVL 
+fcl -> PU PU CO SUBJ P ADVL 
+fcl -> SUBJ P PIV ACC 
+acl -> H AS< AS< 
+icl -> P ACC ADVL SUBJ ADVL 
+adjp -> H APP 
+adjp -> P ADVL ACC 
+icl -> P ACC ADVL N< 
+fcl -> PU PU PU PU ACC P SUBJ ADVL ACC 
+x -> ADVL P SC 
+x -> PU ADVL ADVL P ACC ACC 
+par -> PU PU PU CJT CO CJT CJT CO CJT 
+fcl -> PU PU PU ADVL P ACC PIV ADVL 
+np -> >N N< H PU N<PRED 
+x -> PU P ADVL PRED 
+fcl -> PU PU PU ADVL ADVL SUBJ P ACC ADVL ADVL 
+icl -> ADVL ACC P ADVL 
+icl -> PU P N< ADVL 
+fcl -> DAT SUBJ P ACC 
+fcl -> PU SUB SUBJ ACC P ADVL S< 
+np -> >N H P SC 
+fcl -> PU CO SUBJ P ADVL ACC 
+x -> PU P SA P< 
+icl -> PU PU P ADVL ADVL ADVL 
+np -> H N< PU N<PRED PU SUBJ P ADVL 
+np -> >N H PU N< N< 
+fcl -> PU SUB ADVL P ACC ADVL 
+fcl -> PU SUB SUBJ P SC ADVL ACC 
+par -> CJT CO 
+fcl -> SUBJ P ADVL PIV 
+fcl -> PU PU ADVL SUBJ P SC ADVL ADVL 
+fcl -> DAT SUB P SUBJ 
+fcl -> PU SUBJ ADVL P ADVL PIV ADVL 
+fcl -> ACC P SUBJ OA 
+np -> >N H PU N< P SC SUBJ 
+x -> PU PRED ADVL P ADVL PIV 
+fcl -> PU SUB P ADVL PIV SUBJ 
+x -> P SUBJ ADVL ADVL ACC 
+x -> SUB SUBJ P PIV 
+fcl -> PU PU SUBJ P SC SUBJ 
+fcl -> P ADVL ADVL ACC 
+x -> PRED 
+cp -> H SUB P PASS 
+icl -> >N PU P ADVL ADVL ADVL ADVL 
+x -> P ADVL PIV 
+fcl -> PU PU PU SUBJ ADVL P ADVL PASS ADVL ADVL 
+fcl -> PU PU PU PU SUBJ P ADVL ADVL ADVL ACC ADVL ADVL 
+fcl -> SUB SUBJ ADVL P SA ADVL 
+fcl -> ADVL P SUBJ ACC 
+fcl -> P ACC PIV 
+advp -> H PRED 
+par -> PU PU PU CJT CJT ADVL 
+fcl -> PU PU ACC SUBJ P PIV ADVL ADVL PRED PRED 
+icl -> P ADVL PASS N< 
+fcl -> ADVL ADVL P ADVL ACC 
+icl -> ADVL ADVL P ACC ADVL 
+fcl -> PU ADVL P SUBJ ACC 
+fcl -> PU PU PU PU SUBJ SUBJ ADVL P SC ADVL 
+x -> PU P ADVL PASS ADVL 
+cp -> H P< 
+x -> SUB SUBJ P ACC 
+np -> H CJT 
+par -> PU CJT CO CJT SUBJ 
+np -> N< >N H 
+fcl -> PU ADVL PU PU PU ADVL SUBJ SUBJ SUBJ P PIV 
+vp -> Vm PU ACC ADVL ADVL 
+np -> >N H PU PU PU ADVL 
+fcl -> PU PU SUBJ ADVL P ADVL SC 
+vp -> Vm PU ACC 
+fcl -> ACC P PIV 
+par -> PU CJT ADVL CJT 
+icl -> P ADVL SA 
+icl -> PU P SUBJ ADVL 
+icl -> P OA 
+x -> SUBJ ACC P ADVL ACC 
+fcl -> PU SUBJ CO P ACC ADVL 
+fcl -> ACC SUBJ ADVL ADVL P 
+fcl -> PU SUBJ P< ADVL SUBJ ACC P ADVL 
+fcl -> PU PU ACC SUBJ P ADVL PIV ADVL 
+fcl -> SUBJ ADVL ACC-PASS P ADVL 
+x -> ADVL P SC SUBJ 
+fcl -> PU ADVL ADVL P ACC 
+fcl -> PU CO ADVL P ACC ADVL 
+fcl -> PU PRED SUBJ SUBJ P ACC 
+icl -> P ADVL SA ADVL ADVL 
+x -> ADVL P PASS 
+fcl -> PU ADVL SUBJ SUBJ P ADVL 
+fcl -> SUBJ SUB P ACC 
+x -> SUBJ ADVL P ADVL 
+fcl -> SUB P ADVL SC SUBJ 
+fcl -> PU PU PU ADVL ADVL ADVL SUBJ P ACC 
+x -> ADVL P SUBJ ADVL 
+fcl -> CJT 
+fcl -> PU SUB P 
+vp -> Vm H 
+x -> PU PU SUBJ UTT P ACC ADVL 
+advp -> P SC SUBJ 
+x -> PU P SC ADVL 
+x -> PU STA SUB X 
+fcl -> PU PU PU ADVL SUBJ P SC 
+fcl -> PU SUBJ ADVL ADVL P ADVL 
+x -> ACC ADVL P 
+x -> PU P SC N<PRED 
+fcl -> PU PU PU PU PU ADVL SUBJ P ACC SC 
+fcl -> SC P SUBJ 
+fcl -> PU SUBJ P ADVL SUBJ 
+icl -> PU P ACC ACC 
+fcl -> PU PU PU PU ACC PRED ADVL CO P SUBJ 
+cp -> H >S 
+fcl -> PU PU SUBJ SUBJ P ADVL ACC ADVL ADVL 
+x -> >A PU ACC SUB P ACC 
+fcl -> ADVL ACC P PIV 
+fcl -> PU SUB ADVL P ADVL 
+advp -> PU ADVL P ADVL ACC 
+fcl -> PU PU SUBJ ADVL P ADVL ACC 
+icl -> ACC P PRED ACC PRED 
+np -> >N H N< N< UTT 
+fcl -> SUBJ SUBJ P 
+advp -> ADVL SUBJ P 
+fcl -> PU CO P SUBJ UTT 
+fcl -> PU PU PU PU ACC PIV P SUBJ 
+fcl -> PU SUBJ ADVL 
+np -> H PU SUBJ P ACC ACC P ADVL 
+np -> H PU N< ACC SUBJ 
+fcl -> SUB PAUX AUX< 
+x -> P SUBJ ACC ADVL 
+icl -> >A SUBJ P ADVL 
+x -> SUBJ P SC PRED 
+fcl -> PU CO P ACC ADVL ADVL 
+fcl -> SUB ACC ADVL ADVL P ACC 
+fcl -> PU ADVL P SUBJ ADVL 
+fcl -> PU SUBJ ACC P ADVL 
+vp -> VAUX VAUX PU MV 
+adjp -> H PU N< N< 
+fcl -> PU PU ADVL SUBJ P ADVL SC ADVL 
+fcl -> PU SUBJ P ACC ADVL PRED ADVL 
+fcl -> PU PU PU PU PU ADVL P P SC ADVL 
+icl -> >N P PASS 
+fcl -> PU PU ADVL SUBJ P ADVL SC 
+fcl -> PU PU PRED SUBJ ADVL P ACC 
+fcl -> ADVL SUBJ ACC P ADVL ACC 
+x -> DAT P ACC ADVL 
+pp -> H PU PU P< STA KOMP< 
+np -> H PU CO N<PRED 
+fcl -> ACC P ADVL S< 
+fcl -> PU PU SUBJ ADVL ADVL ACC P ADVL 
+np -> >N >N >N H PU N< 
+fcl -> PU PU ADVL SUBJ P ACC ADVL PRED 
+x -> SUB SUBJ P 
+par -> PU PU PU PU CJT CJT CO CJT 
+fcl -> PU PU ACC SUBJ P ADVL ADVL 
+fcl -> PU PU SUBJ P ADVL PASS ADVL 
+vp -> Vm N< N< 
+x -> P PRED 
+fcl -> PU PU PU PRED P PIV SUBJ 
+fcl -> PU PU PU P ADVL ACC PIV 
+fcl -> PU PU ADVL SUBJ ACC SUBJ P ADVL 
+x -> SUBJ P PIV ADVL 
+x -> SUBJ P SA ADVL 
+icl -> PAUX AUX< 
+np -> >N >N H PU N< ADVL 
+par -> PU CJT CJT CJT CJT 
+fcl -> PU PU SUBJ CO P ACC STA 
+fcl -> PU SUB SUBJ ADVL P SC ADVL 
+fcl -> PU SUBJ P SUBJ ADVL 
+np -> >N H N< PU N< CO CJT 
+np -> H ACC 
+pp -> H P< ACC 
+fcl -> PU SUBJ P OC 
+np -> >N >N H >N N< 
+fcl -> PU PU PU ADVL SUBJ ADVL ADVL ADVL P ADVL 
+fcl -> PU ADVL SUBJ P 
+x -> SUBJ P ADVL ADVL ADVL 
+fcl -> PU PU PU ADVL SUBJ ADVL P ACC 
+fcl -> PU PU PU SUBJ P ADVL PASS ADVL ADVL 
+x -> ADVL ACC-PASS P SUBJ 
+x -> P SA 
+par -> PU PU PU CJT CJT CJT CO CJT 
+x -> PU SUB P PIV ADVL 
+par -> CJT CJT CO CO CJT 
+fcl -> SUBJ ADVL ACC P 
+np -> >N >N >N H CO 
+icl -> PU P ADVL ADVL ACC ADVL 
+advp -> H CO CJT UTT 
+fcl -> PU CO SUBJ ADVL P SC 
+fcl -> PU PU PU SUB SUBJ P ADVL ADVL ADVL N<PRED 
+icl -> P ACC-PASS SUBJ 
+fcl -> PU PU PU SUBJ SUBJ SUBJ P ACC 
+fcl -> ADVL SUBJ P PIV OC 
+fcl -> PU PU PU PU SUBJ P ADVL UTT 
+fcl -> PU P ACC PIV ADVL 
+fcl -> >A PU CO SUBJ P KOMP< 
+fcl -> ADVL ACC P ADVL ACC 
+adjp -> >N H PU N<PRED 
+icl -> PU PU ACC ADVL P PASS 
+fcl -> PU P ACC-PASS SUBJ 
+icl -> P PIV S< PRED 
+fcl -> ACC P ADVL SUBJ 
+x -> ADVL ADVL P ACC ACC 
+pp -> H P< STA 
+icl -> PU PU P PIV 
+s -> PRED 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ACC 
+adjp -> H ADVL 
+fcl -> PU PU PU SUBJ P PRED ADVL ADVL 
+fcl -> PU PU PU ADVL P SC ADVL 
+fcl -> PU PU SUBJ P ACC P< 
+np -> H PU N< PU N< 
+fcl -> PU PU PU ADVL ADVL P SUBJ 
+np -> >N H PU SUBJ N< ADVL P UTT 
+fcl -> PU SUB ADVL SUBJ ADVL SUBJ P SC 
+fcl -> PU PU PU PU SUBJ ADVL P ADVL ACC ADVL 
+advp -> PU P CJT ADVL ADVL ACC 
+fcl -> PU PU SUBJ SUBJ ADVL P ACC ADVL ADVL 
+fcl -> PU PU SUBJ ACC-PASS P PIV ADVL ADVL 
+fcl -> PU ADVL PRED ADVL P SA 
+cp -> H ACC-PASS P ADVL PIV 
+fcl -> PU PU ADVL SUBJ P ACC-PASS PIV ADVL 
+adjp -> H PU CO 
+x -> DAT SUB P 
+np -> H PU N< STA 
+fcl -> PU PU SUBJ P ACC PIV 
+x -> PU PU SUBJ ADVL P ACC PIV 
+fcl -> PU PU SUBJ ACC-PASS P ADVL PIV 
+fcl -> PU PU SUBJ SUBJ ADVL P ACC PIV ADVL 
+par -> PU PU CJT CO CO CJT CJT 
+fcl -> DAT SUBJ SUBJ ADVL P ACC 
+x -> SUBJ P ACC ADVL ADVL 
+x -> >N >A 
+cp -> H PU P ACC ADVL 
+fcl -> SUB SUBJ P ACC X 
+pp -> H PU P< SUBJ P ACC ADVL 
+fcl -> PU PU PU ADVL ADVL SUBJ ADVL P ADVL ADVL 
+fcl -> H CO N< 
+par -> PU CJT P ADVL P 
+fcl -> SUB ADVL P SUBJ ADVL 
+x -> PU SUBJ 
+x -> PU UTT PU PU CJT 
+np -> H PU N< N<PRED 
+fcl -> PU PU PU PRED SUBJ P ADVL ADVL ADVL PRED 
+x -> ADVL SUBJ SUBJ P ACC 
+pp -> H PU P< SUBJ 
+fcl -> PU PU PU ADVL ADVL P SC ADVL PIV 
+fcl -> SUB P ACC ADVL ADVL ADVL ADVL 
+vp -> Vm CJT 
+icl -> P PIV P< 
+pp -> H PU >P P< CJT 
+x -> SUB SUBJ P SC PASS 
+icl -> PU ADVL P PIV 
+fcl -> PU PRED ADVL SUBJ P ACC 
+fcl -> ADVL SUBJ ADVL ACC-PASS P ADVL 
+fcl -> PU PU ADVL P SA ADVL ADVL 
+np -> H ACC P ADVL PIV ADVL ADVL 
+fcl -> PU SUBJ P ADVL ADVL SC ADVL 
+adjp -> P ACC ADVL 
+fcl -> PU PU ADVL SUBJ P ACC SC ADVL 
+fcl -> PU SUBJ ADVL P SA 
+fcl -> PU ADVL P SC SUBJ ADVL 
+fcl -> PU PU PU CO SUBJ P SC ADVL 
+fcl -> PU PU ADVL SUBJ ADVL 
+vp -> Vm P ADVL 
+advp -> PU PU P ADVL SUBJ ACC ADVL 
+fcl -> PU ADVL SUBJ P ACC ADVL ADVL 
+x -> SUB P PIV 
+fcl -> PU SUBJ P ACC ADVL ADVL ADVL ADVL ADVL 
+np -> H PU P ACC ADVL 
+icl -> PU CO P OA CJT CO CJT 
+fcl -> PU PU SUBJ P ACC ADVL ADVL ADVL 
+fcl -> PU SUBJ P PIV ADVL ACC 
+fcl -> PU PU SUBJ P PIV ADVL ADVL 
+fcl -> PU PU PU SUBJ ADVL SUBJ SUBJ PAUX AUX< 
+fcl -> PU PU PU PU SUBJ ADVL P ACC ADVL OC 
+par -> PU PU PU CJT CO CJT CJT 
+icl -> P ACC N< ADVL 
+fcl -> ADVL SUBJ P PIV 
+fcl -> SUB SUBJ ADVL P ADVL ADVL 
+icl -> PU PU SUBJ P 
+par -> PU CJT CJT UTT 
+fcl -> PU SUBJ ADVL P SC N< 
+fcl -> PU SUBJ P PASS SC 
+np -> >N >N APP 
+par -> PU PU PU CJT CJT CJT CO CO 
+icl -> PU P PASS ACC ADVL 
+advp -> H PU APP 
+icl -> >N >A P PASS 
+icl -> P ACC ADVL PRED ADVL 
+fcl -> PU PU PU PU PRED SUBJ P SA ADVL 
+fcl -> PU SUBJ P ADVL ADVL ACC ADVL ADVL 
+fcl -> PU PU PU ADVL P PIV ADVL ADVL 
+fcl -> SUBJ P ADVL SC ADVL 
+np -> H ADVL P ADVL ACC 
+fcl -> PU SUBJ ACC-PASS P ADVL PIV 
+x -> SUBJ ADVL P SC PIV S< 
+fcl -> PU SUBJ P PIV ADVL ACC ADVL 
+adjp -> H >N N< 
+x -> P ADVL SUBJ 
+x -> PU SUBJ P ADVL ADVL ADVL ADVL ADVL 
+fcl -> PU PU PU ADVL ADVL X 
+fcl -> SUB SUBJ ACC P 
+fcl -> PU PU PU PU CO ACC P SUBJ 
+x -> ADVL ACC P OC 
+fcl -> PU PU PU PU TOP X 
+fcl -> ADVL SUB P SA ADVL 
+fcl -> PU PU PU P ADVL ACC S< SUBJ ADVL ACC 
+fcl -> PU PU SUB ADVL ADVL P ACC 
+np -> >N H detinado N< 
+fcl -> PU PU PU P ADVL ACC 
+fcl -> PU TOP SUBJ 
+x -> SUBJ ADVL P ADVL ACC 
+fcl -> PU PU SUBJ P SC ADVL ADVL ADVL 
+icl -> ADVL P SA 
+fcl -> PU PU ACC SUBJ ADVL P ACC ADVL ADVL 
+icl -> PU ADVL P SA ADVL 
+fcl -> PU SUBJ P SC SUBJ 
+x -> AUX< ADVL 
+cp -> H SUBJ PAUX ACC 
+fcl -> ADVL ADVL SUBJ P ADVL ADVL ADVL 
+fcl -> PU PRED P PIV 
+icl -> PU PU P PASS PRED ADVL ADVL 
+fcl -> PU PU P SUBJ ADVL ADVL 
+icl -> PU P ADVL ADVL ADVL ADVL 
+fcl -> PU ADVL ADVL SUBJ SC P SC 
+adjp -> >A H PU N< 
+fcl -> PU PU PU PU ACC ADVL P SUBJ 
+fcl -> SUBJ P ADVL SA 
+fcl -> PIV ACC-PASS P SUBJ 
+x -> PU P SA ADVL 
+fcl -> PU SUBJ CO SUBJ X 
+np -> H P ADVL 
+np -> >N H N< ADVL 
+icl -> P ADVL ADVL ADVL ACC 
+x -> ADVL SUBJ P ADVL ADVL 
+x -> SUB 
+cp -> H ADVL ACC-PASS P ADVL SUBJ 
+x -> ADVL SUBJ P SUBJ 
+par -> PU CJT CJT CO CO CJT 
+fcl -> PU PU CO ADVL P ACC ADVL 
+fcl -> PU PU PU ADVL ADVL SUBJ P ACC ADVL 
+fcl -> ACC SUBJ 
+np -> H ADVL P ADVL 
+fcl -> PU PU ADVL SUBJ ADVL P ADVL ACC ADVL ADVL PRED 
+fcl -> PU PU PRED PRED SUBJ ADVL P ADVL ADVL 
+fcl -> SUBJ P PIV ADVL 
+fcl -> PU PU PU ADVL P ADVL ADVL ADVL 
+fcl -> PU PU PU SUBJ ADVL P ADVL ACC PIV 
+advp -> >A H PU 
+x -> SUBJ ADVL P ACC ADVL 
+fcl -> PU PU ADVL P SC ADVL ADVL 
+advp -> P SC ADVL 
+icl -> PU P ACC PIV ADVL 
+fcl -> PU PU ADVL SUBJ ADVL P PIV ADVL 
+icl -> PU P SUBJ S< 
+fcl -> PU PU PU ADVL SUBJ P PIV 
+x -> SUBJ ADVL P PIV ACC ADVL 
+fcl -> PU SUB P ACC ADVL ADVL 
+fcl -> PU PU ADVL ADVL SUBJ P ACC-PASS PIV 
+icl -> PU PU P ACC PIV ADVL ADVL 
+fcl -> ADVL SUBJ P< P ACC 
+fcl -> PU PU ADVL SUBJ PAUX AUX< 
+advp -> P SUBJ ADVL 
+fcl -> PU PU ADVL ADVL P ACC PRED 
+fcl -> PU P ACC SC ADVL 
+fcl -> PU PU SUBJ SUBJ P ADVL ACC 
+x -> PREF PU PU ACC P ADVL ADVL P ADVL ADVL 
+fcl -> PU PU PU PU ACC ACC P ADVL P SUBJ 
+x -> SUBJ ADVL P SC PRED 
+x -> P ACC PRED 
+fcl -> ADVL SUBJ ACC P ADVL 
+cp -> H PAUX ACC 
+par -> PU CJT CJT CJT CO 
+icl -> PU ADVL P ACC PASS 
+fcl -> P ACC-PASS OC 
+fcl -> PU PU PU ADVL PRED SUBJ P ACC 
+fcl -> PU PU PU SUBJ P ADVL ACC ADVL ADVL 
+adjp -> H PU ADVL ADVL ADVL 
+fcl -> SUBJ ADVL ACC-PASS P ADVL ACC 
+np -> >N H CO ADVL 
+fcl -> PU PU SUB SUBJ P UTT UTT UTT UTT 
+icl -> PU ADVL P ACC 
+x -> ADVL P ACC PIV 
+fcl -> PU DAT PU SUBJ SUBJ ADVL P ADVL ADVL 
+fcl -> PU PU PU DAT PU TOP SUBJ P ACC ADVL 
+fcl -> DAT SUB SUBJ SUBJ P ACC 
+fcl -> DAT PU SUBJ P ACC PRED ADVL 
+np -> >N H PU PU N< CJT CJT 
+icl -> P SUBJ ACC 
+x -> PU NPHR ADVL P ACC 
+fcl -> PU PU PU PU ACC CO X 
+fcl -> PU PU PU ADVL SUBJ P PIV ACC 
+fcl -> ADVL PU SUB SUBJ P PIV OC UTT 
+fcl -> PU SUB P ADVL 
+fcl -> PU PU PU PRED ADVL SUBJ P ACC 
+fcl -> SUB SUBJ P ACC-PASS ADVL ADVL 
+fcl -> PU CO P ACC ADVL NPHR SC 
+advp -> ACC P SA 
+fcl -> PU ADVL SUBJ ADVL P ADVL ACC 
+cp -> H P SC 
+cp -> H ADVL SUBJ SUBJ P 
+fcl -> PU ADVL SUBJ P PRED 
+x -> PU SUBJ P PIV ACC 
+x -> ADVL ACC P SUBJ 
+par -> PU PU PU CJT CJT CJT CJT CJT 
+fcl -> PU PU ADVL P ADVL SC 
+fcl -> SUBJ ADVL P ADVL ADVL 
+fcl -> ADVL ADVL P ACC ADVL 
+x -> NPHR SUBJ ADVL P SA 
+icl -> PU P PASS PRED 
+np -> H P ADVL ACC ADVL PIV 
+fcl -> ADVL SUBJ ADVL P 
+fcl -> PU PU CO SUBJ ADVL P ACC PIV 
+np -> >N PU >N H PU APP 
+icl -> P ADVL ADVL ACC 
+fcl -> PU SUBJ P ADVL ADVL ACC 
+fcl -> SUBJ ACC-PASS P ADVL PIV 
+x -> >A P SUBJ 
+pp -> H PU P< PRED 
+np -> H CO N< N< 
+icl -> PU P ACC PIV ACC SUBJ PRED 
+icl -> ACC-PASS P ADVL PIV 
+icl -> DAT P ACC 
+fcl -> PU PU PU ADVL SUBJ ADVL P PIV ACC ADVL ADVL 
+x -> PU P ADVL ADVL ACC 
+fcl -> PU PU PU ADVL PRED SUBJ P ACC PIV 
+fcl -> PU PU PU PU ADVL SUBJ ADVL SUBJ PRED P 
+fcl -> PU ACC P SUBJ ADVL 
+x -> ACC P OC 
+advp -> P ACC ADVL PIV 
+fcl -> PU PU SUBJ P ACC OA ADVL 
+fcl -> PU PU SUB ADVL ADVL ADVL SUBJ P ACC OA ADVL 
+fcl -> CO CJT 
+icl -> PU SUBJ ADVL P 
+fcl -> H ADVL P< 
+np -> H PU PU N< ADVL AS< 
+vp -> Vm PIV 
+icl -> ADVL P PIV ADVL 
+np -> >N PU ADVL 
+fcl -> PU PU SUB SUBJ P ACC 
+fcl -> PU PU ADVL SUBJ SUBJ ACC P ADVL ADVL 
+fcl -> PU PU SUB SUBJ P SC 
+fcl -> PU PU PU SUB PRED SUBJ ADVL P ACC 
+icl -> PU P ACC P 
+fcl -> ADVL SUBJ P ACC OA 
+fcl -> PU PU P ADVL ADVL ACC 
+fcl -> PU PU PU STA P SUBJ 
+fcl -> SUB P ADVL ADVL 
+pp -> H PU >N H P< 
+fcl -> PU CO P ADVL ADVL 
+fcl -> PU PU ADVL P PIV ADVL 
+fcl -> PU PU PU SUBJ CO ADVL X 
+fcl -> PU PU PU SUBJ ADVL SUBJ P PIV 
+fcl -> PU DAT PU ADVL SUBJ P PIV 
+icl -> PRED P ACC ADVL 
+x -> P PIV SUBJ ADVL ADVL ADVL 
+fcl -> PU PU ADVL SUBJ ADVL P PIV SUBJ 
+adjp -> H P 
+fcl -> SUBJ P ACC PRED SUBJ 
+x -> SUB PRED SUBJ P PIV 
+fcl -> PU SUBJ ACC SUBJ P STA 
+icl -> CO P SUBJ 
+icl -> SUBJ P ACC UTT 
+np -> H P SC 
+pp -> H P< AS< 
+icl -> ADVL >N P PIV ADVL 
+fcl -> PU PU SUBJ ADVL P ADVL PIV ACC 
+fcl -> PU SUBJ ADVL P ACC ADVL S< 
+x -> SUBJ P SC ADVL 
+fcl -> PU PU PU PU PRED SUBJ ADVL P ADVL ACC ADVL 
+fcl -> PU PU PU SUBJ SUBJ SUBJ P SC ADVL 
+fcl -> PU SUBJ ADVL P ACC ADVL SUBJ 
+fcl -> PU PU P PIV 
+adjp -> SUBJ P ACC 
+fcl -> PU PU PU PU PU PU PU PU ADVL SUBJ P SC PRED ADVL ADVL 
+fcl -> ACC SUBJ ADVL P SC 
+x -> PU VOC SUBJ P 
+par -> CJT PRED CJT 
+fcl -> SUBJ P OC ACC 
+adjp -> H KOMP< N< 
+x -> SUBJ ADVL P SA 
+fcl -> PU SUBJ P PIV ADVL SC 
+np -> >N H PU PU P ADVL 
+fcl -> PU SUBJ ACC P OC 
+icl -> PU ADVL ADVL P PASS 
+fcl -> PU ADVL SUBJ ACC P ADVL 
+x -> PU PU P PRED SUBJ 
+fcl -> PU PU P ADVL ACC 
+x -> SUBJ ACC P ADVL 
+icl -> PU P PIV N<PRED 
+fcl -> PU PU PU PRED SUBJ P ADVL ADVL ACC ADVL 
+fcl -> PU PU PU SUBJ P PIV ADVL ADVL 
+fcl -> ACC P OC 
+fcl -> PU SUBJ SUBJ ADVL P ACC ADVL 
+np -> H PU CJT 
+x -> PU P ACC SUBJ ADVL 
+fcl -> PU PU ADVL ADVL P SC ADVL 
+fcl -> PU PU PU PU ACC SUBJ CO P SUBJ 
+fcl -> PU PU FOC ADVL FOC SUBJ P ACC ADVL ADVL PRED ADVL 
+fcl -> PU PU ADVL SUBJ ADVL P ADVL ADVL 
+fcl -> PU PU SUBJ P SA ADVL 
+np -> >N H N< PU P ACC 
+pp -> H PU PU P< P< 
+fcl -> ADVL SUB P 
+pp -> H PU PU P< ACC 
+fcl -> PU PU SUBJ P PASS OC 
+fcl -> PU PU PU SUBJ ADVL P S< SC 
+icl -> DAT P ACC ADVL 
+fcl -> PU PU PU ADVL SUBJ ADVL ACC P ACC ADVL 
+fcl -> PU PU SUBJ P ACC PIV ADVL 
+fcl -> PU PU ADVL P SUBJ ACC 
+fcl -> PU P SUBJ PIV 
+icl -> PU P 
+np -> H ACC PIV 
+fcl -> PU PU NPHR SUBJ PRED P ACC 
+advp -> PU PU SUBJ ADVL P ACC ADVL 
+fcl -> PU ADVL SUBJ ADVL P ADVL 
+fcl -> PU SUB SUBJ P ADVL ACC PRED ADVL 
+icl -> PU PU PU CO P< P SUBJ ADVL ADVL ADVL 
+fcl -> PU PU SUB SUBJ P ADVL N<PRED 
+fcl -> PU SUBJ P ADVL SC ADVL 
+fcl -> PU PU SUB SUBJ P ADVL PIV 
+fcl -> PU SUBJ ACC P OA ADVL 
+pp -> H P< CJT CO CJT 
+x -> P SUBJ SUBJ 
+par -> PU PU PU PU PU CJT CJT 
+pp -> P< ADVL P PIV 
+icl -> PIV 
+par -> PU PU CJT CJT UTT CJT 
+x -> PU PU PU SUBJ P S< PRED ADVL 
+icl -> N< P PASS 
+np -> H P ACC PIV ADVL 
+fcl -> PU ADVL ACC P ADVL 
+fcl -> PU PU ADVL ADVL P ACC ADVL 
+fcl -> PU PU SUBJ ACC P OC 
+advp -> A< 
+icl -> H ADVL P< 
+fcl -> PU SUBJ P ADVL ACC ADVL CJT 
+fcl -> P SUBJ ADVL ACC 
+cp -> H P SUBJ ACC 
+fcl -> PU PU ADVL P ACC-PASS SUBJ 
+np -> >N H CO N< 
+fcl -> PU PU ADVL SUBJ SUBJ P ADVL ACC ADVL 
+np -> >N H N< N< ADVL 
+x -> PU SUBJ P ACC-PASS ADVL ACC 
+adjp -> >N H A< 
+icl -> P ACC OA 
+fcl -> PU PU SUBJ P ACC UTT 
+icl -> PU PRED CO ADVL P ADVL ADVL 
+fcl -> ACC P ADVL ADVL ADVL 
+fcl -> PU PU PU ADVL ADVL PRED SUBJ P ACC PIV ADVL 
+fcl -> PU P PIV ADVL 
+icl -> ACC P PIV ADVL ADVL 
+x -> ACC P SUBJ 
+adjp -> CO CJT 
+adjp -> H N< ACC 
+icl -> PU SUBJ P PRED 
+np -> >N >N H N< PU APP 
+fcl -> ADVL P PIV ADVL 
+fcl -> PU ADVL SUBJ P PIV ACC ADVL 
+fcl -> PU PU PU ADVL PRED SUBJ P ADVL ADVL 
+fcl -> SUBJ P ACC OA ADVL 
+np -> >N H N< >N 
+fcl -> ADVL ACC-PASS P SUBJ PIV 
+icl -> PU P ACC UTT 
+fcl -> PU ADVL SUBJ P ACC PIV 
+x -> SUBJ P ACC ACC 
+pp -> H PU PU P< STA 
+vp -> VAUX MV CO 
+adjp -> >A H PU ADVL P SC 
+x -> PU PRED PU PU SUBJ PRED 
+fcl -> PRED SUBJ 
+x -> ADVL SUBJ SC 
+par -> PU PU PU CJT CJT CO CJT CO 
+advp -> P OC SUBJ 
+np -> >N H N< QUE 
+advp -> H FOC NPHR 
+icl -> >N PU PU P PIV 
+fcl -> PU PU PU PRED P ADVL ACC 
+fcl -> ACC SUBJ P ADVL S< SUBJ 
+icl -> PU P PASS ACC 
+fcl -> PU PU PU P SC 
+par -> H CJT 
+np -> >N CJT CO CJT 
+np -> PU SUBJ 
+vp -> VAUX PRT-AUX VAUX VAUX MV 
+fcl -> SUB SUBJ SUBJ P ADVL 
+fcl -> PU P ACC OA ADVL ADVL 
+cp -> H PU SUBJ P ADVL ACC ADVL 
+fcl -> PU PU FOC SUBJ CO CJT FOC SUBJ X 
+fcl -> PU SA P SC ADVL 
+pp -> H PU P< SUB 
+fcl -> PU PU ADVL P SC ADVL 
+fcl -> PU PU SUBJ CO CJT X 
+fcl -> PU PU PU ADVL SUBJ ADVL P ACC ADVL 
+fcl -> PU PU PU ADVL PRED SUBJ SUBJ P SC 
+x -> SUBJ SUBJ P ADVL ADVL SC 
+icl -> P ADVL PASS ADVL PASS 
+fcl -> PU N< PU SUB PRED SUBJ ADVL P SC 
+fcl -> ADVL ACC P 
+fcl -> P PIV 
+fcl -> ACC SUBJ P ADVL ADVL 
+fcl -> PU PU PU PU SUBJ P ACC ADVL ADVL ADVL 
+par -> CJT CO CJT CO 
+x -> SUBJ SUBJ P OA 
+pp -> PU H PU CO P< UTT 
+x -> SUB SUBJ P ADVL 
+fcl -> PU PU SC P ACC SUBJ 
+fcl -> PU PU ADVL ADVL SUBJ P ADVL 
+fcl -> PU ADVL SUBJ ADVL P SC 
+advp -> PU PU SUBJ P ACC PIV 
+np -> FOC 
+fcl -> PU PU SUBJ P ADVL PIV SUBJ ADVL 
+icl -> PU PU PU P PIV ACC ADVL ADVL ADVL ADVL 
+fcl -> PU P SUBJ PRED 
+cp -> H >N >N H 
+fcl -> COM ACC P 
+np -> CO CJT 
+np -> H N< ACC 
+x -> ADVL ACC P ADVL 
+fcl -> PU ADVL SUBJ X 
+np -> H N< N< N< N< 
+fcl -> PU SUBJ CO SUBJ ADVL P ACC 
+icl -> P ADVL ACC SC 
+fcl -> PU PU ADVL SUBJ ADVL ADVL P ACC 
+fcl -> PU PU PU PU ACC P ADVL P SUBJ 
+x -> SUBJ ADVL P PIV 
+par -> PU PU PU PU CJT CJT CJT 
+fcl -> ACC SUBJ ADVL P ADVL 
+x -> PU PU SUB SUBJ P SC 
+x -> SC P SUBJ N< 
+fcl -> PU PU PU SUB ADVL SUBJ P ADVL ACC 
+fcl -> PU PU PU TOP ADVL P ACC ADVL 
+advp -> >A H KOMP< 
+adjp -> H PU CJT 
+fcl -> PU ADVL P ACC SUBJ 
+fcl -> >A ADVL P 
+fcl -> SUB P SC ACC 
+fcl -> DAT SUB SUBJ SUBJ ADVL P 
+icl -> ACC P ADVL ACC 
+x -> ADVL SUBJ P SC 
+x -> PU PU PU ADVL ADVL P ADVL ADVL ACC 
+x -> P SA ADVL ADVL ADVL 
+fcl -> PU PU SUBJ ADVL P ACC OA 
+fcl -> PU PIV SUBJ P ADVL 
+adjp -> >N >N >A H 
+advp -> H N< 
+fcl -> PU PU PU PU PU ADVL PU ADVL SUBJ SUBJ P ADVL ADVL SC ADVL PRED ADVL ADVL 
+fcl -> PU PU P SC ADVL 
+fcl -> ADVL ACC P PIV ACC 
+fcl -> PU PU ACC P 
+fcl -> PU ADVL P ACC-PASS PIV ADVL 
+x -> PU SUBJ PIV P ACC 
+fcl -> DAT PU SUBJ P ADVL ADVL SC ADVL 
+fcl -> PU PU PU SUBJ ADVL P PIV ADVL 
+pp -> H PU P< N< 
+icl -> PU P ADVL ACC PIV ADVL 
+fcl -> PU ADVL ADVL ACC-PASS P 
+np -> H P ADVL PIV 
+x -> PRED PU SUBJ 
+fcl -> N< SUBJ 
+fcl -> PU PU PU SUBJ P ADVL ADVL SUBJ 
+advp -> H APP 
+fcl -> PU PU PU P SC ADVL SUBJ ADVL 
+fcl -> PU SUBJ ACC P PIV 
+adjp -> >N PU H PU CO 
+icl -> PU PU PU P ADVL ACC PRED PRED ADVL SC ADVL 
+fcl -> PU PU SUBJ SUBJ P SA 
+np -> >N H PU N< PU 
+fcl -> ADVL >N PU SUBJ SUBJ P ADVL 
+fcl -> PU PU ADVL PRED SUBJ P ACC 
+np -> H N< N<PRED 
+pp -> H PU PU P< NPHR 
+advp -> P ADVL ACC ADVL ADVL 
+fcl -> PU SUBJ P ADVL ADVL SUBJ 
+fcl -> PU PU PU ADVL SUBJ X 
+fcl -> >N ADVL P SUBJ ADVL 
+fcl -> PU PU CO SUBJ P ADVL S< 
+fcl -> SUBJ ADVL P ADVL SC ADVL 
+fcl -> SA P SUBJ 
+fcl -> PU PU PU ADVL SUBJ P ADVL PIV 
+fcl -> PU PU PU ADVL SUBJ P SC S< 
+icl -> PU P PIV ADVL N< 
+icl -> PU PU P SC ADVL 
+fcl -> PU SUBJ ADVL P PIV ADVL 
+icl -> ADVL ADVL P PIV 
+fcl -> PU ACC ADVL SUBJ P 
+fcl -> PU PU PU ADVL SUBJ ACC P OC ADVL 
+fcl -> PU PU ADVL ADVL PRED P SUBJ PIV ADVL 
+icl -> P PIV ADVL ACC 
+fcl -> PU SUB ADVL P ADVL ADVL 
+fcl -> PU SUBJ SUBJ ADVL P SC 
+fcl -> PU PU SUBJ SUBJ P ADVL PIV ADVL 
+fcl -> PU TOP P 
+x -> PU P SC 
+par -> PU PU PU CJT SUBJ CJT CJT CJT CJT 
+fcl -> ADVL P SUBJ PIV ADVL 
+icl -> P SUBJ PRED 
+icl -> PRED SUBJ P ACC 
+fcl -> PU PU PU ACC P ADVL P 
+fcl -> SUBJ P N< ADVL ADVL 
+x -> ADVL ACC P 
+fcl -> PU PU ADVL P PASS 
+np -> >N >N H PU SUBJ ADVL P PASS ADVL 
+np -> >N H PU PU PU N< P ADVL N<PRED ADVL 
+fcl -> PU PU PU ADVL ADVL P ACC ADVL ADVL 
+fcl -> PU PU SUBJ P SC S< 
+fcl -> ADVL SUBJ P ACC ADVL ADVL 
+adjp -> >A H A< PU 
+x -> P ACC PRED ADVL 
+par -> PU PU CJT CO CJT PRED 
+icl -> PU P ADVL A< SUBJ 
+x -> SUB SUBJ P SC 
+x -> PU PU SUB ADVL SUBJ P ACC-PASS ADVL 
+np -> H PU N<PRED PU N<PRED 
+np -> H >N H PU CO APP 
+fcl -> PU PU PU SUBJ SUBJ P 
+fcl -> ADVL P ACC N< 
+advp -> PU P ACC PIV PIV 
+np -> >N >N PU H N< 
+fcl -> SUB PIV P SA 
+fcl -> PU TOP P ACC 
+fcl -> PU PU PU PU SUBJ P ACC ADVL 
+fcl -> PU PU PU SUB ADVL P SC SUBJ ADVL 
+fcl -> PU ACC SUBJ SUBJ SUBJ P ADVL PASS 
+fcl -> PU PU ADVL SUBJ P ADVL PIV 
+fcl -> PU PU PU PRED SUBJ P ADVL ACC ADVL 
+fcl -> PU PU SUBJ ADVL P ADVL ADVL PRED 
+fcl -> PU ACC ADVL P SUBJ ADVL ADVL 
+fcl -> PU PU ADVL ADVL P SUBJ ACC 
+fcl -> SUBJ SUBJ ADVL P SC 
+fcl -> PU PU PU PRED PRED PRED P SC ADVL 
+x -> PU PU SUBJ P ADVL ACC 
+pp -> H PU >N PU P< 
+fcl -> PU SUBJ ADVL P SC 
+fcl -> DAT SUBJ P ADVL 
+np -> >N H CO CJT 
+fcl -> PU PU PU PU ADVL SUBJ ADVL P PIV 
+fcl -> PU PU PU ADVL SUBJ P ADVL ACC ADVL 
+fcl -> SUB ADVL SUBJ P PIV 
+np -> H ADVL P 
+icl -> PU PU P ACC PRED PIV 
+fcl -> PU PU SUBJ P ADVL ADVL PIV 
+fcl -> PU PU ADVL P ADVL SUBJ ADVL ADVL ADVL 
+fcl -> PU SUBJ P SC ADVL PASS 
+fcl -> PU SUBJ ADVL P ACC ADVL PRED 
+fcl -> SUBJ SUB P SC ADVL 
+cp -> H SUBJ ADVL P ADVL 
+vp -> Vm ADVL 
+adjp -> >A H A< KOMP< 
+fcl -> PU SUB ADVL ADVL P ACC 
+fcl -> PU PU ADVL SUB ADVL 
+fcl -> SUB P ACC SUBJ ADVL 
+icl -> PU P ACC P SC ADVL 
+icl -> PU P ACC PIV ADVL ADVL ADVL 
+advp -> P PIV ADVL 
+fcl -> SUB P SA 
+x -> P SC SUBJ ADVL 
+x -> P ACC-PASS ADVL 
+x -> ADVL P PRED 
+x -> SUBJ ADVL 
+fcl -> PU PU SUBJ SUBJ P ADVL 
+np -> >N H PU N< SUBJ 
+x -> PU PU PU ADVL P ADVL PIV ACC 
+icl -> PU P ADVL ADVL SC ADVL ADVL 
+x -> P SUBJ PIV 
+x -> ADVL ADVL P SC 
+fcl -> X 
+adjp -> PU ADVL P SUBJ STA 
+fcl -> SUB P SA ADVL 
+fcl -> PU PU PU ADVL SUBJ ACC P ADVL 
+fcl -> PU PU PRED ADVL ADVL SUBJ P SA 
+fcl -> PU PU SUB ADVL ACC P 
+fcl -> PU PU PU ADVL ADVL SUBJ P 
+np -> APP 
+np -> >N H PU SUBJ 
+fcl -> SUB P ACC OC ADVL 
+fcl -> PU PU P SUBJ 
+fcl -> PU PU ADVL SUBJ SUBJ P SC 
+fcl -> PU PU SUBJ ADVL P ACC PRED ADVL 
+fcl -> PU P ACC SUBJ 
+fcl -> PU PU PU PU ADVL SUBJ P ADVL ACC 
+cp -> H ACC ADVL 
+x -> SUBJ SUBJ 
+par -> PU CJT CJT CO CJT CO 
+fcl -> PU PU SUB ADVL SUBJ P PIV ADVL 
+fcl -> PU PU ACC SUBJ P ADVL SUBJ 
+icl -> PU PRED P PASS 
+advp -> H PU A< CJT 
+fcl -> PU PU SUBJ ACC P PIV ACC 
+fcl -> SUB ACC P OC 
+np -> >N H PU >N APP 
+fcl -> PU SUBJ P PIV ACC ADVL 
+x -> PRED ADVL P ACC 
+icl -> >A SUBJ P PASS PIV ADVL 
+np -> H ADVL N< 
+np -> H PU >N PU APP 
+fcl -> >N PU SUBJ P SC UTT S< 
+fcl -> PU PU SUBJ ADVL ADVL P ACC 
+fcl -> PU SUBJ P SUBJ 
+icl -> ACC PAUX ADVL 
+fcl -> ACC P PIV ADVL 
+fcl -> SUB SUBJ P AUX< 
+fcl -> PU CO ACC P SUBJ 
+fcl -> ACC SUBJ P ADVL ADVL ADVL 
+fcl -> SUBJ P SA ADVL 
+x -> PRED P ACC 
+icl -> N< P ACC ADVL 
+x -> PU PU SUB SUBJ P ACC ADVL SC ADVL 
+fcl -> PU PU ADVL ADVL ADVL P ACC 
+np -> >N H P ADVL ACC 
+np -> H PU N< P ADVL SUBJ 
+fcl -> SUB P ADVL SC ADVL 
+fcl -> PU PU ADVL SUBJ P ACC SC 
+fcl -> SUB SUBJ ADVL P PIV ADVL 
+fcl -> SUB ADVL P PIV ADVL ADVL 
+pp -> H P< UTT UTT 
+x -> H PU PU STA 
+fcl -> PU PU PU ADVL P PIV OC 
+icl -> PU P PASS PIV ACC ADVL ADVL 
+fcl -> PU PU PU SUBJ ADVL P SC 
+par -> PU PU PU PU PU CJT CJT CJT 
+icl -> PU SUBJ P PIV 
+icl -> PU H SUBJ PIV 
+x -> PU SUB P SA 
+par -> CJT SC CJT 
+fcl -> PU PU PU SUBJ PRED X 
+fcl -> PU PU PU CO ADVL PRED SUBJ P SC 
+fcl -> PU PU PU PU SUB ADVL SUBJ P S< 
+icl -> PU P SUBJ 
+fcl -> PU PRED ADVL ADVL P SC 
+adjp -> H >N 
+fcl -> PU PU PU PU SUBJ ADVL SUBJ P ACC ADVL 
+par -> PU PU PU PU CJT SUBJ CO CJT 
+fcl -> ADVL SUBJ P PIV ADVL 
+fcl -> PU PU PU SUBJ SUBJ ADVL P SC 
+np -> H P ADVL ACC 
+np -> H PU >N N<PRED 
+adjp -> >A H CO KOMP< 
+fcl -> PU PU PU PU P ACC ADVL 
+advp -> P PIV SUBJ 
+fcl -> PU PRED SUBJ SUBJ P PIV ACC 
+x -> ADVL NPHR ADVL P 
+fcl -> PU PU PU PU ADVL ADVL SUBJ P SC ADVL ADVL 
+fcl -> PU PU PU ADVL PRED ADVL SUBJ ADVL P SC 
+fcl -> PU PU >N PU ADVL SUBJ P S< 
+fcl -> DAT SUBJ P 
+pp -> H PU P< ACC 
+fcl -> PU PU PU SUBJ ADVL P PIV ACC ADVL 
+fcl -> SUB SUBJ P ADVL ACC ADVL 
+icl -> ADVL >N P ACC 
+pp -> H PU >P P< P< 
+fcl -> PU PU ADVL SUBJ P ACC N< 
+fcl -> PU PU SUB SUBJ P ADVL PIV ADVL 
+fcl -> PU PU PU ADVL ADVL SUBJ P ADVL ACC 
+x -> P SUBJ OC 
+fcl -> SUBJ SUB P SA 
+pp -> H P< ADVL AS< PASS 
+icl -> PU ADVL P ACC ACC PRED 
+fcl -> PU PRED SUBJ P SC P SC 
+advp -> H PU A< STA 
+fcl -> PU PU ADVL SUBJ ADVL P ACC OC 
+adjp -> H N< N< 
+icl -> PU ACC P OC ADVL 
+icl -> ADVL 
+vp -> Vm ACC SUBJ ADVL P 
+par -> PU PU DAT CJT CJT ADVL CO P ACC 
+fcl -> PU PU PU PU SUBJ ADVL P ACC ACC 
+fcl -> SUB P ADVL PASS 
+icl -> PU PU P ACC ADVL 
+icl -> CO ADVL P ACC 
+icl -> P ACC UTT 
+fcl -> PU PU SUBJ ADVL P ACC PIV ADVL 
+fcl -> PU PU ADVL ACC P ACC PIV 
+pp -> H PU >P P< CO CJT 
+fcl -> SUB SUBJ P ACC PIV ADVL ADVL 
+icl -> PU PU P ADVL ACC PIV 
+fcl -> PU P ACC-PASS SUBJ ADVL 
+fcl -> PU PU ADVL P ACC ADVL PRED 
+fcl -> PU SUBJ P ACC OA ADVL 
+fcl -> PU PU SUB P ADVL ADVL 
+x -> P ACC SC 
+par -> PU PU PU CJT CJT CO CJT 
+np -> H PU PU ADVL 
+x -> PU SA P SUBJ P< 
+advp -> PU P ACC PIV 
+icl -> P ADVL PRED 
+icl -> PU P ACC ADVL PIV 
+fcl -> PU PU ADVL P ACC SC 
+icl -> PU P PIV ACC ADVL 
+fcl -> PU PU SUB SUBJ ADVL P ACC 
+icl -> P ACC ACC 
+fcl -> PU PU PU SUBJ P SC 
+fcl -> PU SUBJ CO P ADVL ADVL ACC ADVL ADVL 
+fcl -> P< ADVL P SC 
+fcl -> PU PU ADVL ADVL P ACC ADVL ADVL ADVL 
+fcl -> SUBJ ACC ADVL P ADVL 
+fcl -> PU PU >N PU SUBJ ADVL ADVL ADVL P ACC ADVL 
+fcl -> PU SUBJ P ACC PIV ADVL ADVL 
+par -> PU PU PU PU PU CJT CO CJT CJT 
+fcl -> SUBJ ADVL P SA 
+x -> PU P SUBJ ADVL 
+icl -> PU PU P PASS ADVL ADVL 
+x -> SUBJ P ACC ADVL PIV 
+fcl -> PU PU PU PU SUBJ ADVL ADVL P PIV ADVL 
+fcl -> PU PU PU PU SUBJ P SC ADVL ADVL ADVL ADVL 
+fcl -> PU PU ADVL ADVL P SC OC 
+fcl -> PU PU PU SUBJ SUBJ PRED ADVL ACC P ADVL 
+x -> P SA SUBJ 
+fcl -> PU PU SUBJ ADVL ADVL SUBJ P PIV 
+x -> ADVL ADVL P 
+fcl -> PU SUBJ P ADVL PIV ACC 
+fcl -> PU PU PU SUBJ ADVL FOC SUBJ P ACC ADVL 
+advp -> H A< A< 
+np -> >N >N >N H N< P ADVL 
+fcl -> PU SUBJ P ACC N< 
+fcl -> PU SUB SUBJ P ADVL ACC ADVL ADVL ADVL ADVL 
+fcl -> PRED SUBJ P 
+np -> H PU ACC P PRED 
+x -> PU PU SUBJ SUBJ ADVL ACC P PIV 
+x -> ADVL ADVL ADVL P ADVL 
+fcl -> PU CO SUBJ P ACC ADVL 
+fcl -> PU SUB SUBJ P PASS ADVL ADVL 
+fcl -> PU PU ADVL ADVL P ADVL 
+x -> ADVL P SUBJ 
+vp -> VAUX PU N<PRED MV 
+x -> >A PU P ADVL ADVL 
+par -> PU PU PU CJT CJT CO CJT CJT 
+fcl -> PU SUB P ACC ADVL ADVL N< 
+np -> >N H -N< 
+icl -> P PASS ADVL PASS 
+icl -> DAT P ADVL ACC 
+fcl -> PU PU PU PRED ACC P SUBJ 
+fcl -> PU SUB SUBJ SUBJ ADVL P ACC ADVL 
+fcl -> SUB PU PU SUBJ P ADVL ACC 
+par -> PU PU PU PU PU PU CJT CJT CO CJT CO CJT CJT 
+x -> SUBJ ADVL P ACC-PASS ADVL 
+fcl -> PU ADVL P ACC PIV N< 
+x -> PU P ADVL ACC 
+fcl -> ADVL PU ADVL P SUBJ ADVL 
+advp -> P ACC-PASS SUBJ N< 
+par -> CJT CJT CO CJT CJT 
+fcl -> PU PU P ADVL SUBJ ADVL 
+icl -> P ADVL PIV ADVL ADVL 
+icl -> PU P ACC ADVL PRED 
+vp -> VAUX PRT-AUX PU MV 
+x -> PU ADVL SUBJ P 
+par -> PU CJT CO CJT ADVL 
+adjp -> H PU SUBJ ACC P ADVL 
+icl -> PU P ADVL ADVL ADVL SC 
+adjp -> P SUBJ PRED 
+fcl -> SUBJ P ACC ADVL PIV 
+fcl -> PU PU PU PU PU SUBJ P ADVL PRED PRED 
+x -> PU PU PRED ADVL P ACC 
+fcl -> PU PU PU SUBJ PRED SUBJ SUBJ ACC-PASS P ADVL ADVL ADVL 
+fcl -> SUBJ SUB ADVL P ACC 
+par -> PU CJT CO 
+icl -> P ADVL ACC ADVL ADVL 
+icl -> P OA ACC ADVL 
+np -> H SC 
+icl -> PU N< PU P SA ADVL PIV 
+fcl -> PU PU PU SUBJ SUBJ ADVL P ACC 
+fcl -> PU PU PU PU ADVL P ADVL ADVL 
+cp -> H ADVL P ACC ADVL ADVL 
+np -> >N H N< PU N< N< 
+icl -> P PIV PRED 
+icl -> ACC P ADVL PIV 
+x -> PU PU P PRED PRED 
+fcl -> PU P ADVL ACC KOMP< 
+x -> PU ADVL P 
+fcl -> CO ADVL P 
+vp -> Vm PU P SUBJ 
+np -> >N PU ACC ACC 
+fcl -> PU >A H PU PU PRED P< P SC 
+fcl -> PU PU SUB ADVL P ADVL ACC 
+icl -> PU P SUBJ ADVL ADVL 
+fcl -> PU PU PU PU ADVL P OA ADVL 
+fcl -> ADVL P SC ADVL 
+fcl -> PU PU PU PU PU SUBJ ADVL P ADVL ADVL 
+advp -> FOC 
+advp -> H PU SUBJ P ACC ADVL 
+icl -> PU PU ADVL P ACC ADVL ADVL 
+fcl -> PU PU ADVL SUBJ P OA ACC 
+fcl -> PU PU PU SUBJ ADVL SUBJ P ADVL PRED 
+icl -> PU P PRED ADVL ADVL 
+fcl -> PU PU PU SUBJ SUBJ ADVL P ACC SUBJ 
+fcl -> PU SUBJ ADVL P ADVL ADVL ADVL 
+fcl -> SUB ACC P PIV 
+fcl -> PU PU PU TOP ADVL P SUBJ 
+fcl -> PU PU SUBJ ACC P 
+fcl -> SUB P SUBJ ADVL 
+cp -> H P SUBJ ACC ADVL PRED 
+np -> H PU PU APP CO 
+icl -> PU P PASS P ACC ADVL 
+x -> P ADVL ADVL ADVL 
+np -> >N >N H CO 
+fcl -> PU PU PU PU PU SUBJ ADVL SUBJ ADVL SUBJ P ACC 
+advp -> H PU H P< 
+fcl -> PU PU ADVL ADVL ADVL SUBJ P ACC 
+fcl -> PU PU SUBJ P PIV PIV 
+x -> PU ADVL P ADVL SUBJ 
+np -> H >N KOMP< 
+icl -> PU PU PU P ACC PRED PRED PRED ADVL 
+fcl -> PU PU PU CO SUBJ P ACC ADVL 
+fcl -> PU ADVL P ADVL SUBJ 
+advp -> PU P ADVL ADVL ADVL ADVL 
+x -> PU P SUBJ ADVL ADVL ACC ADVL 
+fcl -> PU PU SUBJ ADVL X 
+fcl -> PU PU PU ADVL P SC ADVL SUBJ 
+np -> H N< PRED 
+np -> H N< ADVL ADVL 
+advp -> PU P ADVL ADVL 
+np -> >N H N< ACC 
+np -> >N H PU PU N< SUBJ 
+icl -> >N FOC P ACC 
+fcl -> PU PU SUBJ ADVL P SC ACC 
+fcl -> PU CO P SC SUBJ 
+np -> >N H PU PU >N H N< 
+fcl -> PU PU SUBJ SUBJ P PRED 
+icl -> PRED P ADVL ACC 
+fcl -> PU ADVL SUBJ P ACC ADVL PIV 
+fcl -> PU FOC SUBJ ADVL FOC P ACC PIV 
+fcl -> PU PU PRED SUBJ P ADVL 
+fcl -> PU SC ADVL ADVL P SC 
+fcl -> ADVL PU PU SUBJ ADVL P ACC ADVL ADVL STA 
+fcl -> SUB ACC SUBJ P ACC 
+fcl -> PU PU SUB SUBJ ADVL P PIV ADVL 
+fcl -> PU SUBJ P ADVL SC NPHR 
+fcl -> PU PU PRED SUBJ P ADVL ADVL 
+x -> PRED P ADVL ADVL ADVL ADVL 
+fcl -> SUBJ FOC SUBJ P SC 
+x -> P ADVL SC 
+fcl -> PU PU PU SUB ADVL P ACC-PASS OC ADVL 
+fcl -> PU SUBJ P ADVL SC 
+icl -> PU PU P ADVL SC ADVL 
+fcl -> PU SUBJ ADVL P ADVL ACC ADVL PIV 
+fcl -> PU PU SUBJ ADVL P ACC-PASS 
+fcl -> PU PU ADVL SUBJ P ACC-PASS PIV 
+icl -> SUBJ P SC ADVL 
+fcl -> PU PU SUB ADVL ADVL ADVL P ACC 
+fcl -> PU PU PU PU TOP ADVL ADVL P PIV ADVL 
+fcl -> PU SUBJ CO P ACC 
+fcl -> SUB SUBJ P OA 
+fcl -> PU PU PU ADVL SUBJ CO CJT SUBJ X 
+fcl -> PU SUBJ SUBJ P ADVL ADVL ACC 
+x -> PU P ADVL ADVL PRED 
+fcl -> PU PU SUBJ ADVL P OC ACC 
+fcl -> PU PU PU P ADVL ADVL 
+fcl -> PU PU SUBJ P ACC-PASS OA ADVL 
+fcl -> PU ADVL ADVL SUBJ P ACC ADVL 
+fcl -> PU PU ADVL SUBJ P SA ADVL 
+icl -> ACC-PASS P ADVL ACC 
+fcl -> SUBJ P PIV ADVL ADVL 
+fcl -> PU SUBJ FOC SUBJ ACC-PASS P OC 
+icl -> ADVL P SC 
+fcl -> PU SUBJ P OC ACC SC ADVL 
+fcl -> >N ADVL SUBJ P 
+x -> H PU PU ADVL APP P OC ACC 
+np -> >N ACC ADVL ADVL 
+x -> P ACC P< 
+fcl -> PU ACC CO P 
+fcl -> PU PU PU PU ACC ACC P 
+fcl -> PU SUBJ ACC-PASS P ADVL ADVL 
+adjp -> H PU PU NPHR 
+np -> H PU ADVL ADVL 
+fcl -> PU SUB ACC P ADVL OC SUBJ 
+fcl -> PU SUBJ ADVL P SUBJ UTT ACC UTT 
+fcl -> PU PU ACC P ADVL PRED 
+adjp -> >N H >A 
+x -> SUBJ ACC-PASS P PIV 
+fcl -> PU SUBJ SUBJ P PASS ADVL 
+fcl -> PU PU PU PU PU SUBJ SC SUBJ ADVL P SUBJ 
+fcl -> PU SUBJ SUBJ ADVL P PASS ADVL 
+fcl -> PU PU PU PRED ADVL SUBJ ADVL P SC 
+icl -> P SC PIV 
+adjp -> H PU KOMP< 
+cp -> H PU P SC 
+par -> PU PU CJT CO CJT CO 
+icl -> PU ADVL ADVL P ACC ADVL 
+fcl -> PU COM P ADVL ADVL 
+fcl -> PU PU PU CO ADVL SUBJ ADVL P ADVL ACC KOMP< 
+fcl -> PU SUBJ ACC-PASS P 
+x -> PU ADVL SUBJ P SC ACC 
+fcl -> N< PU P ACC 
+fcl -> PU CO SUBJ ADVL P ACC 
+fcl -> PU PU SUBJ P PIV ADVL ACC 
+fcl -> PU PU PU PU PU ADVL SUBJ P OA ACC ADVL ADVL 
+fcl -> SUB SUBJ ADVL P ADVL PRED 
+fcl -> SUBJ SUB P ADVL ACC 
+fcl -> PU SUBJ ADVL ADVL P ACC ADVL ADVL 
+x -> PU SUBJ P SUBJ 
+advp -> PU P PIV ADVL 
+fcl -> PU PU PU P ACC ADVL ADVL 
+fcl -> PU PU PU P ADVL PRED ADVL 
+fcl -> PU PU PRED PAUX AUX< 
+fcl -> SUBJ P ACC SA 
+x -> SUB SUBJ P ACC ADVL 
+fcl -> SUB PU PU SUBJ ADVL P ACC ADVL 
+x -> PU PU SUBJ ADVL P ADVL ADVL 
+fcl -> PU PU PU PU ADVL ADVL X 
+fcl -> PU PU PU PU SUBJ ACC ACC ADVL ADVL P SUBJ 
+fcl -> P< P PIV ADVL 
+np -> H PU PU ADVL P SC 
+np -> H N< >N N< 
+fcl -> SUB P OC 
+fcl -> ADVL SUBJ P P< 
+x -> P PIV ADVL ADVL 
+x -> PU PU AUX< ACC ADVL PAUX ACC ADVL 
+pp -> H PU PU P< CJT P< 
+fcl -> PU PU PRED SUBJ SUBJ P ACC ADVL 
+fcl -> PU PU PU P ADVL ACC SUBJ ADVL 
+fcl -> PU CO SUBJ P SC 
+fcl -> PU PU PU P ACC ADVL PIV 
+fcl -> PU PU PU PU PU ACC ADVL P 
+fcl -> PU PU PU PU ADVL P ACC P SUBJ ADVL 
+np -> >N H PU STA 
+fcl -> PU ADVL ADVL P SUBJ ADVL 
+advp -> P ACC PIV ADVL 
+icl -> P ACC PIV N< 
+fcl -> PU CO SUBJ FOC P ADVL ACC 
+fcl -> PU PU PU PU PU ACC PRED P SUBJ 
+fcl -> SUB SUBJ ADVL P ADVL ADVL ACC 
+fcl -> PU PU PU SUBJ P ADVL ADVL ADVL ACC ADVL 
+fcl -> PU PU SUBJ P OA 
+par -> PU CJT CO CJT UTT 
+fcl -> PU PU SUB ADVL P ACC ADVL ADVL ADVL ADVL 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ADVL ADVL 
+icl -> PU P SUBJ P< ADVL ADVL 
+fcl -> SUB P PASS ADVL 
+fcl -> PU PU PU TOP ADVL P PIV 
+fcl -> PU ADVL P SUBJ S< 
+x -> PU P PIV ADVL 
+icl -> PASS ADVL P 
+x -> SUB ADVL P ADVL PIV 
+x -> ADVL P OA 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ADVL PIV 
+fcl -> PU CO SUBJ P PIV 
+fcl -> PU ACC P ADVL N<PRED 
+fcl -> PU PU PU PU ADVL P ACC 
+fcl -> ADVL PU PU PU ADVL SUBJ SUBJ P ACC OC 
+fcl -> SUB SUBJ ACC-PASS P PIV ADVL 
+np -> H PU N< SC 
+par -> PU CJT SC CJT 
+fcl -> PU SUBJ SUBJ P ADVL PIV ADVL 
+fcl -> ADVL P ACC ADVL ADVL 
+np -> >N H N< PU CO 
+icl -> PU P ADVL ACC ADVL ADVL 
+x -> ACC P PIV SUBJ 
+cp -> H >N H N< 
+fcl -> PU PU ADVL SUBJ ADVL P ACC-PASS ADVL 
+fcl -> SUB SUBJ P PIV ADVL ADVL 
+fcl -> PU PU ADVL SUBJ ADVL ACC P ADVL PIV 
+adjp -> >N >A H N< 
+x -> PU ADVL P ADVL ACC ADVL 
+fcl -> SUBJ P SC ADVL PRED 
+fcl -> PU SUBJ ADVL P 
+fcl -> CO SUBJ P 
+fcl -> PU P SUBJ ACC 
+np -> H PU N<PRED N<PRED 
+np -> H PU N< SUBJ SUBJ 
+icl -> PU ACC P PIV ADVL 
+fcl -> PU PU ADVL ADVL SUBJ 
+fcl -> PU PU SUBJ ADVL SUBJ P SC 
+fcl -> PU PU SUBJ ADVL ADVL N< P ACC 
+fcl -> PU PU PU SUBJ P ACC ADVL ADVL 
+fcl -> PU SUBJ SC P PIV 
+fcl -> PU SUBJ CO P 
+fcl -> SUBJ P ADVL ACC ADVL ADVL 
+adjp -> P OA 
+fcl -> SUBJ PIV ACC P ADVL 
+cp -> H PRED P 
+np -> >N H N< PU N<PRED N<PRED 
+fcl -> PU PU SUB SUBJ ADVL P ACC-PASS PIV ADVL 
+x -> PU SUB ACC 
+fcl -> PU PU TOP P ACC 
+icl -> PU PU PU P ADVL ADVL ADVL 
+fcl -> PU SUBJ P SC PRED 
+fcl -> PU PU PU ADVL SUBJ ACC P ADVL ADVL 
+icl -> P N< ADVL 
+x -> NPHR P SUBJ 
+x -> PU ADVL SC P SUBJ 
+x -> P ADVL SUBJ ADVL 
+adjp -> H CJT 
+icl -> PU P ACC ADVL PRED ADVL 
+fcl -> PU PU PU SUBJ ADVL SUBJ ADVL P OC ACC 
+np -> xxx 
+np -> (011)_883-1927 PU APP 
+fcl -> PU SUBJ P SA SC CJT 
+np -> >N H N< PU PU P ADVL N<PRED ADVL 
+fcl -> CO ADVL P ACC OC 
+advp -> PU PU SUBJ P ACC-PASS ADVL SUBJ ADVL 
+np -> >N H N< N< PU APP 
+advp -> H PU N<PRED 
+x -> PU PU P SUBJ ADVL ADVL 
+par -> SUBJ CJT CO CJT 
+fcl -> PU PU SUB P ACC ADVL ADVL ADVL 
+icl -> >N P ADVL ADVL ADVL 
+fcl -> PU PU SUBJ SC P ACC 
+icl -> PRED P PIV 
+fcl -> SUB PU SUBJ P ADVL 
+fcl -> SUBJ P SC SUBJ 
+np -> H N< PU PU PU N< 
+icl -> P ADVL PIV PRED UTT 
+fcl -> PU PU PU P SC ADVL SUBJ 
+pp -> H P< QUE 
+fcl -> ADVL SUBJ P ACC P 
+fcl -> PU N<PRED PU ADVL ADVL P PIV 
+x -> PU SUBJ P ACC ADVL ADVL 
+adjp -> H PU N< QUE 
+par -> PU PU PU PU CJT CJT CJT CJT 
+fcl -> PU PU PU SUBJ ADVL ADVL P ACC-PASS ADVL 
+fcl -> PU PU PU P SUBJ ACC ADVL 
+icl -> PU SUBJ P ACC 
+fcl -> ADVL ACC P ADVL PIV 
+fcl -> PU PU PU PU PU ACC PRED ADVL P SUBJ 
+fcl -> PU PU SUB SUBJ P SC ADVL 
+cp -> H P 
+icl -> PU P PASS ADVL UTT 
+np -> >N H PU PU N< STA 
+fcl -> PU PU PU ADVL SUBJ P ACC S< 
+fcl -> PU PU PU PU SUBJ P SC 
+fcl -> PU PU SC SUBJ P ADVL ACC ADVL ADVL 
+fcl -> PU SC P ADVL ACC 
+par -> PU PU PU PU CJT CO CJT CJT 
+fcl -> PU PU SUBJ P PASS ADVL ADVL ADVL 
+fcl -> PU ACC P S< 
+icl -> PU SUBJ P ACC PIV 
+adjp -> H PU ACC 
+fcl -> PU PU PU PU PU PU ACC PRED P SUBJ 
+icl -> ADVL P ACC OA 
+fcl -> PU PU SUB P SC ADVL ADVL 
+fcl -> ACC SUBJ PIV P ADVL 
+fcl -> PU SUBJ P ADVL SC ADVL PIV 
+np -> H N< PU PU N<PRED 
+np -> PU PU SA P SUBJ APP 
+fcl -> ADVL FOC SUBJ FOC P 
+fcl -> PU SUBJ ADVL P ADVL ADVL ADVL ADVL 
+fcl -> PU PU P PRED PRED 
+np -> H PU PU N<PRED P PRED 
+icl -> P ADVL SC ADVL 
+x -> SUBJ SUBJ ACC P ADVL 
+fcl -> PU PU PU CO SUBJ SUBJ P ACC ADVL 
+icl -> P PIV ADVL PRED 
+icl -> >N P ACC ADVL ADVL ADVL 
+fcl -> ADVL SUBJ ADVL P PIV 
+fcl -> SUB ACC P SUBJ 
+fcl -> PU PU SUBJ P SC ACC 
+fcl -> PU PU P ACC N< 
+adjp -> H N< A< 
+icl -> P ADVL OC 
+fcl -> PU P SC ACC 
+x -> ADVL SUBJ ADVL P ACC 
+icl -> PU ADVL PAUX ACC 
+fcl -> PU PU SUBJ P AUX< 
+fcl -> PIV P ACC 
+fcl -> ADVL ACC P ADVL 
+fcl -> PU SUBJ PRED P ADVL 
+x -> ADVL SUBJ P ADVL ACC 
+fcl -> PU SUBJ P ADVL ACC SC 
+fcl -> PU PU ADVL SUBJ P ACC ACC 
+fcl -> SUB SUBJ P SUBJ ADVL 
+fcl -> P ADVL ADVL SC 
+x -> NPHR SUBJ P ACC 
+icl -> ADVL P PIV ADVL ADVL 
+x -> ACC P ACC 
+fcl -> SUB P PIV ADVL SUBJ 
+fcl -> PU PU SUBJ P ACC ADVL PIV ADVL 
+cp -> H SUBJ P SA 
+icl -> P CO A< 
+x -> PU ACC FOC P 
+fcl -> PU PU ADVL P ADVL ADVL N<PRED 
+pp -> H PU PU P< PRED NPHR 
+fcl -> PU PU SUBJ SUBJ ADVL ADVL P ADVL 
+x -> PU P SUBJ ACC 
+fcl -> PU PU PU PU ACC X 
+fcl -> PU ACC SUBJ P ACC SC 
+fcl -> PU PU SUB P ADVL SC N< 
+advp -> H PU ADVL 
+x -> PU FOC P ADVL ADVL 
+x -> PU PRED P ADVL ACC ADVL 
+pp -> H PU P< SUB PRED 
+fcl -> SUB SUBJ ADVL P ADVL SC 
+fcl -> VOC P ACC 
+x -> SUBJ P SUBJ 
+fcl -> PU PU ADVL ADVL ADVL P PIV 
+np -> >N >N >N >N H PU N< 
+adjp -> >A H PU 
+fcl -> PU PU DAT SUBJ ADVL P ADVL ADVL 
+icl -> SUBJ P ADVL ADVL ADVL 
+fcl -> PU PU CO ADVL P SC ADVL SUBJ UTT 
+fcl -> PU PU ADVL SUBJ SUBJ P ACC ADVL 
+fcl -> PU PU SUB P ADVL PIV 
+fcl -> PU PU PU PU ADVL SUBJ P ACC ADVL 
+fcl -> PU PU PU ADVL ADVL SUBJ P SC 
+icl -> PU ADVL P SC 
+np -> H ADVL ADVL 
+icl -> ADVL P ADVL ADVL 
+fcl -> PU >N PU ADVL SUBJ ADVL ADVL ADVL P SC UTT 
+fcl -> PU PU SUB SUBJ P PIV ADVL ACC 
+fcl -> VOC PU P ACC 
+np -> >N H PU N< PU N< 
+icl -> ADVL P SC ADVL 
+fcl -> PU PU ADVL ADVL SUBJ P ACC ADVL N< 
+fcl -> PU PU SUB ADVL ACC-PASS P SUBJ PRED 
+fcl -> PU PU SUBJ PRED P ACC 
+fcl -> PU PU PU PU CO ADVL P SC ADVL 
+pp -> H PU P< AS< 
+icl -> PU P ADVL ADVL N< 
+fcl -> PU PRED P 
+x -> ADVL ACC P ACC 
+fcl -> PU PU PU PU TOP SUBJ P ACC ADVL ADVL 
+adjp -> P ACC OC 
+fcl -> PU PU CO SUBJ P ACC 
+icl -> P ADVL ACC SUBJ 
+fcl -> PU SUBJ SUBJ ADVL P ADVL 
+fcl -> PU ADVL ADVL P ACC SUBJ 
+x -> PU P ADVL ACC PIV ADVL 
+np -> H APP KOMP< 
+fcl -> PU CO ADVL SUBJ ADVL P ACC ADVL 
+fcl -> SUB SUBJ P ACC PIV ADVL 
+fcl -> PU PU SUBJ SUBJ P OC ACC 
+np -> N< PU N< 
+adjp -> H H 
+fcl -> PU ADVL ADVL ADVL SUBJ P PIV ACC 
+fcl -> PU PU ACC ADVL ADVL P ADVL 
+fcl -> PU SUBJ P ACC OC ADVL 
+fcl -> PU PU SUBJ ADVL P ACC N< ADVL 
+fcl -> PU PU PU PU ADVL SUBJ ADVL P ADVL ADVL ADVL 
+x -> ADVL ADVL P ACC 
+advp -> H >N H N< 
+icl -> P ADVL CO ADVL 
+fcl -> PU PU PU ADVL ADVL SUBJ P ACC PRED 
+np -> >N PU 
+adjp -> H >N H 
+x -> PU ADVL SUBJ ADVL P ACC 
+fcl -> SUB SUBJ ADVL P ACC PIV ADVL 
+fcl -> PU PU PU SUBJ P ADVL ADVL ACC 
+x -> PIV P ADVL 
+fcl -> PU CO SUBJ SUBJ X 
+fcl -> PU PU PU PU ADVL P SC SUBJ 
+x -> SUBJ P ACC UTT 
+fcl -> PU ADVL SUB P ADVL ACC 
+advp -> SUBJ P ACC ACC 
+fcl -> ADVL PU P SC SUBJ 
+fcl -> PU PU CO SUBJ P ADVL ADVL 
+adjp -> >N H PU PU N<PRED 
+fcl -> PU ADVL SUBJ P SC ACC 
+fcl -> PU PU SUB ADVL SUBJ P ACC ADVL ADVL 
+vp -> Vm PU CO 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ACC PRED PRED 
+np -> >N H N< N<PRED 
+x -> PRED SUBJ ADVL P PASS 
+x -> P ADVL PASS SC 
+fcl -> SUB ADVL P ACC SUBJ 
+fcl -> PU PU PU SUBJ N<PRED P PIV ACC 
+fcl -> PU ACC SUBJ ADVL P 
+pp -> H PU >P P< UTT 
+icl -> PU P ACC OA ADVL 
+icl -> FOC P ADVL 
+fcl -> PU PU P PIV ADVL 
+fcl -> PU PU ADVL P SUBJ PIV 
+fcl -> PU PU PU PU ADVL SUBJ P ADVL PIV 
+adjp -> ACC P PIV 
+fcl -> PU PU PU P ADVL PIV ADVL 
+icl -> P SA CO CJT 
+fcl -> PU PU PU ADVL ACC P SUBJ 
+adjp -> >N H PU N<PRED PU 
+fcl -> PU PU PU ADVL P PRED PRED 
+x -> PU ADVL SUBJ P ADVL PIV 
+fcl -> PIV P SUBJ 
+fcl -> ADVL SUBJ P ADVL PIV 
+x -> ACC SUBJ ADVL P 
+pp -> H PU P< P ACC 
+icl -> P PASS ADVL ADVL 
+icl -> PU PU ACC P ADVL ADVL 
+fcl -> PU PU FOC ADVL FOC SUBJ P ACC 
+adjp -> H PU P ACC 
+fcl -> PU P ACC PRED ADVL 
+fcl -> PU PU TOP P PIV SUBJ 
+fcl -> PU PU PU PRED ADVL P ACC 
+fcl -> PU PU PU ADVL PRED P ACC 
+fcl -> PU SUBJ SUBJ P ACC ADVL SC 
+fcl -> PU PU PU ADVL SUBJ P ACC PIV ADVL 
+fcl -> PU PU SUBJ P SC ADVL ADVL 
+x -> PU PU PU AUX< ADVL SUBJ ADVL ADVL PAUX ACC ADVL 
+adjp -> >A H CO N< 
+fcl -> PU SUBJ P ADVL ACC PRED 
+fcl -> PU PU ADVL SUBJ P PRED 
+np -> H PU PU NPHR 
+icl -> PU PU P ADVL ADVL 
+x -> PU PRED P ADVL ACC 
+icl -> >N PU P PIV ADVL 
+fcl -> SUBJ P SC SA ACC 
+pp -> H >P >N 
+fcl -> PU PU SUB ADVL P ADVL SUBJ 
+fcl -> PU PU PU ADVL SUBJ ADVL P SC ADVL ADVL 
+fcl -> PU ADVL ADVL P ADVL ADVL 
+x -> SUBJ P ADVL PIV 
+fcl -> PU PU SUBJ ADVL ADVL P ADVL PIV 
+x -> SUBJ P ADVL SC 
+fcl -> ADVL P ADVL PIV 
+fcl -> PU SUBJ P OA 
+fcl -> PU P ADVL PIV 
+fcl -> PU ADVL P SUBJ PIV ACC ADVL 
+icl -> CO P ADVL PIV 
+adjp -> H N< UTT 
+icl -> P PASS PASS ADVL 
+fcl -> PU PU CO SUBJ P ADVL ACC 
+fcl -> PU ADVL ACC P SUBJ 
+icl -> PU PU ACC P ADVL PIV PIV 
+icl -> PU P ACC PRED 
+fcl -> PU SUBJ SUBJ P ACC PIV 
+fcl -> SUB ADVL P PASS 
+fcl -> PU SUBJ ADVL SUBJ P ADVL ADVL 
+fcl -> PU CO SUBJ P PIV ADVL 
+np -> >N H N< PU PU N<PRED ADVL ADVL P PIV ACC 
+icl -> SUBJ P ACC PIV ADVL 
+fcl -> PU PU CO ADVL X 
+vp -> VAUX PRT-AUX MV CO 
+fcl -> SUBJ SUB P ADVL 
+np -> H N< N< PU 
+par -> SUBJ CJT CJT 
+par -> PU H CJT P< 
+pp -> P< P ADVL 
+fcl -> PU PU PU PU ACC CJT P 
+fcl -> SUBJ P PRED ADVL 
+fcl -> PU PU PU PU ACC N<PRED P SUBJ 
+fcl -> PU FOC ADVL FOC SUBJ P ACC 
+fcl -> PU PU PRED PRED P ACC KOMP< 
+fcl -> PU SUBJ ADVL ACC P ADVL 
+np -> >N H N< SUBJ P ACC ADVL 
+np -> H P OC 
+icl -> PU ADVL P 
+pp -> H PU N<PRED PU P< CJT CO CJT 
+par -> PU PU PU PU PU CJT CJT CJT CJT CJT CJT CO CJT 
+fcl -> PU PU PU ADVL P ACC ADVL 
+fcl -> PIV P 
+fcl -> SUB P ACC ADVL ADVL ADVL 
+icl -> PU PU PU ADVL P ADVL ACC ADVL 
+fcl -> SUBJ P ACC OC ADVL ADVL 
+x -> PRED SUBJ P ACC 
+np -> H SA 
+fcl -> SA SUBJ P ADVL 
+fcl -> ADVL SUBJ P PIV PIV 
+adjp -> >N H N< N< N< 
+icl -> N< P ADVL ADVL N< N< N< 
+fcl -> PU PU PU SUBJ P ADVL UTT 
+x -> DAT PU SUBJ P ACC 
+x -> SUBJ SA P ACC 
+np -> >N H ADVL P ADVL ACC 
+fcl -> DAT PU SUBJ P ACC 
+fcl -> DAT P 
+x -> SC P SUBJ ADVL 
+fcl -> ADVL P SUBJ OC 
+x -> PU SUBJ ADVL P ACC 
+np -> H PU P ACC-PASS ADVL ADVL 
+fcl -> DAT PU CO P ACC 
+x -> ADVL P ADVL ADVL 
+fcl -> PREF PU SUBJ P 
+x -> PU PRED P ACC 
+x -> ICL PU 
+fcl -> PU PU ADVL ADVL ACC P ADVL ADVL 
+fcl -> PU PU PU PU SUBJ P ACC SUBJ ADVL 
+icl -> PU P ADVL A< 
+fcl -> PU P PIV SUBJ 
+pp -> H H P< N< 
+icl -> CO P 
+fcl -> ADVL ADVL P ADVL SUBJ 
+fcl -> ADVL ACC P SUBJ UTT SUBJ 
+np -> H PU N<PRED PU ADVL P ACC 
+icl -> SUBJ P OC N< 
+fcl -> PU PU ADVL P SA 
+fcl -> PU PRED ADVL SUBJ P ACC ADVL ADVL 
+fcl -> PU PU ADVL ADVL SUBJ P ADVL ADVL 
+np -> H N< N< CJT 
+x -> SC P SA ADVL 
+icl -> >N H ADVL N< 
+pp -> PU H PU P< STA 
+icl -> PU PU P PASS ADVL 
+adjp -> H CO P< 
+fcl -> PASS PU ADVL SUBJ P PASS 
+fcl -> PU PU SUBJ P ACC OC ADVL 
+fcl -> SUB ADVL SUBJ 
+np -> >N H PU N< P SA ACC 
+advp -> H H PU N<PRED 
+fcl -> PASS UTT PU SUBJ P SUBJ ADVL 
+fcl -> PU PU PU SUBJ SUBJ P PASS ADVL ADVL 
+cp -> H ADVL P SC 
+fcl -> PU PU SUB ADVL ADVL SUBJ ADVL P ACC-PASS 
+icl -> CO P PIV 
+fcl -> PU PU SUB ADVL SUBJ P ADVL PIV 
+fcl -> ADVL P< 
+fcl -> PU PU PU PU ACC ACC P SUBJ 
+x -> PU ADVL SUBJ P SC 
+np -> PU >N H N< 
+cp -> H PU ACC ADVL 
+fcl -> SUB SUBJ X 
+fcl -> PU SUBJ P SA ADVL ADVL 
+fcl -> SUBJ ADVL P PASS 
+fcl -> SUBJ P ACC ADVL ACC 
+icl -> >A P ADVL KOMP< 
+fcl -> COM P ADVL SA SUBJ ADVL 
+fcl -> PU SUBJ SUBJ ACC P ADVL ACC 
+fcl -> PU P ACC PIV SUBJ ADVL 
+advp -> P SA ACC ADVL 
+fcl -> PU SUBJ ADVL P ADVL SC PIV 
+advp -> ACC P ADVL PIV 
+fcl -> PU PU SUBJ SUBJ ADVL P ADVL 
+fcl -> ADVL P SA 
+fcl -> SUB ADVL ADVL P ADVL SUBJ 
+fcl -> SUB SUBJ ADVL ACC-PASS P ADVL PIV 
+np -> >N H P PIV 
+x -> SUBJ P ACC-PASS ADVL 
+fcl -> PU SUBJ PRED P 
+cp -> H ADVL P SC UTT 
+fcl -> DAT PU SUBJ P ADVL ACC ADVL 
+fcl -> PU PU ACC SUBJ P PRED ADVL ADVL 
+fcl -> SUB SUBJ ADVL ACC P 
+fcl -> PU PU ADVL SUBJ P ACC ADVL ADVL PIV 
+fcl -> PU PU ADVL P ACC UTT 
+x -> P PASS SUBJ 
+pp -> H PU P< ADVL ADVL ADVL 
+x -> P ACC KOMP< 
+fcl -> PU PU CO ADVL P SC SUBJ ADVL 
+x -> ADVL ADVL P SUBJ ADVL 
+fcl -> SUB ACC P PRED 
+fcl -> PU P ACC PRED 
+fcl -> PU ADVL SUBJ ADVL P ACC ADVL ADVL 
+fcl -> SUBJ P SA PRED 
+x -> SUBJ P SC SUBJ ADVL 
+x -> ADVL SUBJ P ACC ADVL ADVL 
+fcl -> FOC SUBJ ADVL FOC ADVL P ACC ADVL 
+x -> ADVL SUBJ P SA 
+fcl -> SUB ADVL P PIV P< 
+fcl -> PU PU SUB SUBJ ADVL ACC P PIV ADVL 
+fcl -> ADVL SUBJ P OC ACC 
+np -> >N PU H PU N<PRED 
+fcl -> PU PU PU SUB SUBJ P 
+np -> >N H PU SUB 
+np -> >N H N< PU PU N< 
+s -> TOP 
+x -> P PIV ACC 
+fcl -> SUBJ P ACC UTT 
+advp -> >A H PU A< NPHR 
+fcl -> PU PU SUBJ P ACC PIV ADVL ADVL 
+fcl -> PU PU PU ADVL ADVL P SC SUBJ 
+fcl -> SUBJ P SUBJ ADVL 
+fcl -> PU PU PU PU PU PU SUBJ ADVL ADVL SUBJ P ADVL ACC 
+icl -> PU ACC P ADVL ADVL 
+fcl -> PU PU PRED SUBJ P ACC ADVL 
+pp -> H >N 
+advp -> H PU PU PU A< STA 
+np -> H >N CO 
+fcl -> PU PU ADVL SUBJ P PIV PIV 
+fcl -> PU SUBJ SUBJ ACC-PASS P 
+x -> SUB P ACC ADVL 
+advp -> H PASS 
+fcl -> PU PU PU PRED ADVL ADVL SUBJ ADVL P 
+fcl -> PU SUBJ P ACC ADVL N< 
+fcl -> PU SUBJ P SC N< 
+fcl -> PU PU PU SUBJ ADVL ADVL P SC 
+fcl -> SUB P ACC UTT 
+fcl -> PU PU PU PU ADVL SUBJ SUBJ P ACC PRED 
+icl -> TOP P PASS 
+np -> PU H PU N<PRED 
+fcl -> PU PU PU PU SUBJ P SA ADVL ADVL 
+fcl -> SUB SUBJ ADVL SUBJ P ACC 
+fcl -> PU PU PU SUBJ P ADVL SC 
+np -> >N H PU N< ACC 
+advp -> P ACC CJT 
+fcl -> PU PU P ACC PRED ADVL ADVL 
+fcl -> PU SUBJ ADVL SUBJ P ACC STA 
+x -> PU PU PRED P ADVL PRED ACC 
+x -> PU P PRED ADVL 
+fcl -> ADVL SUBJ P ACC N< 
+advp -> PU P ACC ADVL ADVL ADVL 
+fcl -> PU SUBJ P ADVL PIV ADVL ADVL 
+fcl -> PU PU ADVL SUBJ SUBJ P ADVL SA PIV ADVL ADVL 
+fcl -> PU PU SUBJ ACC P PIV 
+fcl -> PU PU PU PU ADVL SUBJ P SA ADVL ADVL 
+fcl -> PU PU PU PU PU ADVL SUBJ P ADVL ADVL PIV ADVL 
+fcl -> PU PU SUBJ P PRED ADVL ADVL ADVL 
+fcl -> PU PU PU PU SUBJ P 
+cp -> H SUBJ ADVL 
+fcl -> PU CO P ACC ADVL 
+fcl -> PU ACC P PRED 
+fcl -> H ADVL ACC 
+vp -> Vm SC 
+fcl -> PU SUB ADVL SUBJ P 
+fcl -> PU ADVL SUBJ P SC NPHR 
+fcl -> PU SUBJ P ACC-PASS ADVL ADVL 
+np -> H N< N< N<PRED 
+fcl -> PU PU PU SUBJ ADVL PAUX AUX< SUBJ 
+fcl -> PU PU ADVL SUBJ P SC SUBJ 
+fcl -> PU PU PU PU PU SUBJ P ACC ADVL ADVL ADVL 
+fcl -> PU PU PU ADVL SUBJ P ACC ADVL ADVL ADVL ADVL 
+np -> >N H PU PU PU SUBJ P ADVL ADVL ACC 
+fcl -> PU PU PU SUBJ ADVL P ACC ADVL ADVL 
+fcl -> SUB SUBJ P ADVL ADVL ADVL 
+fcl -> SUBJ SUBJ P ADVL ADVL 
+par -> CO CJT 
+vp -> Vm >N N< 
+np -> ADVL P ACC ADVL 
+icl -> P ADVL PIV ACC ADVL 
+fcl -> PU P SUBJ ADVL ADVL 
+fcl -> PU SUBJ P ACC S< 
+fcl -> PU ACC P SUBJ 
+fcl -> PU SUB P ACC PRED PRED 
+advp -> H PU PU KOMP< 
+pp -> H PU P< P 
+fcl -> PU SUB SUBJ ADVL P ACC ADVL ADVL 
+fcl -> ADVL ACC-PASS P SUBJ ADVL 
+fcl -> PU PU PU SUBJ ADVL ADVL ADVL P ACC 
+fcl -> SUBJ ADVL P ACC PIV 
+icl -> PU P PASS PIV ACC 
+fcl -> PU PU PU PU PU ACC SUBJ CO P SUBJ 
+fcl -> SUBJ SC 
+fcl -> CO ADVL P ACC 
+fcl -> PU SUB P ACC 
+fcl -> PU ACC SUB ADVL P SUBJ 
+fcl -> PU ADVL PU PU STA 
+np -> PU PU ADVL P SC APP 
+fcl -> PU ADVL P PIV ACC 
+fcl -> SUB P SUBJ N< 
+fcl -> PU PU ADVL ACC P PIV SUBJ P ACC 
+fcl -> PU PU PU ADVL ADVL P SC 
+fcl -> PU PU PU ACC ADVL P SUBJ 
+adjp -> H A< A< 
+fcl -> PU ADVL ADVL P SUBJ 
+x -> PU SUB SUBJ P SUBJ ADVL 
+par -> PU PU PU PU PU CJT CO CJT UTT 
+fcl -> PU PU PU PU CO ADVL SUBJ P ACC ADVL 
+fcl -> PU PU PU CO ADVL FOC SUBJ P ACC 
+fcl -> PU PU PU PU ACC P ADVL SUBJ 
+x -> ADVL PU PU SUBJ ADVL P SC 
+fcl -> PU PU SUB ADVL P SUBJ SC ADVL 
+x -> NPHR P ADVL 
+acl -> H 
+np -> >N >N H AS< N< 
+fcl -> PU PU PU SUBJ ADVL ACC P ADVL 
+fcl -> PU PU PU PRED ADVL ADVL SUBJ P SA 
+fcl -> ACC SUBJ P ADVL N< 
+pp -> H P< ADVL P 
+x -> PU SUB SUBJ P ADVL ADVL ADVL 
+np -> >N H N< ACC P ADVL 
+fcl -> PU PU SUBJ ADVL P SC PASS S< 
+fcl -> PU SUBJ P ADVL ADVL S< 
+x -> ADVL SUBJ ACC P 
+fcl -> PU PU PU SUBJ N< P ACC 
+fcl -> PU SUBJ P PIV PRED 
+fcl -> PU PU PU P PIV ADVL SUBJ 
+np -> >N H PU N< PU P SUBJ ADVL 
+fcl -> PU PU PU SUBJ ADVL ADVL P ADVL 
+np -> H PU >N N< 
+pp -> H >P P< CJT 
+fcl -> PU PU PU ADVL N< SUBJ ADVL P SC 
+advp -> H CO ACC 
+icl -> >N P ADVL ACC ADVL 
+fcl -> PU PU PU CO ADVL P ACC-PASS SUBJ 
+cp -> H SUBJ P ADVL 
+advp -> P ACC CO 
+fcl -> PU PU ADVL ADVL SUBJ P PASS 
+fcl -> PU CO ADVL SUBJ P ACC OC 
+np -> >N H N< >N N< 
+fcl -> PU PU PU PU CO P ACC 
+np -> >N ACC 
+advp -> H >N >N H 
+adjp -> H PU N< P< ADVL P< P< 
+fcl -> PU PU PU SUBJ P ADVL ADVL ACC ADVL 
+icl -> >N PU P ACC ADVL 
+x -> PU PU P ACC ADVL ADVL 
+np -> >N H -N< N< 
+fcl -> PU SUB P SUBJ ADVL ADVL 
+fcl -> H PU PU ADVL P< CO CJT 
+fcl -> PU PU CO SUBJ P PIV SUBJ 
+fcl -> PU PU ADVL ADVL SUBJ P ADVL ACC 
+par -> PU PU PU PU CJT CO CJT CO CJT CJT 
+fcl -> PU PU PU PU SUBJ ADVL P ACC ADVL 
+fcl -> PU PU PU PRED ADVL SUBJ P ADVL ADVL ACC 
+fcl -> PU CO SUBJ ADVL ADVL P UTT 
+fcl -> SUBJ ADVL P ADVL ACC 
+vp -> VAUX PU MV CO 
+advp -> H PU 
+fcl -> PU ADVL ADVL ADVL ADVL P PASS 
+fcl -> SUBJ ACC-PASS P ADVL 
+icl -> ACC P ACC 
+x -> H N< 
+adjp -> H CO FOC 
+fcl -> SUB SUBJ P ADVL P 
+fcl -> SUBJ ADVL P ADVL ADVL ADVL 
+fcl -> PU PU PU ADVL ADVL P ADVL SC SC 
+icl -> P ACC-PASS ADVL ADVL 
+np -> H N<PRED N< 
+icl -> >N SUBJ P ACC ADVL 
+fcl -> PU >N PU PRED SUBJ P ADVL S< ADVL 
+fcl -> PU ACC SUBJ X 
+np -> H PU PU PU APP 
+fcl -> PU ADVL SUBJ P SC PASS 
+advp -> ACC P ACC 
+fcl -> PU ACC SUB ADVL P ADVL 
+np -> >N H N< PU N< PU N< 
+fcl -> PU PU PU SUBJ ACC-PASS P ADVL ADVL ADVL 
+fcl -> PU PU SUB ADVL ADVL P ADVL 
+fcl -> PU SUBJ ADVL ADVL P PIV ACC 
+fcl -> PU PU ADVL SUBJ ADVL P ACC-PASS PIV 
+fcl -> PU PU PU PU SUBJ P ACC ADVL ADVL 
+fcl -> SUBJ P ACC ADVL OC 
+fcl -> COM P ADVL 
+fcl -> PU ACC X 
+fcl -> SUBJ P ACC PRED 
+x -> PRED P ADVL ACC ADVL 
+pp -> H P< P ADVL PIV 
+fcl -> PU PU SUB SUBJ ADVL ADVL P ADVL ADVL 
+fcl -> PU SUB SUBJ ADVL ACC P ADVL PIV 
+fcl -> PU PU PU PU SUBJ P ADVL ACC 
+x -> PU SUB P ACC ADVL ADVL 
+icl -> SUBJ ADVL P ACC ADVL 
+x -> ADVL SC SUBJ P ADVL ADVL 
+par -> PU PU CJT CJT CJT CO 
+fcl -> SUB SUBJ P ADVL SC ADVL 
+fcl -> PU SUBJ P ACC OC ACC 
+fcl -> PU PU PU ADVL ADVL P PIV SUBJ ADVL 
+icl -> P SUBJ ADVL PIV 
+par -> PU CJT CJT PRED 
+fcl -> PU PU SUB ADVL SUBJ P ACC 
+x -> PU PRED SUBJ P ACC 
+fcl -> PU PU PU ADVL ADVL SUBJ P SC ADVL 
+np -> H N< PU PU PU N<PRED P ADVL 
+vp -> VAUX PRT-AUX MV SUBJ 
+advp -> H >N H 
+x -> ADVL PU P ADVL ADVL 
+fcl -> PU PU PU ADVL SUBJ P SC ADVL 
+fcl -> PU PU PU SUBJ ADVL P UTT 
+fcl -> SUBJ P ADVL N< 
+np -> >N H N< APP 
+adjp -> >N H N< N< N< N< 
+fcl -> PU PU ACC ADVL SUBJ P ACC 
+fcl -> PU PU PU ACC P SUBJ ADVL 
+fcl -> SUBJ P PIV ADVL ACC 
+fcl -> PU PU PU PU ADVL SUBJ P ADVL 
+np -> >N H PRED 
+fcl -> PU CO PAUX AUX< 
+x -> P ACC-PASS SUBJ ADVL 
+par -> PU PU PU PU PU PU PU CJT CJT CJT 
+x -> SUBJ P ACC PIV ADVL 
+fcl -> PU PU PU SUBJ SUBJ ADVL ADVL P PIV PASS 
+icl -> ADVL ADVL P 
+fcl -> PU CO P ACC P ADVL PIV 
+advp -> H PU P< 
+fcl -> PU PU PRED SUBJ ADVL P SC ADVL 
+cp -> H PU SUBJ ADVL P ADVL SC 
+fcl -> SUB P ADVL SC 
+acl -> H PU AS< ADVL 
+par -> PU PU PU CJT CJT CO KOMP< 
+fcl -> PU PU PU PU SUBJ SC P ACC PRED 
+fcl -> PU SUB P PIV PIV 
+x -> PU PU SUBJ P SA PRED 
+fcl -> PU SUBJ ADVL P SUBJ 
+fcl -> SUB PRED SUBJ P 
+fcl -> PU PU PU PU ADVL ADVL ADVL CO SUBJ SUBJ P SUBJ ADVL 
+fcl -> SUBJ P ADVL ADVL ACC 
+fcl -> >N SUBJ P 
+fcl -> PU PU PRED P ACC ADVL ADVL 
+fcl -> PU PU ADVL SUBJ P< ADVL P ADVL 
+vp -> VAUX PRT-AUX VAUX 
+icl -> PRED P ACC 
+fcl -> PU PU PU SUBJ SUBJ P ADVL ACC 
+fcl -> PU SUB SUBJ P S< 
+fcl -> ADVL SUBJ P PASS 
+fcl -> PU PU ADVL ADVL P SUBJ ADVL 
+fcl -> SUBJ P OA 
+fcl -> PU PU PU SUBJ P OC ADVL ACC KOMP< 
+fcl -> PU SUBJ CO P ADVL ACC ADVL ADVL 
+icl -> P PASS SC 
+fcl -> ADVL SUBJ ADVL P SC 
+icl -> ADVL P PASS ADVL 
+fcl -> PU PU PU SUBJ P ADVL ADVL ADVL ACC 
+fcl -> PU SUBJ SUBJ ADVL P ACC 
+fcl -> PU FOC SUBJ ADVL FOC P ACC 
+fcl -> PU SUBJ P ACC P ADVL 
+fcl -> PU CO ADVL P SC SUBJ 
+fcl -> PU PU SUB ADVL ADVL SUBJ P SC 
+fcl -> PU PU SUBJ SUBJ ACC-PASS P ADVL PIV 
+fcl -> PU SUBJ ADVL ACC-PASS P ADVL PIV 
+fcl -> PRED 
+cp -> H H N< P ACC 
+par -> PU PU CJT CJT CO 
+vp -> VAUX H MV 
+advp -> PU ADVL P 
+np -> >N H ACC 
+fcl -> PU ADVL SUBJ ACC P OC SUBJ 
+fcl -> PU PU PRED ADVL ADVL P SUBJ ACC 
+fcl -> PU PU PU PU SUBJ PRED SUBJ P ADVL ACC ADVL ADVL 
+fcl -> PU PU PU SUBJ SUBJ SUBJ P ACC ADVL 
+adjp -> >N H PU STA 
+pp -> H PU P< NPHR 
+fcl -> DAT SUB SUBJ P ACC 
+x -> PU PRED P ADVL 
+fcl -> PU PU SUB SUBJ P ACC ADVL ADVL 
+x -> PU P ADVL PIV ADVL 
+icl -> PU PU PU SUBJ P ADVL ADVL PRED ADVL ADVL N< 
+cp -> H SUBJ P ADVL ADVL ADVL 
+fcl -> PU SUBJ PRED P ACC 
+fcl -> PU SUBJ ADVL P ACC ADVL ADVL 
+x -> P ADVL ADVL ACC 
+par -> PU PU PU CJT CO CO CJT 
+fcl -> PU PU ADVL P ADVL S< 
+fcl -> PU PU SUBJ ACC P ADVL ADVL 
+fcl -> PU PU PU ADVL SUBJ SUBJ CO ADVL P ACC ADVL 
+icl -> PU ADVL PU ADVL ADVL P ACC ADVL 
+fcl -> SUBJ ADVL P ACC N< 
+np -> >N H SUBJ 
+x -> ADVL P SUBJ SC ADVL 
+fcl -> PU P SC ADVL ACC 
+fcl -> PU SUB SUBJ P ACC S< 
+advp -> P PRED 
+np -> H PU P ACC 
+np -> H N< ADVL 
+fcl -> DAT PU SUBJ SUBJ P ACC 
+icl -> >N PRED P ACC ADVL 
+fcl -> PU PU ADVL SUBJ P ACC-PASS 
+fcl -> ADVL SUBJ PAUX AUX< 
+fcl -> PU SUBJ CO ADVL P PIV ADVL ADVL 
+fcl -> SUB P PIV ADVL 
+x -> P OA 
+icl -> PU ADVL P ACC ADVL 
+fcl -> SA SUBJ P PASS ADVL 
+fcl -> SUB P PRED 
+fcl -> SUBJ P ADVL PRED ADVL ACC ADVL 
+fcl -> PU PU PU PU PU SC P SUBJ ADVL 
+fcl -> PU SUBJ SUBJ P PIV 
+fcl -> PU PU ADVL SUBJ SUBJ P ADVL 
+x -> PU PU SUB P ADVL PIV 
+fcl -> PU PU SUBJ P ADVL ADVL ADVL ADVL OC 
+fcl -> PU PU SUB ADVL ADVL ADVL P SUBJ 
+fcl -> SA P SC SUBJ 
+np -> >N >N H N< N< PU N< 
+fcl -> PU PU ADVL ADVL SUBJ ADVL P SC 
+np -> >N H PU N< P ACC 
+np -> H N< ADVL ADVL PRED 
+fcl -> PU SUB SUBJ P ADVL PIV 
+x -> P OC ACC ADVL 
+fcl -> PIV ADVL P ADVL SUBJ 
+np -> H N< PU PU STA 
+np -> >N >N >N H PU APP 
+fcl -> ADVL SUBJ P SUBJ 
+advp -> H A< CJT 
+fcl -> PU PU PU ADVL PRED SUBJ P ACC ADVL 
+x -> P SC ADVL SUBJ ADVL 
+fcl -> PU ADVL SUBJ P SA 
+fcl -> PU PU PU PU SUBJ SUBJ ADVL ADVL P ADVL 
+x -> P ACC OC ADVL 
+adjp -> >N H P ADVL 
+fcl -> SUBJ ADVL P OC ACC 
+x -> ACC P OA 
+fcl -> PU SUB ADVL P ACC CO CJT CO CJT 
+np -> H N< PU >N N< 
+fcl -> PU PU CO ADVL P ADVL ACC 
+fcl -> PU PU PU ACC SUBJ SUBJ ADVL P ADVL ADVL OC ADVL 
+icl -> TOP P PIV 
+fcl -> PU ADVL CO SUBJ ADVL P ACC ADVL 
+fcl -> PU ADVL P ADVL SC SUBJ 
+fcl -> SUBJ P PIV PRED 
+icl -> P SUBJ ADVL ADVL 
+fcl -> PU CO SUBJ P ADVL 
+icl -> >A P PASS ADVL 
+np -> H PU PU CO N< 
+fcl -> PU ADVL ADVL X 
+np -> >N H N< ACC P ADVL ADVL 
+fcl -> PU PU SUBJ P PIV PRED 
+x -> PU PU P ADVL SA ADVL SC 
+advp -> PU P ADVL ACC 
+cp -> H SUBJ P PRED 
+fcl -> DAT ACC P 
+fcl -> PU P ACC-PASS SUBJ ACC 
+fcl -> PU PU TOP SUBJ ADVL P ACC 
+fcl -> PU PU ADVL SUBJ P ACC PRED ADVL 
+np -> H PU N<PRED PU CO 
+fcl -> PU ACC SUBJ P PIV 
+fcl -> PU N< PU PU PU PU ACC P SUBJ ACC 
+fcl -> SUB ACC P ADVL ADVL 
+x -> ACC-PASS P 
+fcl -> PU PU P SUBJ PIV 
+icl -> PU SUBJ P SUBJ 
+fcl -> PU PU CO SUBJ P SC 
+icl -> P OC SUBJ 
+fcl -> PU PU ADVL SUBJ ADVL P ACC PIV 
+fcl -> PU ACC SUBJ SUBJ P ADVL PRED 
+np -> H ADVL SUBJ 
+vp -> Vm ADVL PIV 
+np -> H PU P ACC ADVL ACC 
+cp -> H PU N<PRED 
+fcl -> PU SUB CJT SUBJ 
+icl -> SUBJ P SC 
+fcl -> PU P SUBJ ACC ADVL 
+fcl -> PU SUBJ P ADVL P PASS 
+fcl -> PU SUBJ ACC P SC ADVL 
+fcl -> PU SUBJ ADVL ADVL ACC P OC 
+cp -> H P ACC PIV ADVL 
+x -> SUBJ P ACC-PASS ADVL ADVL ADVL 
+fcl -> SUBJ SUB P SC 
+advp -> PU ADVL P ADVL 
+fcl -> ADVL SUBJ PRED P ADVL 
+x -> PU PU PU SUBJ ACC P ADVL 
+x -> PU SUBJ ADVL P ADVL 
+fcl -> COM 
+adjp -> H PU PU PU ADVL SUBJ ADVL P PIV 
+np -> H STA AS< 
+np -> H PU PU PU N<PRED 
+fcl -> PU PU PU PU SUBJ P ADVL SC ADVL ADVL 
+fcl -> ADVL SUBJ SUBJ P ACC ADVL 
+par -> PU PU PU CJT CJT CJT CJT 
+fcl -> PU PU SUBJ P PIV ADVL 
+np -> >N >N >N >N H 
+fcl -> SUB ADVL SUBJ P ADVL 
+fcl -> PU PU ADVL SUBJ ADVL P SC 
+np -> H PU N< PU 
+fcl -> PU SUBJ P ADVL ADVL ADVL ADVL ADVL ACC 
+fcl -> PU PU PU PU ADVL SUBJ P ACC-PASS SUBJ ADVL ADVL 
+fcl -> PU SUBJ P ADVL SA 
+fcl -> SUBJ ACC P PRED 
+x -> P SC ADVL PIV 
+fcl -> PU SUBJ SUBJ ADVL ACC P OC 
+fcl -> SUB PU ADVL P ADVL ADVL ACC 
+fcl -> PU PU SUBJ P PRED ADVL ACC 
+x -> PU PU ACC P PIV ADVL PIV 
+fcl -> ACC ADVL P PIV 
+fcl -> SC PU SUBJ P SC 
+fcl -> PU PU PU ADVL ADVL SUBJ P ADVL PIV 
+fcl -> PU PU ADVL ADVL P PIV 
+fcl -> ADVL P ADVL SC ADVL 
+fcl -> PU H ADVL SUBJ 
+x -> PU AUX< SC ADVL PAUX ADVL ACC 
+fcl -> PU PU SUB SUBJ SUBJ P ACC 
+x -> SUB SUBJ ADVL P ADVL SC 
+x -> SUBJ ACC P ADVL ADVL 
+cp -> H SUBJ P SC 
+fcl -> PU PU SUB P ACC ADVL 
+fcl -> PU PU PU PU SUBJ SUBJ P ADVL ACC ADVL 
+fcl -> SUBJ P ACC N< 
+fcl -> PU SUB SUBJ P SA S< 
+np -> >N H PU N< N< SUBJ P SC SUBJ 
+fcl -> PU PU PU ADVL SUBJ SUBJ SUBJ ADVL P ADVL 
+fcl -> PU ACC P ADVL S< ADVL 
+adjp -> >A 
+np -> H H P< 
+fcl -> SUBJ PIV P SA 
+x -> P OA ACC 
+fcl -> PU PU PU PRED SUBJ X 
+fcl -> PIV PU PU ACC SUBJ P 
+vp -> VAUX VAUX H MV 
+fcl -> PU PU PU PU ACC P SUBJ OC 
+np -> H N< PU N< ADVL 
+icl -> PU P PRED ADVL ADVL PRED 
+adjp -> H PU PU N< 
+np -> H PU N< P ADVL 
+fcl -> PU PU SUB SUBJ SUBJ ACC P 
+adjp -> >N H APP N<PRED 
+fcl -> PU PU PU SUBJ SUBJ P SC 
+fcl -> SUBJ ACC-PASS P ACC ADVL 
+icl -> ACC-PASS P ACC 
+x -> PU ADVL ADVL P ACC 
+fcl -> ADVL SUBJ P PRED 
+fcl -> PU ADVL ACC SUBJ SUBJ P ACC 
+fcl -> COM ADVL P 
+icl -> PU ACC-PASS P ACC 
+fcl -> PU ADVL P SC SUBJ UTT 
+fcl -> PU PU ADVL SUBJ P ACC ADVL SUBJ 
+adjp -> H H P< 
+fcl -> PU SUBJ SUBJ ACC P ADVL ADVL 
+x -> PU PU PRED N< SUBJ P ACC ADVL 
+fcl -> PU CO P ACC PIV ADVL ADVL 
+fcl -> SUB SUBJ SUBJ ADVL P SC ACC 
+fcl -> PU PU ADVL P ACC SUBJ 
+fcl -> PIV >N PU SUBJ P ADVL ADVL ADVL 
+fcl -> PU PU PU PU STA ACC P 
+icl -> P OA ACC N< 
+fcl -> PU PU SUBJ ADVL SUBJ P ACC PIV 
+icl -> PU P ACC PIV ADVL ADVL 
+fcl -> ADVL P ADVL ADVL 
+icl -> PU PU ACC P ADVL PIV PRED ADVL 
+fcl -> PU ADVL SUBJ P ACC-PASS ADVL ADVL 
+fcl -> SUBJ ACC P UTT 
+fcl -> SUB SUBJ ADVL ACC-PASS P ADVL 
+fcl -> PU SUBJ SUBJ ADVL P 
+fcl -> PU SUBJ P ADVL ACC PIV 
+icl -> PIV ADVL P 
+x -> SUBJ ACC P PRED 
+x -> P ACC PIV ADVL ADVL 
+icl -> PU PU P ACC CJT 
+fcl -> PU ADVL SUBJ SUBJ P ACC ADVL ADVL 
+x -> P ACC-PASS SUBJ 
+par -> CJT CO CJT CO CJT CJT 
+fcl -> SUB SUBJ P ADVL SA 
+fcl -> PU PU ADVL PRED P ACC ADVL 
+fcl -> PU PU SUBJ P ADVL SUBJ 
+fcl -> PU PU SUB P ACC ADVL ADVL 
+x -> PU PU SUB ADVL P ACC 
+fcl -> PU ADVL P PASS 
+np -> >N H >N >N H 
+fcl -> PU PU SUBJ SUBJ P ACC SUBJ 
+np -> >N H PU PU PU N<PRED APP 
+fcl -> SUBJ P SC ADVL ADVL ADVL 
+fcl -> PRED P ACC 
+fcl -> PU SUBJ P SA ADVL ACC 
+icl -> >N ADVL P ADVL ACC 
+fcl -> SUB P SUBJ ACC 
+fcl -> PU ACC SUBJ CO P ACC 
+fcl -> SUB SUBJ SUBJ P ACC ADVL 
+icl -> ADVL P PRED 
+fcl -> PU PU PU SUBJ SUBJ P SC SUBJ 
+fcl -> PU SA ADVL SUBJ P ACC ADVL 
+fcl -> PU SUB SUBJ P ADVL SUBJ 
+fcl -> ACC SUBJ ADVL ADVL P ADVL ADVL 
+fcl -> PU ADVL SUBJ P OC 
+fcl -> PU SUB SUBJ SUBJ P SC 
+x -> P N< 
+fcl -> SUB P SUBJ ACC ADVL 
+fcl -> PU PU PU ADVL SC SUBJ P ACC ADVL 
+fcl -> PU PU ADVL SUBJ P ADVL SA ADVL 
+fcl -> PU PU PU PU ACC SUBJ ACC P 
+icl -> >N P ADVL ADVL ADVL ADVL 
+advp -> P PIV PIV 
+fcl -> PU PU PU ADVL SUBJ P PASS ADVL 
+fcl -> PU PU PU PU PU ACC SUBJ ADVL P ADVL ACC 
+icl -> PU PU PU ADVL P ADVL ADVL ADVL ADVL 
+icl -> P ACC PIV ADVL ADVL 
+vp -> Vm P PASS ADVL 
+fcl -> PU SUBJ ADVL P SC SUBJ 
+fcl -> PU ADVL SUBJ ACC-PASS P ADVL 
+icl -> PASS P PIV ADVL 
+fcl -> SUBJ SA P 
+icl -> PU PU PU P ACC ADVL 
+fcl -> PU PU PU SUBJ P ADVL PIV 
+pp -> H DAT P< ACC P 
+par -> N< CJT CO CJT 
+np -> >N H PU ADVL P ACC 
+fcl -> PU PU PU SUBJ P SC ADVL ADVL ACC 
+fcl -> PU SUBJ ADVL ACC-PASS P ADVL 
+np -> H N< PU N< >N 
+fcl -> PU ADVL SUBJ P SC ADVL 
+fcl -> PU SUB ACC-PASS P ADVL ADVL 
+fcl -> PU PU SUB P ADVL ADVL ADVL 
+fcl -> ADVL SUBJ P ACC PRED 
+fcl -> CO SUBJ P ACC 
+icl -> ACC P ADVL SC 
+x -> DAT SUBJ ADVL P ACC 
+np -> H PU N< ADVL SUBJ 
+np -> H P PIV 
+fcl -> SUB PU ADVL P ACC 
+fcl -> PU PU SUBJ ADVL P ACC PRED 
+fcl -> PU SUB ADVL SUBJ P ACC-PASS ADVL 
+fcl -> SUBJ ADVL P PIV ADVL 
+fcl -> PU PU PU PU PU SUBJ SUBJ P ADVL ADVL ADVL ADVL ACC 
+x -> PU SUB ADVL SUBJ P P 
+fcl -> PU CO CJT 
+x -> PU SUBJ ADVL P ADVL ACC ADVL 
+icl -> DAT PAUX ACC 
+cp -> H PU PU DAT ADVL P ACC 
+icl -> P AUX< 
+fcl -> PU PU PU PU PU PU ADVL P PIV ADVL SC ADVL OC 
+advp -> PU P ACC ADVL SUBJ 
+fcl -> PU SUBJ ACC P 
+x -> PU SUBJ P ACC ADVL S< 
+fcl -> PU PU PU PU ADVL SUBJ ADVL P ACC ADVL 
+icl -> ACC P OC 
+fcl -> PU PU P ACC ADVL ADVL 
+advp -> P SUBJ PIV 
+np -> >N >N H N< PU N<PRED 
+advp -> DAT P ACC 
+fcl -> PU SUBJ PRED P SC 
+x -> P ACC PIV ADVL 
+x -> AUX< ADVL SC 
+icl -> P ACC-PASS 
+cp -> H PU PAUX ADVL 
+fcl -> PU PU PU ADVL SUBJ P ACC PIV ADVL UTT 
+fcl -> PU SUBJ P ADVL N< 
+fcl -> PU ADVL SUBJ ACC P PIV ACC 
+par -> MV CJT CO CJT 
+fcl -> PU PU PU PU ACC PIV ADVL P 
+icl -> DAT PU P ACC ACC 
+x -> SUBJ ACC P OC 
+fcl -> PU PU SUB ADVL SUBJ ADVL P SA 
+fcl -> PU PU PU PU PU SUBJ PRED SUBJ P ADVL ACC 
+fcl -> PU PU SUBJ SUBJ PAUX AUX< 
+fcl -> SUB ACC P PIV ADVL 
+fcl -> SUB SUBJ P SUBJ 
+icl -> P OA ADVL 
+adjp -> H PU CO N< 
+fcl -> PU PU SUBJ ADVL ADVL P ACC OA 
+fcl -> PU PU PU SUBJ P PIV ADVL 
+fcl -> PU PU PU SUBJ ADVL P ACC STA 
+fcl -> SUB ADVL P PIV ACC 
+x -> PU PU N< SUB P ADVL ADVL ADVL 
+adjp -> PU PU P ACC SC STA 
+fcl -> SUB ADVL P SA 
+fcl -> SUBJ SUB ADVL P ACC SUBJ 
+fcl -> PU PU PU PU ADVL ADVL P ACC ADVL ADVL 
+np -> H P 
+icl -> CO 
+vp -> MV CJT 
+par -> CJT ADVL P 
+par -> CJT CO CJT UTT 
+np -> H PU QUE 
+icl -> ADVL PAUX ACC 
+fcl -> PU P AUX< 
+adjp -> H CO N< 
+fcl -> SUBJ P ACC SC 
+fcl -> PU PU ADVL ACC-PASS P ADVL ADVL PRED 
+fcl -> PU PU PU TOP ADVL P PIV ACC SUBJ 
+fcl -> PU PU ADVL SUBJ P ACC PIV ADVL 
+np -> >N H N< N< >N N< 
+cp -> H PRED 
+par -> PU PU PU PU CJT CO CO CJT CJT 
+fcl -> PU SUB SUBJ P PIV ACC PIV 
+advp -> SUBJ P ADVL 
+fcl -> SUBJ ADVL P SUBJ ADVL 
+fcl -> SUB ADVL P SA ADVL 
+icl -> PU PU P ACC CO CJT N<PRED 
+fcl -> PU PU CO P SC ADVL SUBJ 
+icl -> PU PU SUBJ P ADVL ADVL PIV 
+np -> MV >N H N< 
+fcl -> PU PU PU PU SUBJ ACC PIV P SUBJ 
+fcl -> PU PU PU PU SUBJ ACC P ADVL 
+fcl -> PU SUBJ P PIV PIV 
+pp -> H PU P< P ACC ADVL ADVL 
+advp -> PU SUBJ P ACC ADVL ADVL 
+x -> PU ACC PU PU P SC 
+fcl -> SUBJ SUB ADVL P 
+x -> PRED SA 
+pp -> H P< CO 
+advp -> P CJT ADVL 
+fcl -> ACC P SA 
+fcl -> SUBJ ACC-PASS P OC 
+fcl -> PU PU PU ADVL P ACC SUBJ ADVL 
+adjp -> P SUBJ ACC 
+adjp -> H >A ACC OC 
+fcl -> PU PU PU ADVL SUBJ P ACC S< OC 
+fcl -> PU PU ADVL SUBJ P OC ACC 
+x -> SUB ACC P OC N< 
+icl -> P OC ACC PIV 
+icl -> PU P ACC SC ADVL 
+par -> PU PU PU CJT CJT UTT 
+pp -> H P< ACC PRED 
+np -> >N H N< ACC P OC 
+icl -> P OC ADVL 
+fcl -> ACC P OC OC PIV 
+fcl -> SUBJ P OC ACC SA 
+icl -> ADVL ACC P OC 
+icl -> PU ADVL ACC P OC ACC 
+fcl -> PU PU SUB ADVL P SUBJ PIV ADVL 
+x -> PU SUBJ P PIV ACC S< 
+fcl -> PU PU SUBJ P PIV SUBJ ADVL 
+fcl -> PU ADVL PU PU SUBJ ADVL P PIV 
+advp -> P SUBJ ADVL ADVL 
+x -> PU P PIV ADVL ADVL 
+par -> PU CJT CO CJT CO CJT CJT 
+fcl -> PU P SC SUBJ ADVL 
+fcl -> PU PU PU SUBJ ADVL P ADVL ADVL ADVL 
+fcl -> SUB ADVL P ADVL SUBJ ACC 
+np -> >N H ADVL ACC P ADVL 
+x -> PU ADVL ACC-PASS P ADVL ADVL 
+fcl -> PU PU PU PU SUBJ P ADVL ADVL ADVL ADVL ADVL 
+fcl -> PU PU SUBJ ACC P PIV ADVL ADVL 
+advp -> N< P ACC PIV ADVL 
+np -> H PU PU CO FOC 
+icl -> P ACC PIV SC 
+icl -> P ADVL ACC PIV 
+fcl -> PU P SA 
+icl -> PU P ACC PIV 
+par -> CJT CO CJT P ACC 
+np -> H N< PU CO FOC 
+icl -> PU ADVL P ACC PIV ADVL ADVL ADVL 
+fcl -> PU PU P ACC-PASS ADVL ADVL 
+pp -> H PU PU P< 
+adjp -> H PU P< 
+icl -> P PASS ADVL ACC 
+fcl -> N< PU PU PU ADVL PRED SUBJ P ACC 
+fcl -> PU PU ADVL SUBJ ADVL P ADVL PASS 
+fcl -> VOC PU PU P ACC ADVL 
+fcl -> ADVL PU SUBJ P ACC ADVL N< 
+np -> H N< PU N<PRED PU 
+fcl -> PU PU PU PU SUBJ P ADVL ADVL ADVL ACC ADVL 
+np -> >N H N< CO N<PRED 
+fcl -> PU PU PU SUBJ P PIV 
+fcl -> PU PU PU PU SUBJ ADVL P ACC ADVL ADVL 
+np -> >N PU H PU APP 
+icl -> P ACC PRED PRED 
+fcl -> PU PU PU PU ADVL ADVL P ACC PRED ADVL ADVL 
+fcl -> PU PU ADVL SUBJ SUBJ P ACC N< ADVL 
+fcl -> PU PASS PU PU ADVL SUBJ P PIV ADVL 
+x -> P ADVL NPHR ACC 
+np -> >N H PU PU N< APP P ACC ADVL 
+fcl -> P ADVL ADVL ADVL 
+fcl -> PU PU PU ADVL SUBJ ADVL ADVL P ACC 
+fcl -> PU PU SUB ADVL SUBJ ADVL P ACC 
+icl -> SC P 
+fcl -> PU CO ADVL SUBJ P ACC ADVL 
+fcl -> SUB SUBJ P ADVL ACC SUBJ 
+fcl -> SUB P ADVL PIV ADVL 
+pp -> H P< P ADVL 
+np -> H N< PU PU PU ADVL ADVL 
+adjp -> >A H PU CO 
+fcl -> PU PU ADVL SUBJ ACC P ADVL 
+fcl -> PU PU PU PU ADVL N<PRED N<PRED SUBJ P 
+x -> DAT SUBJ P ACC 
+par -> PU VOC PU CJT CJT 
+par -> PU CJT CO CJT CJT CO CJT 
+icl -> PU P ACC ADVL ADVL OC ADVL ADVL ADVL 
+fcl -> PU PU PU SUBJ ADVL ADVL P SC ADVL ADVL 
+fcl -> PU P ACC UTT 
+adjp -> >A H ADVL 
+adjp -> H PU N< PRED 
+fcl -> PU PU PU SUBJ P ACC ADVL ADVL ADVL 
+pp -> H PU P< UTT UTT 
+icl -> ADVL P ADVL PASS 
+np -> H N< N< PU N<PRED 
+fcl -> PU SUBJ P PIV ADVL ADVL ADVL ADVL 
+np -> H N< PU PU APP 
+icl -> PU PU P SUBJ ACC ADVL 
+icl -> ACC SUBJ ADVL P 
+fcl -> PU PU PU PU SUBJ ADVL ADVL P PASS 
+fcl -> SC SUB ADVL P 
+icl -> >A ADVL P ADVL 
+x -> ADVL SA P SC SUBJ 
+advp -> P ADVL ACC OA 
+fcl -> PU PU CO P ACC 
+fcl -> PU PU ADVL SUBJ P ADVL ADVL PRED 
+fcl -> PU PU SUB SUBJ ADVL P ADVL 
+advp -> PU SUBJ P ACC 
+x -> NPHR P 
+advp -> P ACC OA 
+x -> PU P ACC PIV ADVL 
+fcl -> PU CO P PIV 
+icl -> >N ADVL P SA 
+x -> ADVL P ACC N< 
+x -> PU PU P SC ADVL SUBJ 
+icl -> PU P ACC CJT 
+fcl -> PU X SUBJ 
+fcl -> PU PU SUB SUBJ P SC ADVL ADVL 
+fcl -> SUB SUBJ ACC P ADVL ADVL ADVL 
+fcl -> COM SUBJ P 
+fcl -> PU PU P SA ADVL ACC 
+x -> SA P ADVL 
+fcl -> PU PU ADVL SUBJ P ADVL ADVL ADVL 
+fcl -> PU SUBJ P ADVL S< SA 
+fcl -> PU SUB SUBJ P ADVL SUBJ ADVL 
+np -> >N H PU CO N< P SA ADVL 
+advp -> P SC 
+vp -> Vm >N 
+vp -> Vm ACC PRED ADVL 
+fcl -> PRED SUBJ P ADVL 
+fcl -> ADVL PU SUBJ P ACC 
+x -> ADVL SUBJ ADVL P ADVL 
+fcl -> PU PU SA SUBJ P SC 
+cp -> H ADVL P ADVL 
+icl -> PU ACC-PASS P SUBJ ADVL 
+icl -> PU PU SUBJ P ACC ADVL ADVL 
+fcl -> PU PU ADVL SUBJ ACC P ADVL ADVL 
+np -> >N H PU PU N< APP P ACC 
+x -> P PIV ADVL 
+icl -> ADVL P PIV ACC 
+adjp -> >A H PU A< 
+fcl -> PU PU PU ADVL P PIV ADVL 
+x -> SUBJ PU 
+pp -> H PU SUBJ P ACC 
+advp -> ADVL P SA 
+icl -> >A ADVL P PASS 
+fcl -> P SA 
+fcl -> PU SUB ACC P OC 
+par -> PU PU CJT CO CJT CJT CO CJT 
+fcl -> PU PU SUBJ ADVL P OA 
+fcl -> N< PU ADVL ACC P ADVL PIV 
+fcl -> PU PU ADVL PRED P ADVL 
+cp -> H PU PU PU ADVL SUBJ ACC P PIV 
+par -> PU PU PU CJT CJT CO 
+fcl -> PU SC P SUBJ ADVL ADVL 
+fcl -> PU PU PU SUBJ SUBJ ADVL P ADVL 
+fcl -> PU PU SUBJ SUBJ P SC ADVL 
+fcl -> PU ADVL P SA STA 
+fcl -> PU PU ADVL SUBJ SUBJ P SA 
+fcl -> PU SUBJ SUBJ P SA 
+fcl -> SUB SUBJ ADVL P ACC PIV 
+np -> >N H PU N< ADVL 
+fcl -> DAT PU ADVL P ACC 
+fcl -> PU PU PU PRED SUBJ P SC ADVL 
+fcl -> SUB ADVL ADVL SUBJ ADVL SUBJ P ACC OC 
+fcl -> SUBJ ADVL ADVL P SC 
+fcl -> PU SUB P ACC OC 
+x -> DAT SUBJ P SC 
+fcl -> PU PU PU ACC PRED P 
+fcl -> PU PU PU SUBJ P 
+pp -> H P< P SC ADVL 
+icl -> P SA ADVL ADVL 
+fcl -> SUBJ P ACC-PASS PIV 
+fcl -> ADVL SUBJ P SC ADVL 
+fcl -> PU ADVL CO SUBJ P SC 
+fcl -> PU PU PU ADVL SUBJ P SA ADVL 
+np -> >N H P SA 
+fcl -> SUBJ P ADVL ACC PIV 
+fcl -> PU PU PU SUBJ SC P 
+fcl -> CO ADVL P ADVL 
+fcl -> PU ACC P ACC ACC 
+np -> H PU PU N< 
+fcl -> PU PU PU ADVL SUBJ P PIV ADVL 
+icl -> PAUX AUX< SUBJ 
+adjp -> P ADVL CO CJT 
+fcl -> PU SUBJ ADVL ADVL ACC-PASS P PIV 
+adjp -> PU P ADVL 
+x -> PU P PIV ADVL ACC 
+fcl -> PU PU PRED FOC P ADVL 
+fcl -> PU PU SUB ADVL SUBJ P ADVL 
+advp -> H PU N< 
+icl -> ADVL P CJT 
+fcl -> PU ADVL P OC 
+icl -> P SC PRED ADVL 
+icl -> PU PU P ADVL ACC ADVL 
+fcl -> PU CO ADVL P SC 
+icl -> P SC ADVL PRED ACC 
+fcl -> PU PU PU SUBJ P PASS 
+icl -> PU PU PU P ADVL ADVL ADVL ADVL 
+advp -> PU P ADVL SC ADVL 
+fcl -> PIV PU ADVL SUBJ P ACC 
+x -> N< PU PU PRED STA SUBJ P ACC 
+np -> H PU CO CJT 
+fcl -> PU SUB SUBJ P SC ACC 
+icl -> >N P ACC ADVL PIV ADVL SC ADVL 
+np -> H CO ACC 
+icl -> PU P SC ACC 
+vp -> VAUX MV N< 
+fcl -> PU PU PU ACC SUBJ P 
+x -> PU P SC ACC 
+np -> >N H PU CO APP 
+icl -> PU P ACC SC 
+fcl -> PU SUBJ P ACC-PASS P PIV 
+x -> NPHR ACC P 
+fcl -> SUBJ P SUBJ 
+pp -> H CJT P< 
+x -> PU PRED SUBJ ACC P 
+icl -> SUBJ P ADVL ACC ADVL 
+fcl -> ADVL P ADVL PRED 
+np -> H PU PRED 
+x -> ADVL SUBJ P ACC ACC 
+par -> H CJT P< 
+np -> H PU PU N< CJT 
+x -> ADVL P ACC ACC 
+np -> PU CO CJT 
+x -> NPHR P ACC 
+fcl -> SUBJ X 
+fcl -> PU PU PU PU PU ACC P SUBJ 
+np -> H N< SUBJ P PRED 
+x -> H PRED PU STA 
+cp -> H PU N< 
+fcl -> ADVL P PASS N< 
+icl -> P SA UTT 
+fcl -> PU PU PU SUBJ SUBJ SUBJ P SC 
+icl -> DAT ADVL P 
+fcl -> PU PU SUBJ ACC SUBJ P ACC 
+advp -> ACC P SUBJ 
+fcl -> PU PU PU CO SUBJ P SC 
+icl -> PIV P P< 
+fcl -> PU SUBJ P ACC P< 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ACC-PASS PIV ADVL 
+np -> >N H N< N< PRED 
+pp -> H PU P< CJT CJT 
+fcl -> PU SUBJ ADVL ADVL ACC P PIV 
+fcl -> PU PU CO P ADVL ACC ADVL ACC 
+fcl -> PU SUBJ P ADVL PASS 
+fcl -> PU PU PU SUBJ P SC S< 
+icl -> PU PU P SC ACC 
+fcl -> PU PU PU PU ADVL ADVL P ADVL SC 
+fcl -> PU SUB SUBJ P ADVL SC ADVL 
+fcl -> SUB SC 
+pp -> H P< P SUBJ 
+fcl -> SUB SUBJ SUBJ P SC 
+fcl -> PU PU PU PU PU ACC SUBJ P 
+fcl -> ACC P ACC ACC 
+fcl -> PU PU PU PU ACC PRED P SUBJ 
+x -> ACC-PASS P SUBJ 
+icl -> ADVL P ACC P< ADVL 
+fcl -> PU PU PU SUBJ P SUBJ 
+fcl -> SUB ADVL P SC ADVL 
+fcl -> SUB SA P ACC ADVL 
+fcl -> PU SUBJ P ACC NPHR 
+x -> N< ADVL P ADVL 
+fcl -> PU PU PU CO ACC P SUBJ 
+par -> PU PU CJT CJT CJT CJT CO CJT 
+np -> >N H PU N<PRED N< 
+fcl -> PU SUB SUBJ ACC P SUBJ OC 
+fcl -> SUB ADVL P ACC PIV 
+fcl -> PU SUB SUBJ P PIV ADVL 
+fcl -> PU PU SUB SUBJ P ADVL ACC ADVL 
+np -> H PU N<PRED N< 
+x -> PU ADVL P ACC NPHR 
+fcl -> PU PU SUB SUBJ P ADVL SC 
+fcl -> SUB SUBJ ADVL P SA 
+fcl -> SUB ACC-PASS P SUBJ PRED 
+fcl -> PU SUB P ACC PRED ADVL 
+np -> >N H P 
+x -> PU PU ADVL ADVL P ACC 
+fcl -> PU PU SUB SUBJ P PIV ADVL ADVL ACC 
+fcl -> PU PU SUB P ADVL SC 
+fcl -> PU PU ACC P ACC 
+fcl -> PU PU ACC PRED P 
+acl -> H PU AS< SUBJ P ADVL 
+x -> ADVL SUBJ P ACC ADVL PIV 
+fcl -> SUB SC PAUX AUX< 
+fcl -> PU PU SUB P ACC 
+fcl -> SUB ADVL P ACC N< 
+fcl -> PU PU PU ACC P SUBJ ACC 
+fcl -> PU PU SUB SUBJ P ACC ADVL 
+advp -> >A H N<PRED 
+fcl -> PU PU SUB SUBJ ADVL P ADVL PASS 
+fcl -> PU P PIV ADVL ADVL 
+fcl -> SUB SUBJ P SC ADVL ADVL 
+fcl -> PU SA SUB SUBJ P ADVL 
+fcl -> ADVL ACC-PASS P SA 
+fcl -> ADVL SUBJ P ADVL ADVL ADVL 
+fcl -> PU SUB SUBJ P SA ADVL 
+fcl -> SUB ADVL 
+pp -> H P< ADVL P PIV 
+fcl -> PU SUBJ P ACC KOMP< 
+fcl -> PU PU SUB ADVL SUBJ P ACC ADVL 
+fcl -> SUB SUBJ P ACC OC 
+np -> H N< P 
+x -> ADVL SUBJ SUBJ ADVL P 
+icl -> PU SUBJ P ADVL ADVL ADVL 
+adjp -> H P ACC ADVL 
+fcl -> PU PU SUB ADVL SUBJ P SA ADVL 
+advp -> P PIV PRED ADVL 
+fcl -> SUB ADVL ADVL P PIV ADVL 
+fcl -> FOC SUBJ FOC SUBJ P SC ADVL ADVL 
+fcl -> PU PU SUB SUBJ ADVL ACC P 
+fcl -> PU PU SUB PRED SUBJ P PIV 
+fcl -> SUB SUBJ ADVL P ADVL ACC ADVL ADVL N< 
+fcl -> SUB SUBJ ACC-PASS P ADVL ACC ADVL 
+fcl -> PU PU SUB ADVL SUBJ P PIV ACC 
+adjp -> H ACC ADVL P 
+fcl -> SUB SC P SUBJ ADVL 
+fcl -> SUB SUBJ ADVL P PASS ADVL 
+x -> PU ACC SUBJ ADVL P 
+pp -> H PU PU P< ADVL P SC 
+fcl -> PU SUB SUBJ P ADVL SC 
+fcl -> PU PU ADVL ADVL SUBJ ACC P ADVL 
+fcl -> DAT SUB P ADVL 
+x -> PU SUB ADVL P SC SUBJ P 
+fcl -> PU SUB P PIV ACC 
+fcl -> PU PU PU SUB SUBJ ADVL P ACC ADVL ADVL 
+icl -> PU PU P ADVL N< SC 
+fcl -> PU PU SUB SUBJ ADVL ADVL P SC 
+icl -> P SUBJ PIV 
+np -> >N >N 
+fcl -> DAT SUB SUBJ ADVL P ACC 
+fcl -> PU PU PU PU SUB SUBJ ADVL P ADVL ACC 
+fcl -> SUB ACC ADVL P SUBJ 
+fcl -> ADVL PU PU SUB SUBJ P ADVL ADVL 
+fcl -> PU PU SUB ADVL SUBJ SUBJ P ACC PIV 
+fcl -> PU PU SUB ADVL SUBJ PAUX AUX< 
+x -> AUX< P ADVL 
+cp -> H PU PU ADVL ADVL PAUX P 
+fcl -> SUB SUBJ P A< ADVL 
+fcl -> SUB ADVL SUBJ P ACC ADVL 
+pp -> H P< P ADVL ACC 
+np -> >N H PU PU PU APP N<PRED 
+x -> PU SUBJ P SC 
+x -> PU SUBJ ADVL P ACC PIV PRED 
+fcl -> PU SUB SUBJ ADVL P PIV 
+fcl -> PU PU SUB SUBJ ADVL P SC 
+fcl -> PU PU SUB ADVL P ACC ADVL 
+fcl -> ADVL ACC P SUBJ 
+fcl -> N< SUB SUBJ P SC 
+acl -> H AS< N< 
+fcl -> SUB SUBJ P ADVL SC ADVL ADVL 
+icl -> PU PU SUBJ P ACC STA 
+fcl -> PU SUB ADVL P ADVL ADVL ACC 
+fcl -> PU SUB SUBJ ADVL P ACC OA ADVL ADVL 
+fcl -> PU SUB P SC SUBJ 
+icl -> P N< 
+adjp -> >A H A< ACC P 
+fcl -> SUBJ SUBJ P ADVL 
+fcl -> PU SUB P ACC OC ADVL 
+icl -> PU PU SUBJ P ACC 
+advp -> PU P ADVL 
+fcl -> PU PU SUB P SUBJ ADVL ACC ADVL 
+fcl -> PU PU STA ACC P SUBJ ADVL 
+adjp -> A< SC 
+x -> SC 
+cp -> H SUB P SC 
+cp -> H PU PU ADVL ADVL P ACC 
+par -> PU PU CJT CJT CO CO 
+fcl -> PU PU PU PU SUB SUBJ ADVL P ACC ADVL ADVL 
+fcl -> PU PU PU PU SUBJ P ACC 
+fcl -> PU PU SUB PRED SUBJ P 
+fcl -> SUB SUBJ P SC ACC 
+fcl -> SUB SUBJ P ACC PRED ADVL 
+fcl -> SUB ADVL SUBJ P ADVL ACC 
+fcl -> SUB P ACC ADVL OC 
+fcl -> SUB SUBJ P N< 
+par -> PU PU PU PU CJT CO CJT CO CJT 
+fcl -> SUB P SC SC 
+np -> >N H ACC SUBJ P ADVL PIV 
+fcl -> SUB SUBJ ADVL P PRED 
+fcl -> N< SUB ADVL SUBJ P ADVL 
+fcl -> PU SUBJ P ADVL SA ADVL 
+fcl -> ADVL P ACC-PASS ADVL 
+fcl -> PU PU ADVL AS< SUB P ACC 
+icl -> PU ACC P ADVL ACC 
+fcl -> PU PU PU ADVL SUBJ P ADVL 
+x -> SUB SUBJ P PASS 
+advp -> PU P ADVL ACC ADVL ADVL 
+fcl -> PU PU PU PU SUBJ ADVL P SC ADVL 
+fcl -> PU SUBJ ACC P SC 
+fcl -> SUB P SUBJ PRED 
+fcl -> PU PU ADVL ADVL ACC-PASS P SUBJ 
+fcl -> PU SUBJ ADVL P SUBJ ADVL 
+adjp -> P PIV ADVL PRED 
+np -> H PRED 
+pp -> H P< ACC CO 
+x -> PRED P ADVL ACC 
+x -> PRED P OC 
+fcl -> PU P OC ACC 
+fcl -> PU CO SUB SUBJ P OC 
+fcl -> PU ADVL SUBJ P OC ADVL 
+fcl -> SUB ADVL ADVL P ADVL SA 
+fcl -> SUB ADVL ADVL P 
+adjp -> H CO N<PRED 
+fcl -> PU PU SUB SUBJ SUBJ P ADVL SC 
+advp -> H PU STA 
+advp -> PU PU P ADVL ACC ADVL 
+fcl -> PU PU ADVL ADVL P SC SUBJ 
+advp -> PU P ACC OC SUBJ ADVL 
+x -> PU SUBJ P ACC-PASS ADVL 
+fcl -> PU SUBJ PRED ADVL P SC ADVL ADVL 
+fcl -> PU PU PU PU PU PU ACC P SUBJ ADVL 
+fcl -> PU PU ADVL ADVL P ADVL ADVL 
+fcl -> SC ADVL P 
+fcl -> SUB ADVL P PIV OC 
+fcl -> PU SUBJ ADVL ACC-PASS P OC ADVL ADVL 
+fcl -> PU PU PU FOC ADVL SUBJ P ACC ACC 
+fcl -> PU PU SUB SUBJ ADVL ADVL P ACC 
+fcl -> PU CO CO APP PU CO P 
+fcl -> PU P ACC OC SUBJ 
+icl -> P ADVL ADVL PRED 
+fcl -> DAT PU P ACC 
+icl -> PU P ADVL SC ADVL 
+fcl -> PU SUBJ P ACC PIV PRED 
+icl -> PRED P ACC PIV 
+np -> >N H PU PU ADVL ADVL 
+fcl -> PU PU PU ADVL ADVL ADVL P PIV 
+fcl -> PU PU SUB PRED ADVL SUBJ P ADVL 
+fcl -> SUB ADVL P ADVL SC SUBJ 
+fcl -> PU CO P SC N< 
+fcl -> PU PU ADVL SUBJ ACC-PASS P ADVL 
+fcl -> PU PU PU SUBJ ADVL P SC ACC 
+adjp -> H ADVL P SC 
+advp -> PU ADVL ADVL P ACC PRED 
+fcl -> PU PU PU PU PU ADVL ACC P SUBJ 
+icl -> PU PU PU SUBJ P SUBJ STA 
+fcl -> PU SUBJ P ACC SUBJ ADVL 
+adjp -> PU PU PU ADVL P ACC ADVL 
+x -> SUBJ ADVL P SUBJ FOC ACC 
+fcl -> SUB SUBJ ACC P OA 
+fcl -> PU PU SUB ADVL P SC 
+fcl -> ADVL ADVL SUBJ P ACC 
+fcl -> PU ADVL SC P SUBJ 
+icl -> P ACC SC ADVL ADVL 
+fcl -> PU PU CO SUBJ PRED ADVL P ACC 
+fcl -> PU PU PU PU ADVL ADVL P ACC 
+x -> SUB ADVL P ACC ADVL 
+advp -> H P ADVL ACC 
+advp -> PU PU PU PU P ACC ADVL SUBJ ADVL 
+fcl -> PU PU ADVL P ADVL PIV 
+fcl -> PU PU SUBJ P ACC PIV N< 
+fcl -> PU PU PU PU ADVL SUBJ P ACC ADVL ADVL 
+fcl -> PU PRED SUBJ P 
+fcl -> PU PU PU PU ACC P ACC PIV P SUBJ 
+fcl -> CO P SC SUBJ 
+fcl -> PU PU PU PU PU ACC N< P SUBJ 
+fcl -> PU PU PU PU ACC CO ADVL P SUBJ 
+fcl -> PU PU ADVL ADVL P ADVL PIV ADVL 
+np -> >N >N H H P< 
+pp -> H P< PRED PRED 
+fcl -> PU ADVL SUBJ P ADVL SUBJ ADVL 
+par -> PU PU CJT CJT ADVL 
+fcl -> PU PU PU ADVL ADVL SUBJ SUBJ ADVL ADVL P ACC 
+advp -> H CJT CO 
+fcl -> SUBJ SC ADVL SUBJ P 
+fcl -> SUB P ACC-PASS SUBJ 
+np -> H N< STA 
+advp -> PU ADVL P ACC ADVL ADVL 
+fcl -> PU PU P ACC S< 
+x -> ADVL P ACC S< 
+fcl -> SUBJ SUBJ P ACC ADVL ADVL 
+x -> P SC SUBJ ADVL ADVL 
+advp -> H PU PU N<PRED 
+fcl -> PU PU PU SUBJ P SC ADVL 
+fcl -> PU PU ADVL ADVL P ADVL PIV 
+x -> P ACC N< ADVL 
+x -> PU PRED ADVL P ACC ADVL 
+fcl -> PU PU SUBJ ADVL P PASS ACC ADVL 
+fcl -> PU PU ADVL SC P ACC ADVL 
+pp -> H PU PU P< CO CJT CJT 
+fcl -> SUBJ ADVL P ACC-PASS PIV ADVL 
+advp -> MV H 
+np -> H PU N< P< 
+fcl -> ADVL SUBJ P ACC-PASS ADVL 
+fcl -> PU PU PU ADVL ADVL P SUBJ ACC 
+x -> PU PRED ADVL ADVL P ACC ADVL 
+fcl -> PU PU PU ADVL SUBJ P SC ADVL ADVL 
+fcl -> SUB SUBJ P SC PASS 
+icl -> PU PU P ACC ADVL ADVL ADVL ADVL 
+fcl -> PU PU SUBJ SUBJ P ADVL ADVL ACC 
+fcl -> PU ADVL SUBJ ACC P PIV ADVL 
+fcl -> CO SUBJ P ADVL 
+fcl -> ADVL COM P 
+icl -> P ACC ADVL N< SUBJ 
+fcl -> ADVL ADVL P SUBJ ADVL 
+fcl -> SUB SUBJ ADVL P ACC-PASS ADVL PIV 
+fcl -> >A PU SUBJ P ADVL 
+fcl -> PU PU PU SUB ADVL P ACC ADVL PIV 
+fcl -> PU P SC SUBJ ACC 
+fcl -> SUB ADVL PAUX AUX< 
+x -> PU P ADVL PASS ACC 
+icl -> PU P PIV ADVL PRED PRED 
+fcl -> PU PU SUBJ P PRED 
+pp -> H PU P< ADVL ADVL ADVL ADVL ADVL ADVL 
+fcl -> PU PU ADVL P PRED 
+np -> >N PU H PU PU N< N<PRED 
+fcl -> PU PU PU SUBJ P ADVL ADVL ADVL 
+np -> >N APP 
+cp -> H H PU PU APP 
+par -> PU PU PU PU PU CJT CJT CJT CJT CO 
+icl -> PU P ADVL S< 
+fcl -> ADVL ACC-PASS P PIV 
+fcl -> PU PU PU PU ADVL ADVL P SC 
+fcl -> P OC ACC 
+fcl -> ADVL ACC P OC ACC 
+fcl -> PU PU SUB SUBJ ADVL P SC PRED ADVL 
+x -> SUB ADVL ADVL P ACC 
+fcl -> PU SUB ADVL SUBJ 
+icl -> >A P PIV 
+icl -> PU P ACC SUBJ ADVL 
+np -> >N >N H P ACC 
+fcl -> PU PU SUBJ P ACC OC 
+fcl -> PU PU PU ADVL P ADVL ACC 
+fcl -> PU PU CO SUBJ CO P ADVL 
+fcl -> PU SUBJ P PRED ADVL 
+x -> SUB ADVL P PIV ADVL 
+icl -> SUBJ P ADVL PIV 
+fcl -> PU PU PU ADVL ADVL SUBJ P ADVL SC 
+np -> H H 
+fcl -> PU PU SUB SUBJ SUBJ P SUBJ 
+icl -> ADVL P SUBJ ADVL 
+fcl -> ACC FOC SUBJ P ADVL 
+x -> SUBJ FOC P SA 
+fcl -> ACC ADVL P ADVL ADVL 
+icl -> PIV P ACC 
+fcl -> PU PU ADVL ADVL SUBJ SUBJ ADVL X 
+fcl -> PU ADVL PRED P ACC PIV 
+fcl -> ACC SUB SUBJ P 
+fcl -> PU PU PU PU STA CO P 
+fcl -> PU P ACC ACC 
+x -> PU P SUBJ PRED PRED 
+cp -> H PU SUBJ ADVL P ACC 
+fcl -> PU PU PU PU PU ACC P SUBJ ACC ADVL 
+icl -> CO P ACC OA ADVL 
+icl -> P ADVL ACC UTT 
+np -> >N H PU P ACC ADVL 
+fcl -> PU PU SUBJ STA ADVL SUBJ P ACC 
+pp -> H PU PU P< ADVL 
+pp -> H P< P ADVL SC ADVL 
+fcl -> PU PU SA P SC 
+fcl -> PU SUBJ SUBJ ADVL ADVL P ACC 
+fcl -> PU PU SUBJ P ACC PIV PIV 
+fcl -> DAT PU SUB SUBJ ADVL P ACC 
+fcl -> PU SUB SUBJ P ADVL UTT 
+pp -> H PU P< >P 
+fcl -> PU SUBJ P OC ACC 
+fcl -> ACC ADVL 
+cp -> H ADVL P SA ADVL 
+vp -> Vm PU STA 
+advp -> ACC-PASS ADVL P 
+fcl -> P SC PRED 
+x -> PU ACC 
+fcl -> PU SUBJ ACC-PASS P ADVL 
+fcl -> PIV SUBJ P ACC 
+x -> PU PU P ACC SUBJ SC ADVL 
+fcl -> PU PU PU ADVL P SA ACC 
+fcl -> PU PU ADVL SUBJ P SA 
+fcl -> PU PU SUBJ ADVL SUBJ ADVL P ACC 
+fcl -> PU PU PU PU ACC P SUBJ ADVL ADVL 
+vp -> Vm PU 
+fcl -> PU PU SUBJ SUBJ P PASS 
+fcl -> CO ADVL P PRED 
+x -> PRED P ACC ADVL 
+fcl -> PU PU P SC SUBJ ADVL 
+fcl -> PU ADVL SUBJ P CJT 
+fcl -> PU PU SUBJ P ACC-PASS ADVL 
+fcl -> PU PU SUBJ ADVL ADVL P SC 
+pp -> H PU P< STA ACC 
+icl -> TOP SUBJ P ADVL ACC 
+icl -> ADVL ACC P OA 
+np -> H PU N<PRED H PU PU P< P< 
+fcl -> PU PU SUB ADVL ACC P OC 
+fcl -> SUB SUBJ ADVL ADVL P ACC 
+fcl -> PU PU PU PU P SUBJ ADVL ADVL ADVL 
+fcl -> PU PU ACC P ADVL ADVL ADVL 
+fcl -> PU PU ADVL SUBJ P ACC ADVL OC 
+x -> PU P FOC S< 
+np -> H N< PU ACC 
+icl -> PU P ADVL ACC ACC 
+x -> PU SUBJ ACC P ADVL ACC 
+x -> PU PU PU P ADVL ADVL SUBJ ACC 
+fcl -> PU PU SUBJ SUBJ SUBJ ADVL P ACC ADVL 
+fcl -> PU PU PU PU PRED SUBJ P SC 
+fcl -> PU PU ADVL SUBJ P ADVL CJT 
+fcl -> SUBJ ADVL SUBJ P PIV 
+fcl -> PU PU ADVL SC X 
+fcl -> PU PU SUBJ P SC PASS 
+np -> >N >N >N H N< N< 
+x -> PU ADVL SUBJ P SC ADVL 
+icl -> PU P PASS ADVL ADVL ADVL 
+fcl -> ADVL P ADVL ACC ADVL 
+fcl -> PU SUBJ P OA ACC ADVL 
+x -> SUB SUBJ SUBJ P SA 
+adjp -> H KOMP< PRED 
+np -> H N< ADVL ADVL P PIV PRED 
+icl -> P ACC P SUBJ 
+fcl -> ADVL P ACC ACC 
+icl -> PIV P ADVL ACC 
+fcl -> PU PU PU CO ADVL P ADVL 
+fcl -> SUBJ SUBJ P ACC ADVL 
+fcl -> PU PU PU ADVL ADVL P 
+fcl -> DAT PU P SC ADVL 
+fcl -> SUB SUBJ P ACC STA 
+icl -> PU P PIV PIV ADVL 
+fcl -> PU SUBJ P CJT 
+fcl -> FOC ADVL FOC SUBJ P ACC 
+fcl -> PU PU PU SUB SUBJ P ACC ADVL ACC 
+fcl -> PU PU PU PU ADVL ADVL SUBJ P ACC S< ADVL ADVL ADVL 
+fcl -> ADVL SUBJ P SUBJ ADVL ACC 
+fcl -> PU ACC SUBJ P PIV ADVL 
+fcl -> PU ACC P ADVL ADVL ADVL 
+fcl -> ADVL SUBJ ADVL P ADVL ACC 
+fcl -> PU PU P ACC PIV SC 
+pp -> H PU P< ADVL STA 
+adjp -> PU CO P ADVL ACC 
+icl -> P ACC ADVL ADVL N< 
+fcl -> PU SUB SUBJ P PASS 
+fcl -> PU PU PU PU PRED ADVL ADVL P ADVL 
+fcl -> PU PU PU PU SUBJ SUBJ P ADVL 
+fcl -> PU PU PU ADVL SUBJ P SC S< ADVL 
+fcl -> ADVL SUBJ ACC-PASS P 
+par -> CJT CO CJT N< 
+np -> H P SA ADVL 
+np -> H PU N< UTT 
+icl -> P ACC P ADVL N< 
+fcl -> >N PU PU ADVL SUBJ P ACC ADVL 
+np -> >N H N< P ACC PIV 
+pp -> H ADVL PU P< ADVL 
+fcl -> PU SUBJ P SUBJ ADVL ACC 
+fcl -> SA P ACC ADVL 
+fcl -> P SUBJ N< 
+x -> DAT P 
+cp -> H ADVL P 
+cp -> H PU PU ADVL P ADVL ADVL 
+par -> PU PU CJT CO CJT CJT CO CJT CJT CO 
+icl -> SUBJ P SA 
+fcl -> PU P PRED ADVL 
+x -> P SA ADVL 
+fcl -> PU PU PU PU SUBJ ADVL P ADVL UTT 
+fcl -> PU TOP ADVL SUBJ P ADVL 
+x -> PU SUBJ PRED 
+cp -> H PU P ACC ADVL ADVL 
+fcl -> PIV SUBJ P 
+fcl -> SUB SUBJ ADVL P ADVL ACC 
+x -> PU SUBJ SUB P ADVL ADVL 
+icl -> PU ADVL P SC ADVL 
+x -> P SC OC 
+fcl -> SUB P ACC PIV ADVL ADVL 
+np -> >N H PU PU N< APP 
+x -> ADVL SUBJ P ADVL 
+adjp -> >N >N H CO 
+fcl -> PU SUBJ SC X 
+fcl -> PU PU PU SUBJ SUBJ P ADVL 
+fcl -> PU PU SUB ACC P ADVL PIV 
+x -> PU PU N< SUB SUBJ P ADVL ADVL 
+fcl -> ACC P OA 
+fcl -> PU PU P ACC ADVL SUBJ 
+fcl -> PU PU PU PU ADVL ADVL SUBJ P ACC ADVL ADVL 
+fcl -> PU ACC SUBJ P ADVL PIV 
+fcl -> PU PU SUB ADVL P SUBJ 
+fcl -> PU PU P ACC OC ADVL 
+fcl -> SUB SUBJ P PRED 
+x -> PU P ADVL PIV SUBJ 
+fcl -> PU PU P ADVL SA SUBJ 
+fcl -> SUBJ P ACC SUBJ 
+par -> CJT PU CJT 
+x -> PU SUBJ P ACC SUBJ ADVL ADVL 
+fcl -> PU PU PU ADVL P SA SUBJ ADVL 
+icl -> >N P ACC OC 
+pp -> H PU PU P< KOMP< 
+x -> PU PU SUB SC ADVL P ADVL ADVL 
+fcl -> SUBJ ACC-PASS P OC ADVL PRED 
+cp -> H PU SUBJ ADVL 
+par -> PU PU PU CJT CO CO CJT CJT 
+adjp -> H PU SUBJ P SC 
+fcl -> PU PU PU PU PU PU CO ACC PRED P SUBJ ADVL 
+fcl -> PU CO ADVL P SC ADVL 
+fcl -> PU PU PU PU PU ACC P SUBJ ADVL ADVL ADVL 
+fcl -> PU PU PU SUBJ CO ADVL P OA ADVL 
+icl -> P ADVL ACC SUBJ ADVL CJT 
+fcl -> PU ADVL X UTT 
+np -> >N H PU N<PRED N<PRED 
+advp -> P ACC N< 
+fcl -> PU SUB ACC P SUBJ 
+np -> >N H P ADVL ADVL 
+pp -> H PU PU PU ADVL P< ADVL ADVL ADVL P ACC 
+np -> H PU N<PRED STA AS< 
+np -> H PU N<PRED PU PU NPHR 
+fcl -> PU PU ADVL ADVL P ADVL ACC 
+fcl -> PU PU ADVL SUBJ P ADVL SUBJ ACC 
+fcl -> PU SUBJ P ADVL ACC ADVL ADVL ADVL 
+fcl -> PU PU PU CO P SUBJ ADVL ADVL 
+x -> PU SUBJ SUBJ P PIV 
+fcl -> >P SUBJ P SA 
+fcl -> PU PU PU SUBJ X 
+fcl -> PU SA P SUBJ 
+icl -> PU SUBJ P S< UTT 
+icl -> PU PU P ADVL PRED ACC 
+fcl -> PU PU ADVL PRED ADVL P SUBJ ADVL 
+vp -> Vm PU N< 
+fcl -> PU PU PU PU ADVL SUBJ P ACC UTT UTT 
+fcl -> SUBJ ADVL ADVL P ACC ADVL ADVL 
+cp -> H ADVL ACC 
+fcl -> PU ACC SUBJ 
+par -> PU PU PU PU CJT CO CJT CJT CO CJT 
+fcl -> P ADVL ADVL PIV 
+fcl -> PU PU PU SUB ADVL SUBJ P ACC 
+fcl -> SUB ACC-PASS P SUBJ ADVL 
+fcl -> PU SUBJ P ACC PIV PIV 
+fcl -> PU PU ADVL P ACC OA ADVL 
+x -> ACC SUBJ P 
+par -> N< PU CJT N< CJT 
+fcl -> PU PU PU PU PU SUBJ X 
+fcl -> PU PU SUBJ P SC ADVL ADVL ADVL PRED 
+fcl -> PU SUBJ ADVL P ADVL SUBJ 
+fcl -> ADVL P ACC PIV 
+fcl -> PU SUB SUBJ ADVL P SC 
+cp -> H PU ADVL P ACC 
+x -> SUB SUBJ ADVL P SUBJ P 
+par -> PU PU PU PU PU CJT CO CJT CJT CJT CJT 
+fcl -> PU PU PU ADVL P ADVL SUBJ ACC 
+fcl -> PU PU ADVL P ACC OC 
+fcl -> PU PU PU P ADVL SUBJ 
+x -> PAUX AUX< SUBJ 
+fcl -> PU PU X 
+np -> H PU >N N< P< 
+fcl -> PU ADVL ADVL P PIV 
+x -> PU SUBJ SUBJ P ADVL ADVL 
+fcl -> PU CO ADVL P ACC SUBJ 
+fcl -> PU PU PU PU PU PRED SUBJ P ADVL ADVL ACC 
+par -> PU PU CJT CJT CO CJT CO CJT 
+fcl -> PU ADVL P ADVL ACC ADVL 
+fcl -> CO P PIV 
+fcl -> PU PU PU PU SUBJ P ADVL ADVL ADVL ADVL 
+fcl -> PASS PU SUBJ ADVL P PASS 
+icl -> PU PU PU P ADVL ACC SUBJ ADVL 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ADVL 
+icl -> PU P ADVL OC SUBJ 
+icl -> P ADVL ACC ACC 
+fcl -> PU ADVL SUBJ P ACC N< 
+fcl -> PU PU PU ADVL SUBJ P ADVL ACC S< 
+fcl -> PU PU PU ADVL P ADVL 
+icl -> P PRED ACC 
+fcl -> PU PU SUBJ CO P ACC 
+pp -> PU H PU P< N< 
+x -> PU P ACC OC ADVL 
+pp -> H PU >N P< 
+fcl -> PU >N PU PU SUBJ ADVL P PIV ADVL ADVL ADVL ADVL 
+fcl -> PU SUB SUBJ P ADVL ADVL ADVL ADVL 
+fcl -> PU ADVL ADVL P SC ADVL 
+fcl -> PU PU SUBJ PRED SUBJ P PIV 
+fcl -> PU PU SUB P ADVL ACC 
+np -> H PU N<PRED >N 
+icl -> P ACC ADVL OC 
+np -> >N >N PU H PU APP 
+np -> >N H PU PU APP STA 
+np -> H PU PU PU ADVL ADVL ADVL 
+fcl -> PU PU ACC SUBJ P SA 
+np -> >N H PU PU PU PU N< 
+fcl -> >N ADVL P SUBJ 
+fcl -> PU PU PU SUBJ P SC ADVL ACC 
+icl -> >N PU PU P ADVL ACC ADVL 
+fcl -> PU SUBJ P SC OC 
+fcl -> P ACC ADVL SUBJ 
+x -> PU P SUBJ NPHR 
+fcl -> PU SUB SUBJ P ADVL PASS 
+x -> PIV ACC-PASS P ADVL ADVL 
+fcl -> COM ACC P SUBJ 
+fcl -> P ADVL ACC KOMP< 
+np -> H PU N< PU STA 
+np -> >N H N< ADVL ACC 
+fcl -> PU PRED P SC 
+advp -> PU P ACC SC 
+icl -> PU P ADVL SUBJ ADVL 
+fcl -> SUBJ PRED P ACC ADVL 
+x -> PU PRED PRED P PIV 
+np -> H PU P SC ADVL 
+fcl -> PU PU SUBJ P PIV ADVL ACC ADVL 
+vp -> Vm N< PRED 
+adjp -> H H N< P< 
+x -> PU SUBJ P ACC ADVL SC 
+fcl -> DAT SUB P ADVL ADVL ADVL 
+x -> PU PU SUBJ P SC ADVL ADVL 
+icl -> >N P PIV N< 
+fcl -> ADVL P ACC ADVL UTT 
+fcl -> PU PU PU PU ADVL SUBJ P 
+fcl -> PU PU SUBJ SUBJ P PIV 
+fcl -> PU SUBJ ADVL ADVL P ADVL ACC 
+fcl -> ADVL PU SUB SUBJ ADVL ADVL P PIV ADVL 
+fcl -> PU PU ADVL P PIV ACC 
+advp -> H P AUX< 
+fcl -> ADVL P ACC SUBJ 
+fcl -> ADVL P CJT 
+fcl -> PU PU ACC P ACC ADVL P SUBJ 
+fcl -> PU SUB PU PU P ACC-PASS ADVL 
+fcl -> PU PU PU PU PU TOP SUBJ ADVL P ACC ADVL 
+fcl -> PU PU PU SUBJ PRED ADVL P ACC 
+cp -> H ADVL SC 
+np -> H PU SUBJ PU STA 
+fcl -> PU PU PU ADVL SUBJ P ACC OC 
+fcl -> SUBJ P ACC S< 
+fcl -> PU ADVL ADVL SUBJ P 
+np -> >N H N< P ADVL PRED ADVL SA 
+fcl -> SUBJ SUBJ ACC P SUBJ 
+adjp -> SUBJ P ADVL 
+fcl -> PU PU SUBJ ADVL P ADVL ADVL SC 
+fcl -> PU PU PU PU ADVL SUBJ ADVL SUBJ PRED P PASS 
+icl -> P ACC ADVL UTT 
+fcl -> PU PU PU CO ADVL P ACC-PASS SUBJ ADVL 
+icl -> CO P ADVL ACC 
+fcl -> PU CO ADVL P PIV 
+adjp -> >A H ACC ADVL 
+fcl -> PU PU PU PU PU ADVL SUBJ ACC P SUBJ 
+x -> SUBJ ADVL ACC P ADVL ADVL 
+par -> PU PU PU PU PU CJT CO CJT CJT CO CJT CJT CO CJT 
+vp -> Vm ACC PIV 
+x -> PU UTT PU PU PU PU 
+np -> >N H N< ADVL P ADVL 
+icl -> P PASS ADVL SC 
+icl -> PU SUBJ CO P ADVL 
+fcl -> PU PU PU PU PRED SUBJ P ADVL ADVL ACC ADVL 
+advp -> PU PU PU P ACC 
+acl -> H PU AS< N< 
+fcl -> PU PU PU SUBJ SUBJ P ADVL SC ADVL 
+fcl -> SUB P ADVL PIV P< 
+fcl -> PU PU PU SUBJ P ADVL PIV ACC 
+adjp -> PU P PIV 
+fcl -> PREF PU PU SUBJ ACC P ADVL 
+icl -> >A ACC P ADVL 
+adjp -> >N H N< PU N<PRED N< 
+fcl -> PRED PU FOC SUBJ SUBJ FOC PAUX AUX< 
+icl -> P ADVL SUBJ SC 
+icl -> PU P ACC ADVL SC 
+icl -> ADVL P ACC N< 
+fcl -> PU CO P SC SUBJ UTT 
+x -> PU PU SUBJ ADVL P SA 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ADVL ADVL N< 
+fcl -> PU PU ADVL SUBJ P SA ADVL ADVL 
+fcl -> PU PU PU PU ADVL P SA PRED 
+cp -> H SUBJ PAUX ADVL 
+fcl -> PU PU SUBJ SUBJ P SA ADVL ADVL 
+np -> >N H N< STA AS< 
+np -> H PU N<PRED PU PU PU NPHR 
+fcl -> PU PU SUB ADVL SUBJ SUBJ P ACC 
+fcl -> PU PU ADVL ADVL SUBJ ADVL P 
+icl -> P ACC N< ADVL ADVL 
+fcl -> >N PU CO SUBJ P SC 
+x -> PRED P ACC ADVL ADVL 
+advp -> >A H CJT 
+fcl -> P ACC SUBJ 
+x -> PU ADVL P SUBJ 
+fcl -> PU PU PU ADVL P SUBJ PIV ADVL 
+fcl -> SUBJ SUB ACC P OC 
+fcl -> SUBJ SUBJ ADVL P PIV 
+fcl -> PU PU ADVL P ACC PIV PRED ADVL 
+icl -> PU PU P PRED ADVL 
+icl -> >N PU P ACC ADVL OC 
+np -> H PU PU N<PRED P ACC OC 
+np -> >N H PU H N< P< 
+par -> PU PU CJT CO CJT ADVL SUBJ 
+fcl -> PU PU PU SUBJ ADVL P 
+x -> PAUX AUX< 
+pp -> H P ADVL 
+np -> ADVL 
+np -> H N< PU P ADVL ADVL 
+np -> H N< P ADVL ACC 
+fcl -> PU ADVL ACC P 
+fcl -> SUB SUBJ P ADVL ADVL ACC 
+np -> >N H PU N< P SUBJ 
+par -> PU CJT UTT CJT STA 
+fcl -> PU CO P OC ACC ADVL 
+icl -> >N P ADVL ACC 
+np -> H CO N< 
+fcl -> PU PU SUBJ SUBJ P ACC ADVL 
+fcl -> PU PU ADVL P PASS ADVL ADVL 
+fcl -> PU PU ADVL P 
+pp -> PU PU SUBJ P SC ADVL 
+fcl -> PRED N< 
+x -> P PASS ADVL ADVL 
+np -> H PU N<PRED PU CO CJT 
+x -> H PU STA P< 
+icl -> >N PU P ADVL PASS ADVL ADVL ADVL 
+pp -> H PU >N H N< P< 
+fcl -> ADVL SUBJ ADVL P PASS ADVL 
+fcl -> PU PU PU ADVL ACC P ADVL SC 
+par -> PU PU PU PU PU PU CJT CJT CJT CO CJT CJT 
+fcl -> PU P ACC ADVL SUBJ 
+fcl -> ADVL SUBJ ADVL P ACC ADVL 
+fcl -> PU SUBJ ACC P PIV ADVL 
+fcl -> PU SUB SUBJ P OC ADVL 
+np -> >N H PU N<PRED CO 
+pp -> H PU PU PU P< STA 
+fcl -> PU SUBJ ADVL P ADVL ADVL SUBJ 
+fcl -> PRED SUBJ P ACC ADVL ADVL 
+fcl -> PU P SC N<PRED 
+fcl -> PU PU PU PRED SUBJ P ACC ADVL 
+fcl -> PU PU SUBJ P PASS ACC 
+icl -> ADVL SUBJ P PIV 
+np -> >N H N< KOMP< 
+fcl -> ADVL SUBJ ADVL P SC ADVL 
+x -> SUBJ SUBJ P SC 
+icl -> >N P SUBJ ADVL 
+x -> ADVL ACC P PIV 
+fcl -> PU PU SUBJ SUBJ P ACC OC ADVL 
+fcl -> PU ADVL ADVL P ADVL ACC 
+par -> PU PU PU PU PU CJT CJT CJT CO CJT 
+x -> ADVL P SC ADVL N< 
+x -> SUB P ADVL ACC 
+fcl -> PU PU PU PRED ADVL SUBJ P ACC ADVL 
+x -> PU SUBJ PRED P 
+fcl -> SUB P PIV ACC 
+fcl -> PU PRED SUBJ P PIV ACC 
+fcl -> PU PU SUBJ P ADVL SA ADVL 
+pp -> H P< >P 
+x -> ADVL ADVL P SUBJ 
+icl -> P PASS PIV PASS 
+fcl -> PU PU SUBJ SUBJ P ADVL PIV 
+fcl -> PU SUBJ FOC SUBJ P ADVL SC 
+x -> ACC P ADVL ADVL ADVL 
+fcl -> PU PU PU ADVL ADVL SUBJ SUBJ P ADVL 
+fcl -> PU PU SUBJ FOC SUBJ P ADVL ACC 
+advp -> H PU CO 
+icl -> ACC PU PU P ADVL ACC 
+icl -> PU ADVL P ADVL ADVL 
+icl -> >A ADVL P P ACC 
+np -> >N H ADVL PRED 
+fcl -> PU CO P 
+icl -> N< P ADVL ADVL 
+fcl -> DAT PU SUB P ACC PRED 
+fcl -> PU PU ADVL SUBJ ADVL P SC ADVL 
+icl -> P ADVL PIV ADVL 
+fcl -> ADVL ACC P OC 
+np -> >N H N< ACC-PASS P ADVL 
+advp -> CO 
+fcl -> SUB SUBJ ADVL P SC PIV 
+fcl -> SUBJ P ADVL PASS 
+fcl -> PU P ADVL SUBJ ADVL PRED 
+fcl -> PU PU PU PU PU SUBJ P ADVL ACC 
+fcl -> PU PU SUBJ P PIV PRED PRED PRED ADVL ACC 
+fcl -> PU PU ADVL P ACC PIV ADVL 
+fcl -> NPHR P PIV 
+np -> >N H N< N< STA 
+icl -> PU SUBJ CO P ACC 
+fcl -> PU PU PRED ADVL SUBJ P ACC 
+fcl -> PU ADVL P SA 
+icl -> >N 
+cp -> H A< 
+fcl -> P PIV PIV 
+advp -> PU P ACC UTT 
+fcl -> P ACC ADVL ADVL 
+np -> H N< N< >N 
+fcl -> ACC P ADVL ADVL ADVL ADVL ADVL 
+icl -> PU PU P SC PRED PASS 
+fcl -> PU SUBJ P ADVL ACC PRED ADVL ADVL ADVL 
+icl -> >N PU P ADVL ADVL ADVL 
+fcl -> PU SUBJ PRED SUBJ P ACC ADVL 
+icl -> PU PU P ADVL PIV ADVL 
+fcl -> PU P ADVL ADVL ACC UTT 
+fcl -> SUBJ P ACC-PASS ADVL 
+pp -> H >A P< 
+pp -> >N PU H P< 
+fcl -> PU PU PU ADVL ADVL SUBJ P SUBJ OA ADVL 
+acl -> H PU AS< AS< 
+icl -> PU PU PU PU ADVL P ADVL ADVL 
+pp -> MV H P< 
+icl -> PU P ACC OC ADVL 
+fcl -> SUBJ SUB ADVL P ADVL ADVL 
+fcl -> ACC P ADVL SC 
+fcl -> PU PU SUBJ P PIV ADVL SUBJ 
+fcl -> PU SUBJ SUBJ P SUBJ ADVL 
+fcl -> SUBJ P PASS ADVL ADVL 
+fcl -> PU PU ADVL CO P ACC PIV 
+fcl -> >N PU PU ADVL SUBJ SUBJ P ADVL 
+fcl -> PU PU SUBJ P ADVL PIV ACC 
+np -> H N< PU PU N< 
+fcl -> PU PU PU PU ADVL SUBJ P PIV ADVL UTT 
+x -> PREF PU SUBJ P SA ADVL 
+x -> PU P SUBJ UTT 
+fcl -> ADVL SUBJ P OA 
+par -> CJT CO ADVL ADVL CJT 
+fcl -> H SUBJ ADVL ACC 
+fcl -> PU PU PU SUBJ P ACC OA 
+x -> SUBJ P PASS 
+fcl -> PU PU SUB ADVL SUBJ P PASS 
+fcl -> PU PU PU PU ADVL X 
+fcl -> SUBJ ADVL P PRED 
+fcl -> SUBJ ACC P ACC ADVL 
+fcl -> PU PU PU PU STA CO CJT X 
+fcl -> PU PU SUBJ P ACC PRED ADVL 
+np -> >N H PU N< CO 
+np -> >N H N< CJT 
+fcl -> PU PU PU SUBJ P ACC OC 
+icl -> P ACC ADVL P SC 
+fcl -> PU >N PU ADVL SUBJ ADVL P ADVL 
+fcl -> PU SUBJ P ADVL N<PRED ADVL 
+icl -> PU PU ADVL ADVL P ACC ADVL ADVL 
+pp -> >N H >N P< 
+fcl -> PU PU PU ADVL P SUBJ ADVL 
+x -> SUBJ P ACC SUBJ 
+fcl -> PU P PIV ACC ADVL 
+x -> P PIV ADVL N< 
+np -> >N H N< PU N<PRED CO 
+pp -> H PU P< N<PRED 
+fcl -> PU PU PU PU ADVL ADVL P ACC SUBJ ADVL ADVL 
+icl -> P ACC ADVL KOMP< 
+fcl -> PU PU ADVL P SC UTT 
+fcl -> SUB PRED P SC ADVL 
+x -> PU PU PU PU PRED ADVL P ADVL ADVL ACC 
+fcl -> PU P SC PIV ADVL 
+pp -> H FOC P< 
+icl -> FOC ADVL P PIV 
+fcl -> PU SUBJ P SC ADVL PRED 
+advp -> P ACC SC 
+np -> H N< PU PU N<PRED P ADVL 
+cp -> H H N< 
+par -> CJT PU PU CJT CJT APP CO 
+fcl -> ADVL SUBJ ACC P ADVL ADVL 
+icl -> ACC P ACC ADVL 
+fcl -> PU PU ADVL SUBJ P ACC OC 
+icl -> PU ADVL P ACC OC ADVL 
+adjp -> >N >N >N >N H 
+cp -> H ADVL P ACC 
+fcl -> PU PU PU SUBJ P PASS ADVL 
+fcl -> PU PU SUBJ SUBJ P ACC ADVL ADVL ADVL ADVL 
+par -> PU PU CJT CJT UTT 
+fcl -> PU PU PU PU SUBJ ADVL P SC 
+icl -> P SA SC ADVL 
+icl -> P PRED PRED 
+fcl -> PU SUB ADVL P ACC 
+x -> PU ADVL SUBJ P ADVL ADVL 
+x -> P PIV N< ADVL 
+fcl -> N< P ADVL ACC 
+x -> PU ADVL ADVL P ACC N< 
+fcl -> PU SUBJ P ACC CJT 
+icl -> P SC PRED 
+np -> >N H N< PU PU PU NPHR N< 
+advp -> PU PU P ACC CO ADVL PIV 
+fcl -> PU SUBJ P ACC PIV ACC 
+fcl -> CO P SUBJ 
+fcl -> PU SUBJ ADVL P ACC ACC 
+fcl -> PU ADVL ADVL ACC P PIV 
+par -> PU CJT CO CJT CO CJT KOMP< 
+pp -> H P< UTT PRED 
+np -> >N H PU ADVL P ACC ADVL ACC 
+fcl -> ADVL SUBJ P SA ADVL 
+fcl -> SUB SA P SUBJ 
+fcl -> PU SUBJ ADVL P SC ACC 
+x -> PU SUB ADVL P ACC 
+fcl -> PU PU PU ADVL SUBJ P PRED ACC 
+np -> H P ACC PIV 
+np -> PU SUBJ CO CJT 
+np -> H N< N< P ADVL PIV ACC 
+icl -> CO P ACC PIV 
+fcl -> PU DAT PU CO ADVL P ADVL SUBJ 
+icl -> CO CO CJT 
+fcl -> PU PU ADVL ADVL ADVL P SC 
+fcl -> SUBJ ACC P SC 
+fcl -> PU ADVL FOC SUBJ P ACC ADVL 
+fcl -> SUBJ SUB P ACC ADVL 
+fcl -> PU PRED SUBJ ACC P ADVL 
+fcl -> PU SUB SUBJ P ADVL S< 
+fcl -> PU PU P SC ACC 
+fcl -> PU PU PU ADVL SUBJ P PIV S< 
+pp -> H P< MV 
+fcl -> PU SUBJ ACC PIV ADVL P PIV 
+fcl -> PU SUBJ ADVL ACC P ADVL PIV ADVL 
+icl -> ADVL >N P ADVL 
+pp -> H PU PU P< UTT 
+np -> H DAT ADVL P 
+fcl -> SUBJ SUB P PRED 
+fcl -> N< SUB P SUBJ 
+fcl -> PU SUBJ P ADVL ADVL SC 
+adjp -> >N H PIV P ACC 
+np -> >N H PU PU N<PRED CO 
+fcl -> PU PU PU FOC ADVL SUBJ ADVL P PASS ADVL 
+fcl -> P ACC ACC 
+fcl -> PU PU PU PU PU ACC CO ADVL CO ADVL P SUBJ 
+adjp -> >N H ADVL 
+x -> P< 
+fcl -> PU PU PRED SUBJ P OC S< 
+fcl -> PU PU PU ADVL SUBJ PAUX AUX< 
+fcl -> PU PU SUBJ SUBJ P ADVL ADVL ADVL ADVL 
+fcl -> PU P ACC ADVL ADVL ADVL 
+x -> PU PU SUBJ P ADVL PRED ADVL PRED ADVL 
+fcl -> PU SUBJ PRED PAUX AUX< 
+fcl -> PU PU PU SUBJ ADVL P ACC ACC 
+np -> H KOMP< 
+fcl -> PU PU ADVL PRED P ACC 
+fcl -> SUBJ SUB ACC P ADVL ADVL 
+fcl -> PU ADVL P SC ADVL SUBJ 
+fcl -> PU PU PRED PRED P ACC 
+x -> P OC ACC 
+fcl -> SUB P ACC NPHR PRED 
+fcl -> PU PU SUBJ CO ADVL ADVL P PIV ADVL 
+fcl -> SUBJ ADVL ADVL P ADVL ADVL 
+np -> H CO FOC 
+x -> PU ADVL SUBJ P ADVL 
+par -> PU PU SUBJ CJT CJT 
+cp -> H P PIV 
+x -> PU P SUBJ OC 
+cp -> H PU 
+icl -> PU PU P PASS SC N< PRED ADVL PRED 
+x -> PU SUBJ P ADVL SC ADVL 
+fcl -> PU PU TOP ADVL P ADVL ADVL 
+icl -> ADVL ADVL P SC 
+fcl -> PU PU PU PU PRED ADVL SUBJ ADVL P ACC 
+fcl -> PREF ADVL SUB SUBJ P 
+x -> P ACC-PASS P ADVL 
+fcl -> PU SA P SC 
+fcl -> SUB P ACC PRED 
+icl -> ADVL >N P ACC ADVL 
+fcl -> PU PU PU ADVL SUBJ P ACC P< 
+fcl -> PU SUBJ P S< PRED 
+x -> SUB SUBJ P SA ADVL 
+fcl -> SUB ADVL SUBJ P ACC SC 
+icl -> PU PU P ADVL ACC SUBJ 
+fcl -> PU PU PU PU ADVL ACC P PIV ADVL ADVL 
+np -> >N H N< PAUX AUX< 
+fcl -> ADVL P ACC OA 
+fcl -> PU CO SUBJ ADVL ADVL P ACC 
+fcl -> PU ADVL P ACC-PASS SUBJ 
+fcl -> PU CO ADVL P SUBJ ADVL 
+icl -> PU P SUBJ PRED ADVL ADVL 
+fcl -> PU PU PU PU PU ACC OC P SUBJ ACC 
+fcl -> PU P PIV ACC 
+vp -> VAUX VAUX PRT-AUX VAUX MV 
+fcl -> PU SUBJ P ADVL ADVL ADVL ACC 
+fcl -> PU SUBJ PRED ADVL P ACC PRED 
+fcl -> PU P ACC-PASS PIV ACC ADVL ADVL 
+np -> H PU P PIV ADVL ADVL ADVL 
+fcl -> PU SUBJ ADVL P SA ADVL 
+x -> PU PU SUBJ ADVL P P ADVL 
+fcl -> SUBJ ACC P ADVL ADVL ADVL 
+par -> PU PU CJT CJT PRED 
+fcl -> PU PU PU SUBJ P SC SUBJ 
+adjp -> ACC P 
+x -> SUB SUBJ P ADVL ACC ADVL 
+icl -> PU P ACC PIV P SUBJ 
+fcl -> PU PU PU PRED SUBJ P ACC S< 
+fcl -> PU PU PU PU PU ACC ADVL P SUBJ 
+x -> >A PU ADVL P PASS S< 
+fcl -> PU SUBJ SUBJ P PIV ACC ADVL 
+pp -> PU H PU STA P< 
+np -> >N H P ADVL ACC ADVL 
+x -> P ADVL ACC PIV 
+fcl -> PU SUB P SC ADVL ACC 
+advp -> H PU PU CJT CJT CO CJT 
+fcl -> PU SUB P ADVL PIV ACC 
+fcl -> PU ADVL SUBJ SUBJ ADVL P SC 
+fcl -> SUB P SC OA 
+fcl -> PU PU SUB P ADVL 
+fcl -> SUBJ P ACC-PASS 
+x -> PU PRED ADVL P SC PRED 
+fcl -> PU PU PRED ADVL SUBJ P ACC ADVL ADVL 
+pp -> H PU PU P< UTT UTT 
+fcl -> PU SUB SUBJ P ACC PIV 
+fcl -> PU PU P SUBJ PIV ADVL ADVL 
+icl -> ADVL P ACC ADVL SUBJ 
+icl -> P ACC PIV SUBJ 
+x -> SUBJ ADVL P SC ADVL 
+icl -> ADVL P SUBJ ACC 
+fcl -> FOC SUBJ FOC SUBJ P SC ADVL 
+fcl -> SUB SUBJ CO CJT X 
+x -> PRED ADVL P ACC ADVL 
+x -> SUB P ADVL SUBJ 
+fcl -> PU P SC PRED ACC 
+x -> PU P ADVL SUBJ ADVL ACC ADVL 
+icl -> SC P ACC ADVL 
+fcl -> PU PU SUBJ P S< SC 
+fcl -> PU PU PU PU P ADVL ADVL ADVL 
+np -> >N H PU N< UTT 
+fcl -> PU PU SUBJ SUBJ ACC P PIV 
+fcl -> ADVL PU PU ADVL ADVL SUBJ P ADVL ADVL ACC 
+fcl -> SA SUBJ ADVL P ADVL 
+fcl -> SUB SUBJ P OC ACC 
+fcl -> PU PU ADVL P ADVL SUBJ ADVL 
+fcl -> SUBJ P ACC ADVL ADVL ACC 
+fcl -> PU PU ACC P ADVL ADVL 
+fcl -> PU >A ADVL P 
+icl -> P OC ACC 
+x -> PU ADVL ADVL SUBJ P ADVL 
+fcl -> PU PU PU PU ACC SUBJ SUB ADVL P PIV ADVL 
+x -> PU SUB P ACC ADVL 
+fcl -> PU SUBJ P ACC PIV ADVL N< 
+fcl -> PU PRED SUBJ P ACC ADVL 
+x -> PRED ACC P ADVL ACC ADVL 
+fcl -> PU ADVL SUBJ SUBJ P SC ADVL 
+advp -> PU PU P ACC PRED PRED PRED 
+fcl -> PU PU SUBJ SUBJ ADVL ACC P ADVL 
+adjp -> PU SUBJ ACC P PIV ADVL 
+adjp -> PU PU P ADVL ADVL 
+adjp -> H PU P SC 
+fcl -> PU PU PU PU ADVL SUBJ PRED P SA ADVL 
+fcl -> PU PU FOC SUBJ FOC ACC P OA 
+fcl -> PU PU PU SUBJ ADVL P ACC OA 
+fcl -> PU N< PU ADVL SUBJ SUBJ P PASS ADVL ADVL ADVL 
+icl -> PU P SC 
+fcl -> SUBJ SUB P ADVL ADVL 
+icl -> PU P ADVL PIV ADVL ADVL 
+x -> SUB P SC 
+icl -> PU PU ACC P PIV ADVL ADVL OC 
+fcl -> PU PU SUBJ P ACC PRED 
+fcl -> PU PU PRED P ADVL ADVL SUBJ 
+fcl -> H SUB P< 
+fcl -> SUB SUBJ P ACC P PIV 
+fcl -> SUB P OA 
+cp -> H ADVL P SA 
+fcl -> SUBJ P KOMP< 
+x -> P ADVL SC S< 
+fcl -> PU PU PU SUBJ ADVL P SA ADVL 
+icl -> P OC PRED 
+np -> H N< PU N< CO 
+fcl -> PU PU PU ADVL P ADVL SUBJ 
+icl -> PRED PRED P ACC 
+fcl -> PU PU PU PU PU SUBJ P S< ADVL 
+fcl -> SUBJ ADVL ACC P SA 
+fcl -> PU SUBJ P ADVL PRED ACC 
+fcl -> PU PU PU PU SUBJ P ADVL SC ADVL 
+np -> >N PU H PU 
+advp -> PU PU P ADVL ACC 
+fcl -> PU PU P SUBJ N< ADVL 
+fcl -> PU PRED SUBJ P SC 
+x -> PU ACC P OC 
+np -> H P SC S< 
+fcl -> SUBJ ADVL ACC P ADVL 
+x -> PREF SUB P ACC 
+adjp -> H PU N<PRED PU CO CJT 
+fcl -> PU PU PU SUBJ ADVL P ADVL A< 
+fcl -> PU PU PU PRED PRED P ACC 
+fcl -> PU PU ADVL ADVL SUBJ P ACC PRED 
+x -> ADVL P OC ACC 
+fcl -> PU PU PU PU SUBJ ADVL P SUBJ ACC ADVL UTT 
+fcl -> PU PU ADVL P OA 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ADVL SC 
+x -> PU PU SUBJ P< SUBJ P PRED ACC 
+fcl -> PU SUBJ CO ADVL X 
+fcl -> PU PU ADVL ADVL SUBJ P ADVL PIV 
+fcl -> PU P N< 
+fcl -> PU ADVL ACC P PRED 
+icl -> P ACC STA 
+advp -> PU PRED P ADVL 
+fcl -> PU PU PU SUBJ P ADVL ACC NPHR 
+fcl -> SUB ADVL P ADVL SC 
+np -> >N >N H PU N< P ACC 
+par -> PU CJT CJT CO CJT SUBJ 
+fcl -> PU PU PU PU ACC P SC P SUBJ 
+advp -> PU PRED P ACC ADVL 
+icl -> P ACC UTT UTT 
+np -> >N >N >N H PU 
+fcl -> SUB SUBJ P ADVL ADVL PIV ADVL 
+advp -> ADVL P 
+fcl -> PU SUB SUBJ SUBJ 
+np -> H N< P ADVL ADVL 
+x -> AUX< ACC PIV 
+cp -> H ADVL SUBJ PAUX SC 
+fcl -> PU SUBJ SUBJ P ADVL ACC PIV 
+fcl -> ACC P PIV ADVL ADVL 
+icl -> PU P PIV PRED 
+fcl -> PU SUBJ P OA S< 
+icl -> PU PU PRED P ACC PRED PRED OC PRED ADVL 
+icl -> PU SUBJ P ADVL 
+fcl -> PU SUB SUBJ P SA ACC 
+fcl -> PU ADVL SUBJ P ADVL ADVL SUBJ 
+icl -> ADVL P SC SUBJ 
+fcl -> CO ADVL P ACC PIV 
+fcl -> PU PU PU ADVL SUBJ P SC ADVL ADVL ADVL 
+np -> >N xxx 
+adjp -> (011)_264-2195 PU N< 
+np -> >N H APP SC 
+advp -> PU P SA ADVL 
+vp -> Vm MV 
+np -> >N >N H P< 
+fcl -> PU PU ADVL ACC ADVL SUBJ P 
+fcl -> PU PU ADVL ADVL ADVL SUBJ P ACC ADVL 
+x -> PU P PASS ACC 
+fcl -> PU SUB SUBJ ADVL P ADVL ACC 
+icl -> PU PU P ACC-PASS SUBJ ADVL 
+cp -> H PU CJT 
+np -> H N< N< PU CO 
+advp -> PU P SA ADVL SUBJ 
+fcl -> PU PU PU PU PU PU ADVL SUBJ P ADVL ACC ADVL ADVL 
+fcl -> SUB SUBJ P ADVL ADVL N< 
+np -> >N H N< N< SUB SUBJ 
+vp -> Vm CO CJT 
+x -> STA PU ACC 
+icl -> PU ADVL P PIV SUBJ PASS ADVL 
+fcl -> ADVL ADVL P ADVL 
+fcl -> PRED ADVL P ACC PIV 
+x -> PU ADVL ACC P 
+x -> PU SUBJ ADVL SUBJ ADVL P PIV 
+fcl -> PU PU PU CO ADVL P ACC ADVL 
+fcl -> >A ACC ADVL P 
+x -> P SA SUBJ ADVL 
+x -> P ACC ADVL PIV 
+x -> ACC-PASS P ACC 
+np -> H SUBJ 
+fcl -> ACC SUBJ SUBJ 
+icl -> PU P PRED ADVL P 
+advp -> P ACC PRED 
+fcl -> PU PU PU SUBJ ADVL FOC SUBJ P PIV 
+fcl -> PU PU PU P SC SUBJ ACC 
+x -> SA P PIV 
+fcl -> PU PU ADVL SUBJ P S< ADVL 
+np -> >N PU H N< P 
+x -> ACC P P 
+fcl -> PU SUB SUBJ P 
+fcl -> SUBJ FOC P ADVL ACC 
+fcl -> PU PU PU PU ACC CO SUBJ P SUBJ 
+icl -> ACC P OC SUBJ 
+adjp -> PU P SUBJ 
+fcl -> SUB SUBJ ADVL ADVL ACC-PASS P ADVL ADVL 
+fcl -> PU ADVL PRED P ADVL 
+advp -> H MV 
+fcl -> SUBJ ADVL P SA ADVL 
+fcl -> >N PU CO P ADVL ADVL 
+x -> P ACC ACC 
+np -> >N H PU N< SUBJ P ACC ADVL 
+fcl -> PU ADVL SUBJ P ACC OA 
+fcl -> PU PU ADVL PRED P ADVL ACC 
+fcl -> PU PU ADVL SUBJ P ACC ADVL ADVL ADVL 
+pp -> PU H PU PU PU STA P< 
+np -> H PU P PIV ACC 
+fcl -> PU SUBJ SUB P ACC 
+fcl -> ADVL ACC-PASS P ADVL 
+x -> SUBJ P PIV ACC 
+fcl -> PU PU PRED ADVL SUBJ X 
+np -> H N< PU ADVL 
+fcl -> PU ACC ADVL P SUBJ 
+np -> >N H P ACC ADVL 
+fcl -> PU PU PU SUBJ ADVL P SA 
+x -> SUBJ ADVL P ADVL PIV 
+x -> P SC ADVL ADVL 
+fcl -> PU PU PU PU PU PU PRED SUBJ P ADVL ADVL ADVL ACC 
+fcl -> PU PU PU SUBJ P SA PRED PRED 
+x -> PU AUX< SC PASS SUBJ PAUX 
+x -> AUX< SC 
+cp -> H SUBJ ADVL PAUX P 
+pp -> H PU P< P SC 
+fcl -> PU PU PU ADVL P ACC SUBJ OC 
+np -> H PU ADVL P ADVL ADVL 
+fcl -> PU SUB ADVL PAUX AUX< 
+np -> >N H N< UTT 
+np -> CO >N H N< 
+fcl -> PU PU PU PU PU ACC ADVL P SUBJ ACC 
+fcl -> PIV SUBJ ACC-PASS P ADVL 
+x -> P UTT 
+icl -> PU PU P SC ADVL SUBJ 
+fcl -> PU PU ADVL ADVL ADVL P SUBJ 
+fcl -> PU PU SUBJ FOC P ADVL 
+fcl -> SUB SUBJ ADVL P ACC ADVL ADVL N< 
+fcl -> PU PU SUBJ P PRED ADVL 
+x -> NPHR PRED P ACC 
+fcl -> PU SUBJ P ACC SA ADVL 
+x -> PU ADVL SC P ACC 
+pp -> H N< P< N< N< 
+icl -> PU P ACC N<PRED 
+fcl -> PU PU PU PU ADVL P SUBJ ADVL 
+fcl -> PU PU SUBJ ADVL P PIV OC 
+fcl -> PU SUBJ P ACC ADVL OC NPHR 
+fcl -> ADVL P ADVL SC 
+x -> ADVL SUBJ ACC P ADVL 
+par -> PU PU CJT UTT CJT 
+fcl -> PU SUBJ P PASS ADVL CJT 
+cp -> H >N H N< PU PU N< P PASS 
+fcl -> PU SUBJ ADVL SUBJ P ACC N< 
+par -> PU PU PU PU PU PU CJT CJT CJT CJT CJT CJT CJT CO CJT 
+fcl -> PU PU PU PRED SUBJ P ADVL 
+fcl -> PU PU PU PU ACC P ACC PIV ADVL P SUBJ 
+icl -> PU P PASS PIV ADVL ADVL 
+fcl -> PU SUBJ ACC P ADVL ADVL ADVL 
+fcl -> SC SUBJ P 
+x -> SUBJ ADVL ADVL P SC 
+fcl -> PU PU PU PU PU UTT PU PU ADVL SUBJ ACC P 
+fcl -> PU PU ADVL SUBJ P PRED ADVL ADVL 
+fcl -> PU PU ADVL P ACC S< 
+icl -> FOC 
+fcl -> PU SUBJ P ADVL OC 
+fcl -> PU PU PRED SUBJ SUBJ ADVL P ACC ADVL 
+x -> PRED P ADVL ADVL 
+fcl -> PU PU SUBJ ADVL P ACC S< 
+fcl -> PU SUB P ADVL SUBJ ACC 
+fcl -> SUB SUBJ ADVL PAUX AUX< 
+x -> SUB P PIV ACC ADVL 
+x -> DAT P ACC 
+x -> PU PU PRED PRED PRED ADVL P ACC ADVL 
+x -> P ACC-PASS PIV 
+fcl -> PU SUB P SC ADVL ADVL 
+fcl -> ADVL P ACC OC 
+fcl -> PU PU PU SUBJ SUBJ P ADVL ACC ADVL 
+fcl -> PU SUBJ P SA ADVL PASS 
+advp -> P PIV CO 
+adjp -> >A H N<PRED 
+x -> SUBJ ADVL P PASS 
+par -> H PU PU CJT APP 
+np -> H PU PU APP N< 
+advp -> P PASS 
+fcl -> PU PU PU SUBJ ADVL ADVL P ACC ADVL 
+fcl -> PU ADVL SUBJ P ADVL ACC ADVL 
+icl -> ADVL >N P 
+fcl -> PU PU PU PU ADVL SUBJ SUBJ ADVL P SC 
+fcl -> SUBJ P ADVL ACC PIV ADVL 
+fcl -> PU SUBJ P ACC ADVL ADVL ADVL PRED 
+fcl -> ADVL ADVL P SC 
+pp -> H PU P< ADVL P SC ADVL 
+fcl -> PU SUB ADVL P ACC S< 
+fcl -> PU SUBJ SUB P ACC ADVL 
+icl -> ADVL P ACC SUBJ 
+x -> P SC ADVL SUBJ 
+icl -> >N P ACC SUBJ 
+adjp -> >N H PU PU PU N<PRED 
+fcl -> PU PU PU SUBJ ADVL P ADVL ACC PRED 
+fcl -> SUBJ ADVL ACC-PASS P PIV 
+fcl -> SUBJ P SA ADVL ADVL 
+pp -> H P< CJT CJT CJT 
+icl -> PU PU P PIV ADVL 
+fcl -> SUB SUBJ ADVL P PIV ACC 
+adjp -> P ADVL SUBJ 
+fcl -> PU PU ADVL ADVL SUBJ P ACC ADVL ADVL 
+pp -> H PU P ACC 
+x -> PU PRED PRED PU PRED PU PU STA ADVL 
+fcl -> PIV PU SUBJ P ACC 
+fcl -> PU SUBJ P ACC N< PIV 
+fcl -> SUB SUBJ P SA ADVL ADVL 
+x -> ADVL P SC ACC 
+fcl -> SUB SUBJ P ADVL ACC ADVL ADVL 
+fcl -> PU PU PU PU PU ADVL ADVL SUBJ P ACC ADVL 
+x -> PU PU ADVL ADVL SUBJ ADVL P ACC 
+fcl -> DAT SUBJ P SC ADVL 
+np -> H PU PU >N N<PRED 
+fcl -> PU PU SUBJ ADVL SUBJ P PIV ACC 
+fcl -> ADVL SUB SUBJ ADVL P ADVL 
+fcl -> PU SUB SUBJ P SC ACC S< 
+fcl -> PU SUB ADVL P PIV 
+np -> >N H N< SUB SUBJ P 
+fcl -> PU PU PU STA PRED CJT CO SUBJ X 
+fcl -> SUB SUBJ ACC P PIV ADVL 
+pp -> PU H PU PU STA P< 
+fcl -> PU PU PRED SUBJ P SUBJ 
+fcl -> PU ADVL FOC SUBJ P OC ADVL 
+fcl -> >A PU PU PU PU PRED SUBJ P ADVL ADVL 
+x -> AUX< ACC ADVL ACC 
+fcl -> PU ACC SUBJ P ACC PRED ADVL 
+advp -> H PU KOMP< 
+fcl -> PU PU PU SUB ADVL P SC SUBJ UTT UTT 
+x -> ACC P ACC PIV 
+icl -> SUBJ X 
+icl -> P OC ACC ADVL ADVL 
+icl -> PU PU PU P PIV UTT UTT UTT 
+fcl -> ADVL P SC ACC 
+fcl -> >N P 
+par -> CJT N< ADVL ADVL 
+np -> H PU PU ADVL P ADVL ACC 
+fcl -> PU PU PU PU ADVL SUBJ ADVL P ADVL 
+fcl -> PU ACC P SUBJ PIV 
+fcl -> SC P SC 
+x -> SUBJ P PIV ADVL ACC ADVL 
+pp -> H PU PU P< SUBJ P 
+x -> PU PU PU ADVL P ACC ADVL ADVL 
+fcl -> CO P PIV ADVL 
+fcl -> PU SUB SUBJ ADVL P SC ACC 
+icl -> PU PU PU P ACC PIV ADVL 
+fcl -> PU PU PU PU ACC P ADVL 
+fcl -> PU PU PU CO ADVL P SUBJ 
+icl -> PU SUBJ P PIV ADVL 
+fcl -> PU PU P PIV SUBJ 
+x -> SUB SUBJ ADVL P PIV ACC 
+fcl -> PU PU SUB SUBJ PIV P ADVL ACC 
+fcl -> SUB P PRED N< 
+fcl -> PU PU SUB P ADVL SC ADVL 
+x -> SUB P SUBJ 
+fcl -> SUB SUBJ P PASS ACC 
+x -> SUBJ P ACC ADVL ACC 
+fcl -> PU PU PU PU ADVL ADVL SUBJ ADVL ACC P ADVL OC ADVL 
+fcl -> PU PU PU PU PU STA ACC P 
+fcl -> PU PU PU PU PU SUBJ ADVL N< ADVL SUBJ P ACC ADVL ADVL 
+fcl -> PU PU PU ADVL ADVL SUBJ P ADVL ACC ADVL ADVL 
+par -> PU PU CJT CO FOC CJT 
+fcl -> PU SUBJ ADVL SUBJ P ADVL ADVL SUBJ 
+fcl -> PU PU ADVL SUB PRED P ADVL 
+fcl -> PU >N PU SUBJ P ACC ADVL 
+fcl -> PU PU SUBJ P 
+icl -> ADVL ACC P SUBJ 
+np -> PU >N H N< PU N< 
+x -> SUBJ P ACC OC 
+fcl -> PU PU SUBJ SUBJ P SA ADVL 
+icl -> PASS P ADVL 
+fcl -> PU PU SUBJ P ADVL ADVL P< 
+fcl -> PU PU PU SUBJ ADVL ADVL P ACC KOMP< 
+np -> H PU N< PU QUE 
+fcl -> PU SUB SUBJ SUBJ P ACC ADVL ADVL ADVL 
+fcl -> N< SUBJ P 
+np -> PU ADVL SUBJ P ADVL APP 
+x -> >N P SC SUBJ 
+fcl -> PU PU PU ADVL X 
+fcl -> PU PU PU SUBJ ADVL P ADVL SC 
+x -> PU PRED SUBJ ADVL P ADVL PIV 
+icl -> PU CO P ADVL ADVL 
+fcl -> PU PU PU ADVL SUBJ ADVL P ADVL 
+fcl -> PU PRED SUBJ P ADVL ADVL 
+fcl -> PU PU PU PU TOP P PRED 
+x -> PU ADVL P SC SUBJ 
+cp -> H PIV 
+adjp -> SUBJ P ACC ADVL 
+x -> SUBJ ACC-PASS P ADVL 
+icl -> ADVL PAUX ACC ADVL 
+fcl -> SUBJ P AUX< 
+par -> PU PU PU PU CJT CJT UTT UTT UTT 
+fcl -> PU PU PU PU SUBJ P ADVL PRED OC 
+np -> >N H PU ACC-PASS P 
+fcl -> PU PU SUB ADVL SUBJ P 
+fcl -> PU SUBJ SUBJ CO P ACC 
+fcl -> PU SUBJ SUBJ P ADVL SA 
+adjp -> PU H A< 
+fcl -> ADVL P ADVL ACC SC 
+np -> H P SC ADVL 
+x -> PU SUBJ P ACC OC ADVL 
+x -> PU PU SUBJ P ADVL ADVL ADVL ADVL SUBJ 
+x -> PU PRED SUBJ P SC 
+x -> PU ADVL P SUBJ ADVL 
+icl -> ACC P OC ADVL 
+fcl -> PU FOC ADVL FOC SUBJ P ACC ACC 
+advp -> P ACC AS< 
+fcl -> PU PU ADVL P SC SUBJ ACC 
+par -> PU PU CJT CO CJT CO CJT CJT 
+icl -> SUBJ CO P ACC ADVL 
+fcl -> PU PU SC ADVL P ADVL 
+fcl -> PU PU ADVL PAUX SUBJ AUX< 
+advp -> P ACC ADVL SUBJ 
+fcl -> PU PU SUBJ ADVL P ADVL SUBJ ADVL 
+advp -> PU SUBJ ADVL P 
+fcl -> PU PU PU PU ADVL SUBJ P PIV 
+icl -> PU P SA ACC 
+x -> ADVL AUX< ACC PAUX ACC 
+x -> SUBJ P CJT 
+fcl -> PU ACC P SUBJ ADVL ADVL 
+fcl -> PU PU PU ADVL SUBJ P ADVL ACC 
+fcl -> PU PU PU PU PU SUBJ ADVL P ACC 
+fcl -> PU PU PU SUBJ ADVL P ADVL ADVL ACC PRED 
+icl -> PU P OC ACC ADVL 
+fcl -> PU SUBJ P OA ADVL 
+fcl -> PU PU PU P ADVL 
+x -> PU ADVL ADVL P 
+advp -> PU ADVL ACC ADVL P ADVL 
+fcl -> PU PU PU PU SUBJ P ADVL PIV ADVL 
+fcl -> PU PU ACC P PIV 
+adjp -> H PU ADVL 
+fcl -> SUB P SC PRED 
+adjp -> H ACC N< 
+fcl -> PU PU P ACC SC 
+fcl -> PU PU CO SUBJ ACC-PASS P ADVL 
+s -> VOC 
+fcl -> PU PU SUBJ SUBJ P ADVL SC 
+fcl -> PU PU CO ADVL P ACC ADVL ADVL P SC 
+fcl -> PU PU ADVL SUBJ P PASS PIV 
+fcl -> PU PU PU CO ADVL SUBJ P ACC UTT 
+np -> >N >N PU H >N 
+x -> PU PRED SUBJ SUBJ P ACC 
+icl -> OA P ACC 
+icl -> >N ADVL 
+fcl -> ACC ADVL P PIV S< 
+x -> PU ADVL SUBJ P ADVL ACC 
+x -> PU N< ADVL P ADVL 
+fcl -> PU SC ADVL P ADVL 
+icl -> PU SUBJ P ACC ADVL 
+fcl -> PU ACC SUBJ CO ADVL P ACC 
+fcl -> PU SUBJ P ADVL ACC PIV ADVL 
+x -> PU PU PU PRED P ACC ADVL ADVL ADVL ADVL 
+cp -> H DAT P ACC ADVL 
+advp -> PRED 
+np -> CJT 
+par -> H PU CJT APP 
+icl -> P ACC APP 
+fcl -> SUBJ SUB ADVL P ADVL 
+x -> ADVL SUBJ P ADVL PIV 
+np -> >N H PU ACC 
+fcl -> PU PRED ADVL SUBJ P SC ACC 
+icl -> P OC ADVL SC 
+fcl -> PU PU PU ADVL SUBJ SUBJ P ACC-PASS P ACC 
+fcl -> SUBJ P OC ADVL ACC 
+fcl -> DAT PU SUBJ P ADVL 
+fcl -> PU PU ADVL SUBJ SUBJ P OC ACC 
+fcl -> PU P ADVL SC SUBJ ACC 
+fcl -> SUB SUBJ ADVL P OC ACC PIV 
+x -> SUBJ ADVL P ACC ADVL A< 
+fcl -> SUBJ SUB ADVL P OC ACC ADVL 
+par -> PU PU PU CJT CJT CO FOC CJT 
+fcl -> ADVL PU PU SUBJ P SC 
+np -> >N H MV 
+fcl -> PU SUBJ ACC ADVL ADVL P ADVL 
+np -> H PU STA 
+fcl -> ACC PIV SUBJ P ADVL 
+np -> H PU N< PRED 
+np -> >N H PU PU ADVL 
+fcl -> PU N< PU ADVL SUBJ P ADVL 
+fcl -> PU ADVL >N PU SUBJ SUBJ P ADVL 
+fcl -> PRED P 
+x -> SUB SUBJ SUBJ PRED 
+cp -> H ACC P PIV 
+pp -> H PU P< P ACC PIV 
+fcl -> ACC P ADVL PRED ADVL 
+np -> >N H PU N< AS< 
+fcl -> CO PRED P ACC SUBJ ADVL 
+x -> H PU STA 
+fcl -> PU PU SUB SUBJ ADVL P ACC ADVL SC 
+icl -> PU CO P ACC 
+fcl -> SUBJ SUB P SC UTT 
+fcl -> PU PU PRED P SC 
+fcl -> PU PU ADVL SUBJ P PIV ACC PRED 
+x -> PU PU SUBJ ADVL P PIV 
+fcl -> PU PU ACC SUBJ P ACC PRED ADVL 
+x -> SUBJ ADVL ACC P 
+fcl -> PU PU PU PU CO ADVL SUBJ P ACC PIV ADVL 
+fcl -> PU CO ACC P PIV 
+fcl -> ADVL FOC SUBJ P PIV 
+fcl -> PU SUB SUBJ ADVL P ADVL 
+fcl -> PU SUBJ P ACC ADVL PRED 
+x -> ADVL P PRED ADVL 
+x -> ADVL P ACC SC ADVL 
+par -> PU PU CJT CJT CO CJT CJT CO CJT 
+np -> H PU P ACC ADVL ADVL 
+fcl -> PU ADVL >N PU PU ADVL CO SUBJ P ACC PIV ADVL ADVL 
+x -> PU PU P ADVL ACC 
+fcl -> PU PU PU PU SUBJ ACC P ADVL ADVL ADVL 
+fcl -> SUBJ P ADVL ACC OC 
+fcl -> PU PU SUBJ ADVL N<PRED P PASS 
+fcl -> PU PU CO SUBJ ADVL ADVL P SC 
+icl -> CO ACC P PIV 
+fcl -> PU PU PU CO ADVL P ADVL SC SUBJ UTT 
+icl -> PU ACC ADVL P ACC ADVL 
+fcl -> PU PU ADVL ADVL ADVL PRED SUBJ FOC SUBJ ADVL P ACC 
+fcl -> PU PRED FOC P ADVL 
+fcl -> DAT SUBJ P ACC PIV 
+adjp -> H P ACC 
+fcl -> PU PU PRED ADVL P SC 
+x -> N< PU ADVL P SC SUBJ 
+pp -> H PU PU P< UTT UTT STA 
+fcl -> PU PU PU PU ADVL SUBJ P ADVL SC ADVL 
+fcl -> PU PU PU PU ADVL SUBJ P ADVL PIV ADVL 
+fcl -> PU SC P ADVL ADVL 
+fcl -> SUBJ ACC ADVL P ADVL ADVL 
+pp -> H P< >N 
+x -> N< SUBJ P ACC ADVL 
+x -> SUBJ UTT 
+pp -> >N H P< N< 
+np -> PU N< ADVL 
+fcl -> P ADVL SC 
+x -> SUBJ SUB P ADVL 
+icl -> PU P PRED PRED P 
+fcl -> PU PU SUBJ ADVL P ACC OA ADVL 
+x -> ADVL ACC-PASS P PIV 
+fcl -> SUB SUBJ P SC UTT 
+cp -> H ADVL PAUX ACC ADVL 
+x -> PU PU AUX< ACC PAUX CJT 
+x -> PU PRED P SC 
+advp -> PU SUBJ P PIV 
+np -> H PU PU N< QUE 
+fcl -> PU PU PU P ACC ADVL ADVL PRED 
+pp -> H P< SUB 
+np -> H P PIV ADVL 
+x -> PU ADVL P ACC ADVL 
+fcl -> PU PU PRED ADVL SUBJ P ADVL SA ADVL 
+adjp -> >N H ACC 
+fcl -> PU SUB P ACC ADVL ADVL ADVL 
+fcl -> PU PU PU SUBJ P PIV P< ACC 
+fcl -> PU PU PU ADVL SUBJ SUBJ ADVL CO P ACC 
+fcl -> PU PU SUBJ SUBJ P ACC ADVL ADVL ADVL 
+x -> P SA ACC 
+fcl -> PU PU PU SUBJ ADVL ACC P PIV ADVL 
+fcl -> PU SUBJ ADVL P PASS ADVL SC 
+x -> ADVL SUBJ ADVL ACC P 
+fcl -> P OA 
+np -> >N H >N N<PRED 
+icl -> ADVL ACC P OA PIV 
+fcl -> PU PU PU SUBJ ADVL ADVL ADVL SUBJ P ADVL 
+fcl -> PU PU SUBJ P ACC ADVL ACC 
+fcl -> PU PU PU PU STA ACC P SUBJ 
+fcl -> PU PU PU SUBJ P SC ADVL SUBJ ADVL 
+x -> P ADVL ACC ADVL ADVL 
+fcl -> SUB SC X 
+np -> H N< PU >N 
+fcl -> ADVL SUBJ ADVL P ADVL ADVL 
+fcl -> PU SUBJ P SUBJ ADVL ADVL 
+fcl -> PU P ACC-PASS PIV ADVL ADVL 
+fcl -> PU PU SUBJ ADVL PAUX AUX< 
+np -> >N H N< ADVL P ACC 
+fcl -> ADVL PU PU PU PU SUBJ P PIV ADVL ADVL UTT 
+pp -> H H PU P< APP 
+np -> >N >N PU PU ADVL P ACC QUE 
+pp -> PU H PU P< SUBJ 
+fcl -> PU PU PU ADVL PRED P SUBJ ACC PIV 
+icl -> PU CO P ACC ADVL 
+np -> >N >N H PU NPHR 
+fcl -> PU PU PU PU CO ADVL SUBJ P PIV 
+np -> H PU N< APP 
+fcl -> PU PU STA STA STA 
+x -> PU PU ADVL P ACC P 
+par -> PU PU PU PU PU CJT CO CJT 
+fcl -> ADVL P ADVL ADVL ADVL 
+icl -> PU P ACC QUE 
+fcl -> PU PU PU PU PU PU PU P SC NPHR ADVL 
+fcl -> PU PU SUB ADVL PAUX AUX< 
+fcl -> PU PU SUBJ CO CJT SUBJ X 
+fcl -> PU PU ADVL SUBJ ACC-PASS P PIV 
+fcl -> PREF PU SUB SUBJ P 
+icl -> PU ADVL ACC PRED P 
+fcl -> SUB P PRED PRED 
+fcl -> PU ADVL SUBJ P ACC PRED 
+adjp -> PU P ACC ADVL 
+fcl -> SUBJ ADVL P SA ADVL ACC 
+fcl -> PU PU SUBJ P OC ACC 
+icl -> P CO ACC 
+fcl -> PU PU PU PU SUBJ ADVL ADVL SUBJ P PIV 
+fcl -> SUB SUBJ ADVL P SC N< 
+icl -> P ACC SC 
+fcl -> PU PU PU PU FOC ADVL ACC SUBJ FOC SUBJ P ACC ADVL 
+icl -> PU PU ADVL P PASS ADVL ADVL 
+fcl -> PU PU PU PU ADVL SUBJ P SUBJ ADVL ADVL ADVL 
+advp -> PU P PIV 
+fcl -> SC SUBJ ADVL P 
+np -> H PU CO N< UTT 
+fcl -> PU PU PU SUBJ ADVL SUBJ P ACC STA 
+fcl -> PU SUBJ P ACC ADVL ADVL ADVL ADVL 
+fcl -> PU PU PU SUB SUBJ ADVL P ACC 
+fcl -> ACC SUBJ P UTT 
+fcl -> SUBJ P ADVL PIV PIV 
+x -> PU PU SUBJ P ACC PIV ADVL ADVL 
+x -> SUBJ P ADVL PIV ADVL 
+advp -> H PU A< 
+fcl -> PU PU PU PU ADVL P 

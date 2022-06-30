@@ -1,7 +1,6 @@
 #include "grammar/pcfg.hpp"
 #include "grammar/cky.hpp"
 #include "rules.hpp"
-#include <boost/type_traits/add_reference.hpp>
 #include <gtest/gtest.h>
 
 #include <iostream>

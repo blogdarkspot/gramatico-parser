@@ -1,0 +1,18 @@
+# ninja log v5
+7	128	6779245641685183	lib/gtestd.lib	c6ce4b69b2ad1df8
+1	236	6779245438607143	src/grammar/CMakeFiles/gparser.dir/dummy.cpp.obj	2d3387cf03ece358
+11	817	6779245444397177	tests/extern/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	91bd260b95540a1b
+12	1175	6779245447977118	tests/extern/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	a3e970402c2c656a
+237	290	6779245439107156	src/grammar/gparser.lib	d8e311e896b47d16
+1396	1807	6779245659205183	tests/grammar_test[1]_tests.cmake	e828a92d8bfe21ef
+17	742	6779245443667163	tests/extern/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	c7dfb25a0c0181e6
+8	1200	6779245448227119	tests/extern/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	ef3e721309f219c8
+6	1680	6779245453007125	tests/extern/googletest/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	8ab3bf0c4ebb137
+5	1675	6779245452957145	tests/extern/googletest/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	e1f7043fac1801b7
+15	1722	6779245453427116	tests/extern/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	c02b5b2f8435fa62
+4	109	6779245641615200	lib/gmockd.lib	82ac887fafe578ff
+6	130	6779245641695190	lib/gmock_maind.lib	91f5853da8321e2
+128	154	6779245642655198	lib/gtest_maind.lib	83fad0572a0f33dc
+1	1396	6779245655065193	tests/CMakeFiles/grammar_test.dir/grammar_tests.cpp.obj	849cdf75bec5b1e6
+1396	1807	6779245659205183	tests/grammar_test.exe	e828a92d8bfe21ef
+1396	1807	6779245659205183	C:/projects/pessoal/gramatico-parser/out/build/x64-Debug/tests/grammar_test[1]_tests.cmake	e828a92d8bfe21ef

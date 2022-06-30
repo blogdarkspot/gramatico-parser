@@ -1,0 +1,5 @@
+if(EXISTS "C:/projects/pessoal/gramatico-parser/out/build/x64-Debug/tests/grammar_test[1]_tests.cmake")
+  include("C:/projects/pessoal/gramatico-parser/out/build/x64-Debug/tests/grammar_test[1]_tests.cmake")
+else()
+  add_test(grammar_test_NOT_BUILT grammar_test_NOT_BUILT)
+endif()
